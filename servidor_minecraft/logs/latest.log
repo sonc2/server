@@ -3985,3 +3985,6 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 21:31:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A Throwaway Joke]
 [30Dec2024 21:35:06.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [You Are A Pirate]
 [30Dec2024 21:36:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Lore Writer]
+[30Dec2024 21:39:03.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 21:39:05.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 21:55:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Flawless Crystals]
