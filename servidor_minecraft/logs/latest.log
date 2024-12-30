@@ -3988,3 +3988,4 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 21:39:03.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
 [30Dec2024 21:39:05.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
 [30Dec2024 21:55:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Flawless Crystals]
+[30Dec2024 22:07:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Adventurer ]
