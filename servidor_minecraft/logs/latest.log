@@ -3942,3 +3942,36 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 20:54:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Elemental Might]
 [30Dec2024 20:54:43.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/416, l='ServerLevel[world]', x=181.22, y=28.50, z=211.26] died: Yomach the Toxic was slain by jefferson_pad
 [30Dec2024 20:55:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Tools of the Trade]
+[30Dec2024 21:00:25.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Centennial]
+[30Dec2024 21:04:36.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Disconnected
+[30Dec2024 21:04:36.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[30Dec2024 21:06:52.457] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[30Dec2024 21:06:52.623] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[30Dec2024 21:06:52.623] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[30Dec2024 21:06:52.667] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[30Dec2024 21:06:52.789] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[30Dec2024 21:06:52.789] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[30Dec2024 21:06:52.789] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[30Dec2024 21:06:52.817] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[30Dec2024 21:06:52.953] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[30Dec2024 21:06:52.954] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[30Dec2024 21:06:52.954] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[30Dec2024 21:06:53.039] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[30Dec2024 21:06:53.853] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[30Dec2024 21:06:53.937] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[30Dec2024 21:06:54.286] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[30Dec2024 21:06:54.377] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20a00115
+[30Dec2024 21:06:54.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.122.0.154:43949] logged in with entity id 19299 at (181.38146485666542, 27.0, 271.2306831024921)
+[30Dec2024 21:06:54.439] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[30Dec2024 21:06:54.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[30Dec2024 21:06:54.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[30Dec2024 21:06:54.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[30Dec2024 21:06:54.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[30Dec2024 21:06:54.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[30Dec2024 21:06:54.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[30Dec2024 21:06:54.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[30Dec2024 21:06:54.554] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[30Dec2024 21:06:54.635] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[30Dec2024 21:06:54.636] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[30Dec2024 21:06:54.636] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 21:06:54.636] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
