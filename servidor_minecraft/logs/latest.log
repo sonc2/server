@@ -3989,3 +3989,28 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 21:39:05.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
 [30Dec2024 21:55:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Flawless Crystals]
 [30Dec2024 22:07:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Adventurer ]
+[30Dec2024 22:09:56.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Ignoring the Advices]
+[30Dec2024 22:10:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad withered away
+[30Dec2024 22:11:08.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Best Friends Forever]
+[30Dec2024 22:11:08.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[30Dec2024 22:11:08.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[30Dec2024 22:11:08.605] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[30Dec2024 22:11:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Gotta Catch 'em All!]
+[30Dec2024 22:13:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Crops of the Wild]
+[30Dec2024 22:13:49.959] [Worker-Main268/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[30Dec2024 22:13:57.365] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.732] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.732] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.733] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.733] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.733] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.733] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:13:58.733] [Worker-Main315/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[30Dec2024 22:14:44.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[30Dec2024 22:19:26.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[30Dec2024 22:19:26.124] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[30Dec2024 22:24:26.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Ericson the Errant
+[30Dec2024 22:27:28.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Into Fire]
+[30Dec2024 22:27:28.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Ice Bucket Challenge]
+[30Dec2024 22:28:08.535] [Worker-Main268/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Dec2024 22:28:58.184] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions

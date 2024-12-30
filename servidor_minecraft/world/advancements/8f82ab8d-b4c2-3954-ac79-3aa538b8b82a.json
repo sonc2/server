@@ -660,9 +660,11 @@
     "criteria": {
       "minecraft:pillager": "2024-12-30 21:35:18 +0000",
       "minecraft:skeleton": "2024-12-30 19:38:04 +0000",
+      "minecraft:ravager": "2024-12-30 22:17:42 +0000",
       "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
       "minecraft:creeper": "2024-12-30 18:56:18 +0000",
+      "minecraft:evoker": "2024-12-30 22:19:44 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000",
       "minecraft:drowned": "2024-12-30 19:35:44 +0000"
     },
@@ -673,6 +675,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-12-30 22:27:28 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
@@ -874,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 22:11:08 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -906,7 +920,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "ratatouille": "2024-12-30 21:29:32 +0000"
+      "ratatouille": "2024-12-30 21:29:32 +0000",
+      "bacon_and_eggs": "2024-12-30 22:14:25 +0000"
     },
     "done": false
   },
@@ -1057,6 +1072,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-30 21:31:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-12-30 22:13:21 +0000"
     },
     "done": true
   },
@@ -1247,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-30 22:27:28 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1381,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-30 22:27:28 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1402,7 +1435,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-30 18:57:39 +0000",
-      "minecraft:ocean": "2024-12-30 19:49:33 +0000"
+      "minecraft:forest": "2024-12-30 22:14:02 +0000",
+      "minecraft:ocean": "2024-12-30 19:49:33 +0000",
+      "minecraft:plains": "2024-12-30 22:15:32 +0000"
     },
     "done": false
   },
@@ -1414,21 +1449,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2024-12-30 22:06:47 +0000",
-      "!bit14": "2024-12-30 22:06:47 +0000",
-      "!bit11": "2024-12-30 22:06:47 +0000",
-      "!bit12": "2024-12-30 22:06:47 +0000",
-      "!bit10": "2024-12-30 22:06:47 +0000",
-      "!bit9": "2024-12-30 22:06:47 +0000",
-      "!bit8": "2024-12-30 22:06:47 +0000",
-      "!bit7": "2024-12-30 22:06:47 +0000",
-      "!bit6": "2024-12-30 22:06:47 +0000",
-      "!bit5": "2024-12-30 22:06:47 +0000",
-      "!bit4": "2024-12-30 22:06:47 +0000",
-      "!bit3": "2024-12-30 22:06:47 +0000",
-      "!bit2": "2024-12-30 22:06:47 +0000",
-      "!bit1": "2024-12-30 22:06:47 +0000",
-      "!bit0": "2024-12-30 22:06:47 +0000"
+      "!bit13": "2024-12-30 22:26:33 +0000",
+      "!bit14": "2024-12-30 22:26:33 +0000",
+      "!bit11": "2024-12-30 22:26:33 +0000",
+      "!bit12": "2024-12-30 22:26:33 +0000",
+      "!bit10": "2024-12-30 22:26:33 +0000",
+      "!bit9": "2024-12-30 22:26:33 +0000",
+      "!bit8": "2024-12-30 22:26:33 +0000",
+      "!bit7": "2024-12-30 22:26:33 +0000",
+      "!bit6": "2024-12-30 22:26:33 +0000",
+      "!bit5": "2024-12-30 22:26:33 +0000",
+      "!bit4": "2024-12-30 22:26:33 +0000",
+      "!bit3": "2024-12-30 22:26:33 +0000",
+      "!bit2": "2024-12-30 22:26:33 +0000",
+      "!bit1": "2024-12-30 22:26:33 +0000",
+      "!bit0": "2024-12-30 22:26:33 +0000"
     },
     "done": false
   },
@@ -1449,6 +1484,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/unholy_grail": {
+    "criteria": {
+      "spellstone": "2024-12-30 22:09:56 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -1681,6 +1722,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:certificate_of_taming": {
+    "criteria": {
+      "picked_up_accessory": "2024-12-30 22:11:08 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1714,6 +1761,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-30 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/unholy_grail": {
+    "criteria": {
+      "has_items": "2024-12-30 22:09:48 +0000"
     },
     "done": true
   },
