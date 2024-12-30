@@ -3927,3 +3927,6 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 20:10:23.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [30Dec2024 20:10:23.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [30Dec2024 20:14:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Spooky Scary Skeleton]
+[30Dec2024 20:47:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A breath of fresh air]
+[30Dec2024 20:47:27.533] [Worker-Main221/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[30Dec2024 20:47:49.567] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
