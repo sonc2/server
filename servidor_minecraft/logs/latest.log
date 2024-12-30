@@ -3829,3 +3829,46 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 19:47:50.083] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Dec2024 19:47:50.083] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Dec2024 19:47:50.083] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 19:48:14.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Barrel Booty]
+[30Dec2024 19:48:20.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> esta bien alto xD
+[30Dec2024 19:48:23.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Ol' Betsy]
+[30Dec2024 19:48:23.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Take Aim]
+[30Dec2024 19:48:52.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Far From Perfect]
+[30Dec2024 19:49:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> AHI CAE
+[30Dec2024 19:49:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Suit Up]
+[30Dec2024 19:49:59.477] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Dec2024 19:50:01.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[30Dec2024 19:50:01.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[30Dec2024 19:50:04.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Isn't It Iron Pick]
+[30Dec2024 19:50:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Let's Get To Work]
+[30Dec2024 19:50:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine fell from a high place
+[30Dec2024 19:50:11.287] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 89.52236690932553, Y: 65.0, Z: 68.77282624406152
+[30Dec2024 19:50:18.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD ?
+[30Dec2024 19:50:37.935] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/7715, l='ServerLevel[world]', x=89.52, y=66.50, z=68.77]
+[30Dec2024 19:50:37.935] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/7715, l='ServerLevel[world]', x=89.52, y=66.50, z=68.77]
+[30Dec2024 19:50:51.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[30Dec2024 19:51:15.218] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 19:51:15.219] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[30Dec2024 19:52:10.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Close Quarters]
+[30Dec2024 19:52:21.156] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 19:52:21.157] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 19:52:21.157] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 19:52:21.158] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 19:52:51.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> NADA BUENO ME DIO :c
+[30Dec2024 19:53:06.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Ice Bucket Challenge]
+[30Dec2024 19:53:27.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> zzz
+[30Dec2024 19:53:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Sweet Dreams]
+[30Dec2024 19:53:51.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> zz
+[30Dec2024 19:54:14.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> te colocaste el cinturon ?
+[30Dec2024 19:54:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> creo que si
+[30Dec2024 19:54:25.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> estas maldecido
+[30Dec2024 19:54:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xd
+[30Dec2024 19:54:59.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Close Quarters]
+[30Dec2024 19:56:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine fell from a high place
+[30Dec2024 19:56:31.281] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 63.28720263853933, Y: 237.5, Z: 12.4692184625346
+[30Dec2024 19:56:50.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya bajas ?
+[30Dec2024 19:56:57.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> no
+[30Dec2024 19:57:21.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Broald the Funky'/10610, l='ServerLevel[world]', x=111.20, y=62.60, z=70.57] died: Broald the Funky was slain by jefferson_pad
+[30Dec2024 19:57:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> yo ya espero aca
+[30Dec2024 19:57:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entraste al barco ?
+[30Dec2024 19:57:54.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> revise un par de cofres

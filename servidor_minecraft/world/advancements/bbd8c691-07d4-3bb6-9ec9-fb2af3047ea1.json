@@ -273,6 +273,7 @@
   },
   "enigmaticlegacy:book/soul_loss": {
     "criteria": {
+      "incompletable": "2024-12-30 19:50:11 +0000",
       "is_cursed_one": "2024-12-30 19:41:24 +0000"
     },
     "done": true
@@ -441,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 19:53:49 +0000"
+    },
+    "done": true
+  },
   "vinery:loam_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -515,6 +522,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-30 19:48:14 +0000",
       "opened_chest": "2024-12-30 19:34:13 +0000"
     },
     "done": false
@@ -591,6 +599,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-30 19:48:52 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_sign": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -645,6 +659,12 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-30 19:54:59 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -684,6 +704,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-30 19:48:14 +0000"
     },
     "done": true
   },
@@ -1031,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-30 19:53:06 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1194,6 +1226,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-30 19:48:23 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 19:12:18 +0000"
@@ -1230,12 +1268,6 @@
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-12-30 19:44:09 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1320,6 +1352,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-30 19:48:23 +0000"
     },
     "done": true
   },

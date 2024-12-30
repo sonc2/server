@@ -394,6 +394,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-30 19:49:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -633,6 +639,13 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2024-12-30 19:50:11 +0000",
+      "blastfurnace": "2024-12-30 19:55:11 +0000"
+    },
+    "done": false
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-12-30 15:58:53 +0000"
@@ -668,6 +681,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-30 19:52:10 +0000"
+    },
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -1013,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-30 19:50:04 +0000"
+    },
+    "done": true
+  },
   "undead_unleashed:boo": {
     "criteria": {
       "boo": "2024-12-30 19:07:51 +0000"
@@ -1209,7 +1234,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-30 18:57:39 +0000"
+      "minecraft:river": "2024-12-30 18:57:39 +0000",
+      "minecraft:ocean": "2024-12-30 19:49:33 +0000"
     },
     "done": false
   },
@@ -1218,6 +1244,12 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-12-30 19:57:27 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1477,6 +1509,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-30 19:07:21 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2024-12-30 19:50:11 +0000"
     },
     "done": true
   },
