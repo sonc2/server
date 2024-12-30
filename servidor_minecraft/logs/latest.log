@@ -3872,3 +3872,53 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 19:57:36.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> yo ya espero aca
 [30Dec2024 19:57:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entraste al barco ?
 [30Dec2024 19:57:54.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> revise un par de cofres
+[30Dec2024 19:58:25.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> muchos magos xd
+[30Dec2024 19:59:34.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> esta invisible
+[30Dec2024 19:59:35.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xd
+[30Dec2024 19:59:46.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Diamonds!]
+[30Dec2024 19:59:46.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Barrel Booty]
+[30Dec2024 19:59:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has reached the goal [Worthy Equipment]
+[30Dec2024 20:00:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Diamonds!]
+[30Dec2024 20:01:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Vindicator
+[30Dec2024 20:01:11.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 92.48750001192093, Y: 71.0, Z: 27.69999998807907
+[30Dec2024 20:01:22.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved too quickly! 1.554888617260339,-16.004313807115437,0.227984953934385
+[30Dec2024 20:01:22.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine was kicked for floating too long!
+[30Dec2024 20:01:22.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Flying is not enabled on this server
+[30Dec2024 20:01:22.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[30Dec2024 20:01:23.029] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 20:01:43.176] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[30Dec2024 20:01:43.319] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[30Dec2024 20:01:43.319] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[30Dec2024 20:01:43.320] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[30Dec2024 20:01:43.471] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[30Dec2024 20:01:43.477] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[30Dec2024 20:01:43.477] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[30Dec2024 20:01:43.624] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[30Dec2024 20:01:43.624] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[30Dec2024 20:01:43.624] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[30Dec2024 20:01:43.728] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[30Dec2024 20:01:43.771] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[30Dec2024 20:01:44.325] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[30Dec2024 20:01:44.328] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[30Dec2024 20:01:44.350] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[30Dec2024 20:01:44.449] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f46e173
+[30Dec2024 20:01:44.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:52449] logged in with entity id 12081 at (34.35623230969333, 145.64979617801745, 27.605695648791873)
+[30Dec2024 20:01:44.508] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[30Dec2024 20:01:44.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[30Dec2024 20:01:44.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[30Dec2024 20:01:44.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[30Dec2024 20:01:44.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[30Dec2024 20:01:44.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[30Dec2024 20:01:44.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[30Dec2024 20:01:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[30Dec2024 20:01:44.669] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[30Dec2024 20:01:44.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[30Dec2024 20:01:44.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[30Dec2024 20:01:44.771] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Dec2024 20:01:44.772] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[30Dec2024 20:02:12.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/423, l='ServerLevel[world]', x=56.48, y=247.78, z=3.50] died, message: 'Toolsmith tried to swim in lava'
+[30Dec2024 20:03:44.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Timed out
+[30Dec2024 20:03:44.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[30Dec2024 20:04:24.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Penteconter]
+[30Dec2024 20:05:50.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/386, l='ServerLevel[world]', x=56.49, y=247.67, z=3.51] died, message: 'Toolsmith tried to swim in lava'
+[30Dec2024 20:06:49.378] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4897a0ac

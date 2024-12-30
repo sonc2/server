@@ -61,9 +61,10 @@
   },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 19:07:21 +0000"
+      "has_parent_recipe": "2024-12-30 19:07:21 +0000",
+      "has_items": "2024-12-30 20:00:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -219,6 +220,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 20:00:30 +0000"
     },
     "done": true
   },
@@ -478,6 +485,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2024-12-30 20:07:23 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-30 19:10:27 +0000"
@@ -528,6 +541,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-30 19:59:46 +0000",
       "opened_chest": "2024-12-30 19:06:47 +0000"
     },
     "done": false
@@ -688,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-30 20:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-30 19:06:55 +0000"
@@ -727,6 +747,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-30 19:59:46 +0000"
     },
     "done": true
   },
@@ -983,6 +1009,12 @@
       "royal_variations_achievement": "2024-12-30 19:34:48 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-30 20:00:30 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
@@ -1247,7 +1279,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2024-12-30 19:57:27 +0000"
+      "direct": "2024-12-30 20:06:32 +0000"
     },
     "done": false
   },
@@ -1437,6 +1469,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-30 20:04:24 +0000"
     },
     "done": true
   },
