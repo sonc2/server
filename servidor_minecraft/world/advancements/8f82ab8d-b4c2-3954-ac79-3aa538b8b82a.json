@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "apotheotic_additions:main/tower": {
+    "criteria": {
+      "enter_tower": "2024-12-30 19:33:19 +0000"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -256,7 +262,8 @@
     "criteria": {
       "cooked_porkchop": "2024-12-30 18:54:12 +0000",
       "cooked_mutton": "2024-12-30 19:29:12 +0000",
-      "apple": "2024-12-30 19:18:56 +0000"
+      "apple": "2024-12-30 19:18:56 +0000",
+      "golden_apple": "2024-12-30 19:39:30 +0000"
     },
     "done": false
   },
@@ -345,6 +352,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 19:35:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -354,6 +367,12 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-30 19:35:03 +0000"
     },
     "done": false
   },
@@ -387,9 +406,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-30 19:40:17 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:07:21 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2024-12-30 19:38:05 +0000"
     },
     "done": true
   },
@@ -539,9 +570,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-30 19:38:04 +0000",
       "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
+      "minecraft:spider": "2024-12-30 19:35:09 +0000",
       "minecraft:creeper": "2024-12-30 18:56:18 +0000",
-      "minecraft:zombie": "2024-12-30 18:51:21 +0000"
+      "minecraft:zombie": "2024-12-30 18:51:21 +0000",
+      "minecraft:drowned": "2024-12-30 19:35:44 +0000"
     },
     "done": false
   },
@@ -866,9 +900,10 @@
   },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 19:07:21 +0000"
+      "has_parent_recipe": "2024-12-30 19:07:21 +0000",
+      "has_items": "2024-12-30 19:35:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:root": {
     "criteria": {
@@ -924,9 +959,21 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2024-12-30 19:34:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2024-12-30 19:34:48 +0000"
     },
     "done": true
   },
@@ -1125,7 +1172,8 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2024-12-30 15:58:55 +0000",
-      "byg:orchard": "2024-12-30 18:54:59 +0000"
+      "byg:orchard": "2024-12-30 18:54:59 +0000",
+      "byg:basalt_barrera": "2024-12-30 19:35:28 +0000"
     },
     "done": false
   },
@@ -1170,12 +1218,6 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-12-30 19:29:32 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1231,6 +1273,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-12-30 19:47:05 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/avarice_scroll": {
     "criteria": {
