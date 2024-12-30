@@ -3982,3 +3982,6 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 21:23:11.645] [Worker-Main268/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Dec2024 21:26:24.861] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
 [30Dec2024 21:26:26.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[30Dec2024 21:31:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A Throwaway Joke]
+[30Dec2024 21:35:06.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [You Are A Pirate]
+[30Dec2024 21:36:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Lore Writer]

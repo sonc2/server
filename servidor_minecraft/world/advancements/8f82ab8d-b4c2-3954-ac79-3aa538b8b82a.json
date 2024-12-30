@@ -463,6 +463,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 21:36:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -496,6 +502,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2024-12-30 21:36:21 +0000"
     },
     "done": true
   },
@@ -646,6 +658,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-30 21:35:18 +0000",
       "minecraft:skeleton": "2024-12-30 19:38:04 +0000",
       "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
@@ -879,6 +892,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "ratatouille": "2024-12-30 21:29:32 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -987,9 +1006,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2024-12-30 21:36:07 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-30 21:35:06 +0000"
     },
     "done": true
   },
@@ -1008,6 +1039,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-30 21:31:13 +0000"
     },
     "done": true
   },
@@ -1365,7 +1402,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2024-12-30 21:23:47 +0000"
+      "!bit13": "2024-12-30 21:37:41 +0000",
+      "!bit14": "2024-12-30 21:37:41 +0000",
+      "!bit11": "2024-12-30 21:37:41 +0000",
+      "!bit12": "2024-12-30 21:37:41 +0000",
+      "!bit10": "2024-12-30 21:37:41 +0000",
+      "!bit9": "2024-12-30 21:37:41 +0000",
+      "!bit8": "2024-12-30 21:37:41 +0000",
+      "!bit7": "2024-12-30 21:37:41 +0000",
+      "!bit6": "2024-12-30 21:37:41 +0000",
+      "!bit5": "2024-12-30 21:37:41 +0000",
+      "!bit4": "2024-12-30 21:37:41 +0000",
+      "!bit3": "2024-12-30 21:37:41 +0000",
+      "!bit2": "2024-12-30 21:37:41 +0000",
+      "!bit1": "2024-12-30 21:37:41 +0000",
+      "!bit0": "2024-12-30 21:37:41 +0000"
     },
     "done": false
   },
@@ -1452,6 +1503,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_inscriber": {
+    "criteria": {
+      "has_recipe_result": "2024-12-30 21:36:07 +0000"
     },
     "done": true
   },
@@ -1567,6 +1624,12 @@
   "totw_modded:regular_tower": {
     "criteria": {
       "regular": "2024-12-30 20:47:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-30 21:29:32 +0000"
     },
     "done": true
   },
