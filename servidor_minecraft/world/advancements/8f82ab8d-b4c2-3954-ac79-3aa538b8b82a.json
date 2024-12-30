@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-30 18:58:25 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2024-12-30 18:55:28 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -210,6 +222,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-30 18:54:12 +0000"
+    },
+    "done": false
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -249,6 +267,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-30 18:57:50 +0000"
     },
     "done": true
   },
@@ -342,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 18:59:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-12-30 15:58:53 +0000"
@@ -357,6 +387,12 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 18:54:12 +0000"
     },
     "done": true
   },
@@ -428,6 +464,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
+      "minecraft:creeper": "2024-12-30 18:56:18 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000"
     },
     "done": false
@@ -552,6 +590,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-30 18:54:40 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
@@ -648,6 +692,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-12-30 18:56:38 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-30 15:58:53 +0000"
@@ -681,6 +731,12 @@
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-30 18:58:25 +0000"
     },
     "done": true
   },
@@ -816,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-30 18:56:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -926,7 +988,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
-      "byg:allium_fields": "2024-12-30 15:58:55 +0000"
+      "byg:allium_fields": "2024-12-30 15:58:55 +0000",
+      "byg:orchard": "2024-12-30 18:54:59 +0000"
     },
     "done": false
   },
@@ -954,31 +1017,23 @@
     },
     "done": false
   },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 18:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-30 18:57:39 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2024-12-30 18:52:28 +0000",
-      "!bit14": "2024-12-30 18:52:28 +0000",
-      "!bit11": "2024-12-30 18:52:28 +0000",
-      "!bit12": "2024-12-30 18:52:28 +0000",
-      "!bit10": "2024-12-30 18:52:28 +0000",
-      "!bit9": "2024-12-30 18:52:28 +0000",
-      "!bit8": "2024-12-30 18:52:28 +0000",
-      "!bit7": "2024-12-30 18:52:28 +0000",
-      "!bit6": "2024-12-30 18:52:28 +0000",
-      "!bit5": "2024-12-30 18:52:28 +0000",
-      "!bit4": "2024-12-30 18:52:28 +0000",
-      "!bit3": "2024-12-30 18:52:28 +0000",
-      "!bit2": "2024-12-30 18:52:28 +0000",
-      "!bit1": "2024-12-30 18:52:28 +0000",
-      "!bit0": "2024-12-30 18:52:28 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1112,6 +1167,12 @@
   "vinery:campfire": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-30 18:55:28 +0000"
     },
     "done": true
   },

@@ -3709,3 +3709,21 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 18:55:32.379] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Dec2024 18:55:32.379] [Worker-Main10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [30Dec2024 18:55:33.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[30Dec2024 18:57:38.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[30Dec2024 18:57:44.136] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[30Dec2024 18:57:50.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Hunted]
+[30Dec2024 18:57:54.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Vice-Chancellor Lydia the Rejected using    [Lydia's Infernal Wooden Dicer of Bloodletting]
+[30Dec2024 18:58:24.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Vice-Chancellor Lydia the Rejected'/2410, l='ServerLevel[world]', x=78.63, y=62.52, z=102.81] died: Vice-Chancellor Lydia the Rejected was slain by jefferson_pad
+[30Dec2024 18:58:25.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Worthy Equipment]
+[30Dec2024 18:58:25.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [He Wasn't So Strong]
+[30Dec2024 18:59:15.613] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[30Dec2024 18:59:15.615] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[30Dec2024 18:59:15.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Sweet Dreams]
+[30Dec2024 19:01:11.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=63, z=123} BlockPos{x=84, y=63, z=123}
+[30Dec2024 19:06:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement ['X' Marks the Spot]
+[30Dec2024 19:06:47.391] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[30Dec2024 19:06:47.392] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md35f664$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[30Dec2024 19:06:51.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Not a Diamond]
+[30Dec2024 19:06:55.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Getting an Upgrade]
+[30Dec2024 19:06:55.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [I Found It Underground]
+[30Dec2024 19:07:21.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Acquire Hardware]
