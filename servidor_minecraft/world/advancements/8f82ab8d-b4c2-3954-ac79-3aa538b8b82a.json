@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-30 20:14:28 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:35:03 +0000"
@@ -1276,12 +1282,6 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-12-30 20:06:32 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {

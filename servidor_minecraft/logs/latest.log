@@ -3922,3 +3922,8 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 20:04:24.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Penteconter]
 [30Dec2024 20:05:50.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/386, l='ServerLevel[world]', x=56.49, y=247.67, z=3.51] died, message: 'Toolsmith tried to swim in lava'
 [30Dec2024 20:06:49.378] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4897a0ac
+[30Dec2024 20:08:53.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/wesley1808/servercore/common/utils/BreedingCap
+[30Dec2024 20:10:10.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadows/apotheosis/adventure/affix/effect/RadialAffix$RadialState
+[30Dec2024 20:10:23.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[30Dec2024 20:10:23.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[30Dec2024 20:14:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Spooky Scary Skeleton]
