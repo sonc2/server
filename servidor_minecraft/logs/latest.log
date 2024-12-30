@@ -3930,3 +3930,15 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 20:47:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A breath of fresh air]
 [30Dec2024 20:47:27.533] [Worker-Main221/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
 [30Dec2024 20:47:49.567] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[30Dec2024 20:51:11.789] [Worker-Main222/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 20:51:11.790] [Worker-Main222/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 20:51:11.790] [Worker-Main222/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 20:51:11.790] [Worker-Main222/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 20:51:27.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 20:51:29.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 20:51:31.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 20:51:33.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/15986, l='ServerLevel[world]', x=205.14, y=65.00, z=253.70] died: Undead Knight was slain by jefferson_pad
+[30Dec2024 20:52:01.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [When in Rome]
+[30Dec2024 20:54:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Elemental Might]
+[30Dec2024 20:54:43.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/416, l='ServerLevel[world]', x=181.22, y=28.50, z=211.26] died: Yomach the Toxic was slain by jefferson_pad
+[30Dec2024 20:55:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Tools of the Trade]

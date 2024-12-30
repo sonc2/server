@@ -205,6 +205,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2024-12-30 18:52:18 +0000"
@@ -271,12 +277,19 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 20:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-30 18:54:12 +0000",
       "cooked_mutton": "2024-12-30 19:29:12 +0000",
       "apple": "2024-12-30 19:18:56 +0000",
-      "golden_apple": "2024-12-30 19:39:30 +0000"
+      "golden_apple": "2024-12-30 19:39:30 +0000",
+      "rotten_flesh": "2024-12-30 20:48:08 +0000"
     },
     "done": false
   },
@@ -340,6 +353,18 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2024-12-30 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-30 20:52:14 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2024-12-30 18:51:07 +0000"
@@ -362,6 +387,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2024-12-30 20:48:41 +0000"
     },
     "done": true
   },
@@ -412,6 +443,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2024-12-30 20:54:07 +0000"
+    },
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -672,6 +709,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2024-12-30 20:55:26 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-12-30 15:58:53 +0000"
@@ -817,6 +860,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/lost_engine": {
+    "criteria": {
+      "has_items": "2024-12-30 20:54:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -949,6 +998,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -995,6 +1050,12 @@
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-30 20:55:37 +0000"
     },
     "done": true
   },
@@ -1291,21 +1352,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2024-12-30 20:47:17 +0000",
-      "!bit14": "2024-12-30 20:47:17 +0000",
-      "!bit11": "2024-12-30 20:47:17 +0000",
-      "!bit12": "2024-12-30 20:47:17 +0000",
-      "!bit10": "2024-12-30 20:47:17 +0000",
-      "!bit9": "2024-12-30 20:47:17 +0000",
-      "!bit8": "2024-12-30 20:47:17 +0000",
-      "!bit7": "2024-12-30 20:47:17 +0000",
-      "!bit6": "2024-12-30 20:47:17 +0000",
-      "!bit5": "2024-12-30 20:47:17 +0000",
-      "!bit4": "2024-12-30 20:47:17 +0000",
-      "!bit3": "2024-12-30 20:47:17 +0000",
-      "!bit2": "2024-12-30 20:47:17 +0000",
-      "!bit1": "2024-12-30 20:47:17 +0000",
-      "!bit0": "2024-12-30 20:47:17 +0000"
+      "!bit13": "2024-12-30 20:57:21 +0000",
+      "!bit14": "2024-12-30 20:57:21 +0000",
+      "!bit11": "2024-12-30 20:57:21 +0000",
+      "!bit12": "2024-12-30 20:57:21 +0000",
+      "!bit10": "2024-12-30 20:57:21 +0000",
+      "!bit9": "2024-12-30 20:57:21 +0000",
+      "!bit8": "2024-12-30 20:57:21 +0000",
+      "!bit7": "2024-12-30 20:57:21 +0000",
+      "!bit6": "2024-12-30 20:57:21 +0000",
+      "!bit5": "2024-12-30 20:57:21 +0000",
+      "!bit4": "2024-12-30 20:57:21 +0000",
+      "!bit3": "2024-12-30 20:57:21 +0000",
+      "!bit2": "2024-12-30 20:57:21 +0000",
+      "!bit1": "2024-12-30 20:57:21 +0000",
+      "!bit0": "2024-12-30 20:57:21 +0000"
     },
     "done": false
   },
