@@ -645,7 +645,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
-      "byg:allium_fields": "2024-12-30 19:12:18 +0000"
+      "byg:allium_fields": "2024-12-30 19:12:18 +0000",
+      "byg:basalt_barrera": "2024-12-30 19:18:34 +0000"
     },
     "done": false
   },
@@ -679,11 +680,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-30 19:17:59 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-12-30 19:18:38 +0000"
+    },
+    "done": false
   },
   "vinery:loam_stairs": {
     "criteria": {
@@ -862,9 +875,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
+      "requirement": "2024-12-30 19:17:49 +0000",
       "log_spam_fixer": "2024-12-30 19:12:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "vinery:white_grape_crate": {
     "criteria": {

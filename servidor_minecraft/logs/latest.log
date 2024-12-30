@@ -3762,3 +3762,36 @@ java.lang.IllegalArgumentException: null
 [30Dec2024 19:12:18.009] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
 [30Dec2024 19:12:18.009] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [30Dec2024 19:12:18.010] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[30Dec2024 19:17:59.369] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[30Dec2024 19:17:59.380] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[30Dec2024 19:17:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> hola
+[30Dec2024 19:18:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ando aca
+[30Dec2024 19:18:48.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [How'd You Get This?]
+[30Dec2024 19:20:16.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ven para que lutes aca
+[30Dec2024 19:20:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> derrepente te dan buenas cosas a ti
+[30Dec2024 19:21:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no te pongas el cinturon+
+[30Dec2024 19:21:16.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> es una maldicion
+[30Dec2024 19:24:18.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[30Dec2024 19:28:43.331] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[30Dec2024 19:31:12.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> que paso algo anda mal ?
+[30Dec2024 19:32:37.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> Estoy configurando
+[30Dec2024 19:32:59.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[30Dec2024 19:33:13.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 19:33:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Tower of Power]
+[30Dec2024 19:33:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Tower of Power]
+[30Dec2024 19:33:42.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> ten cuidado con el cofre
+[30Dec2024 19:33:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si por eso subi xD
+[30Dec2024 19:34:13.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement ['X' Marks the Spot]
+[30Dec2024 19:34:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Not a Diamond]
+[30Dec2024 19:34:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Hunt and Gather]
+[30Dec2024 19:34:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Apothic Affixes]
+[30Dec2024 19:34:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [I Found It Underground]
+[30Dec2024 19:34:25.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Acquire Hardware]
+[30Dec2024 19:34:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> VEN ACA ERA UNA BASE DE ZOMBIES
+[30Dec2024 19:34:36.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> toma
+[30Dec2024 19:34:48.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Rotten King]
+[30Dec2024 19:34:56.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was burnt to a crisp whilst fighting jefferson_pad
+[30Dec2024 19:35:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> salieron muchos mods
+[30Dec2024 19:35:50.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[30Dec2024 19:36:13.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> cual es tu habilidad
+[30Dec2024 19:37:09.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> vuelvo
