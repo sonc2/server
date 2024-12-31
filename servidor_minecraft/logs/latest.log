@@ -3745,3 +3745,5 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 02:39:44.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Cover Me with Diamonds]
 [31Dec2024 02:41:14.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/177, l='ServerLevel[world]', x=83.49, y=78.50, z=41.64] died, message: 'Fisherman was slain by jefferson_pad'
 [31Dec2024 02:41:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Bad Deal]
+[31Dec2024 02:52:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [You Are A Pirate]
+[31Dec2024 02:53:28.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/15, l='ServerLevel[world]', x=25.34, y=58.96, z=68.83] died: Honeyed Archer was slain by jefferson_pad
