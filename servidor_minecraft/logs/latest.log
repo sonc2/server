@@ -3696,3 +3696,18 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 20:39:45.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [31Dec2024 20:39:46.387] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
 [31Dec2024 20:39:47.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[31Dec2024 20:40:12.085] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[31Dec2024 20:40:12.087] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[31Dec2024 20:40:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:40:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad fell from a high place
+[31Dec2024 20:41:36.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:42:36.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[31Dec2024 20:46:42.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Phantom Thief]
+[31Dec2024 20:46:43.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [It Is Time For an Upgrade, Isn't It?]
+[31Dec2024 20:46:46.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad withered away whilst fighting Warden
+[31Dec2024 20:48:35.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Master of Silence]
+[31Dec2024 20:49:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:49:54.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[31Dec2024 20:49:54.415] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[31Dec2024 20:49:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
