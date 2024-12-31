@@ -3754,3 +3754,10 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 21:02:46.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [31Dec2024 21:02:58.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was obliterated by a sonically-charged shriek
 [31Dec2024 21:04:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[31Dec2024 21:10:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 21:13:26.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was obliterated by a sonically-charged shriek
+[31Dec2024 21:15:13.078] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[31Dec2024 21:18:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [You Need a Mint]
+[31Dec2024 21:22:36.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 21:30:10.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/45351, l='ServerLevel[world]', x=143.50, y=101.00, z=834.16] died, message: 'Fisherman was shot by Pillager'
+[31Dec2024 21:30:18.435] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult

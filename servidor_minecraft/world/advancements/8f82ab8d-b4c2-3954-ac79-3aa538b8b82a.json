@@ -321,13 +321,20 @@
       "apple": "2024-12-30 19:18:56 +0000",
       "golden_apple": "2024-12-30 19:39:30 +0000",
       "bread": "2024-12-31 05:23:21 +0000",
-      "rotten_flesh": "2024-12-30 20:48:08 +0000"
+      "rotten_flesh": "2024-12-30 20:48:08 +0000",
+      "enchanted_golden_apple": "2024-12-31 21:09:36 +0000"
     },
     "done": false
   },
   "enigmaticlegacy:book/misc/hunter_guidebook": {
     "criteria": {
       "has_the_recipe": "2024-12-30 20:48:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mending_mixture": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 21:18:31 +0000"
     },
     "done": true
   },
@@ -659,6 +666,12 @@
   "vinery:flower_box": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-12-31 21:18:31 +0000"
     },
     "done": true
   },
@@ -1637,7 +1650,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2024-12-31 21:01:10 +0000"
+      "target": "2024-12-31 21:22:36 +0000"
     },
     "done": false
   },
@@ -1917,6 +1930,12 @@
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/mending_mixture": {
+    "criteria": {
+      "has_items": "2024-12-31 21:18:31 +0000"
     },
     "done": true
   },
