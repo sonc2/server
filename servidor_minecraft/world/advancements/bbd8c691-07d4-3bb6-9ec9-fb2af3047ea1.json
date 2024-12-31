@@ -218,6 +218,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-31 03:50:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/arcane_scrolls": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:39:10 +0000"
@@ -263,6 +269,12 @@
   "vinery:wine_box": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-31 03:54:16 +0000"
     },
     "done": true
   },
@@ -600,6 +612,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-31 03:58:19 +0000",
+      "minecraft:spider": "2024-12-31 03:51:56 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 19:12:18 +0000"
@@ -771,9 +790,10 @@
   },
   "enigmaticlegacy:recipes/generic/xp_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 19:39:10 +0000"
+      "has_parent_recipe": "2024-12-30 19:39:10 +0000",
+      "has_items": "2024-12-31 03:59:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
@@ -955,6 +975,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-31 03:58:32 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1001,6 +1027,12 @@
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-31 03:59:33 +0000"
     },
     "done": true
   },
@@ -1232,6 +1264,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 03:59:33 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2024-12-30 19:39:10 +0000"
@@ -1265,6 +1303,7 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2024-12-30 19:12:18 +0000",
+      "byg:orchard": "2024-12-31 03:52:50 +0000",
       "byg:basalt_barrera": "2024-12-30 19:18:34 +0000"
     },
     "done": false
@@ -1314,7 +1353,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-30 19:17:59 +0000",
-      "minecraft:ocean": "2024-12-30 19:47:48 +0000"
+      "minecraft:ocean": "2024-12-30 19:47:48 +0000",
+      "minecraft:plains": "2024-12-31 03:55:59 +0000"
     },
     "done": false
   },

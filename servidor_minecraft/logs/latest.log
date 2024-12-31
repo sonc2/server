@@ -3899,3 +3899,8 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 03:51:37.087] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=8, z=-539}
 [31Dec2024 03:51:37.089] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=6, z=-541}
 [31Dec2024 03:51:37.091] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=5, z=-541}
+[31Dec2024 03:58:32.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Not Today, Thank You]
+[31Dec2024 03:59:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Tools of the Trade]
+[31Dec2024 04:00:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has reached the goal [Quaint Scribe]
+[31Dec2024 04:03:31.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[31Dec2024 04:03:32.883] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
