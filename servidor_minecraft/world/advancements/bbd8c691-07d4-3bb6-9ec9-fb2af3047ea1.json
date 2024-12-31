@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-31 22:48:06 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-30 19:59:47 +0000"
@@ -423,6 +429,12 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2024-12-31 22:44:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:34:25 +0000"
@@ -495,6 +507,12 @@
       "phantom": "2024-12-31 04:27:44 +0000"
     },
     "done": false
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-31 22:30:20 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
@@ -583,6 +601,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-30 19:41:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-12-31 22:48:05 +0000"
     },
     "done": true
   },
@@ -928,6 +952,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2024-12-31 22:44:32 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:18 +0000"
@@ -1136,6 +1166,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-31 23:04:25 +0000"
     },
     "done": true
   },

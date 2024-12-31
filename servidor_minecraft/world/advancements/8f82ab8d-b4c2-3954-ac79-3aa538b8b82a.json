@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-31 23:01:57 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-30 18:58:25 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-31 23:05:06 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 19:07:21 +0000",
@@ -93,6 +105,12 @@
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-31 23:04:25 +0000"
     },
     "done": true
   },
@@ -322,6 +340,7 @@
       "golden_apple": "2024-12-30 19:39:30 +0000",
       "bread": "2024-12-31 05:23:21 +0000",
       "rotten_flesh": "2024-12-30 20:48:08 +0000",
+      "golden_carrot": "2024-12-31 23:05:11 +0000",
       "enchanted_golden_apple": "2024-12-31 21:09:36 +0000"
     },
     "done": false
@@ -762,18 +781,26 @@
       "minecraft:ravager": "2024-12-30 22:17:42 +0000",
       "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
+      "minecraft:piglin_brute": "2024-12-31 23:10:25 +0000",
       "minecraft:creeper": "2024-12-30 18:56:18 +0000",
       "minecraft:evoker": "2024-12-30 22:19:44 +0000",
       "minecraft:phantom": "2024-12-31 05:28:32 +0000",
       "minecraft:zombified_piglin": "2024-12-31 04:34:10 +0000",
       "minecraft:husk": "2024-12-31 04:49:31 +0000",
       "minecraft:cave_spider": "2024-12-31 05:32:33 +0000",
+      "minecraft:piglin": "2024-12-31 23:05:42 +0000",
       "minecraft:enderman": "2024-12-31 05:01:41 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000",
       "minecraft:drowned": "2024-12-30 19:35:44 +0000",
       "minecraft:zombie_villager": "2024-12-31 04:32:17 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-31 23:04:25 +0000"
+    },
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
@@ -844,6 +871,12 @@
   "vinery:wine_rack_2": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2024-12-31 22:44:21 +0000"
     },
     "done": true
   },
@@ -1121,6 +1154,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-31 23:04:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1296,6 +1335,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-31 23:04:25 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1431,6 +1476,12 @@
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2024-12-31 05:19:01 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:amethyst_golem_charm": {
+    "criteria": {
+      "has_amethyst_golem_charm": "2024-12-31 22:38:13 +0000"
     },
     "done": true
   },
@@ -1650,7 +1701,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2024-12-31 21:22:36 +0000"
+      "target": "2024-12-31 23:10:28 +0000"
     },
     "done": false
   },
@@ -1945,6 +1996,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-31 23:04:26 +0000"
+    },
+    "done": false
+  },
   "enigmaticaddons:book/misc/ode_to_living": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2008,6 +2065,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2024-12-30 18:52:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-31 23:04:25 +0000"
     },
     "done": true
   },
