@@ -331,7 +331,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_stables": "2024-12-31 02:27:56 +0000"
+      "entered_tower_of_the_undead": "2024-12-31 04:13:08 +0000",
+      "entered_stables": "2024-12-31 02:27:56 +0000",
+      "entered_pillager_camp": "2024-12-31 04:13:47 +0000"
     },
     "done": false
   },
@@ -572,6 +574,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-31 04:14:05 +0000",
       "minecraft:skeleton": "2024-12-31 03:16:13 +0000",
       "minecraft:vindicator": "2024-12-31 02:56:07 +0000",
       "minecraft:spider": "2024-12-31 03:41:01 +0000",
@@ -643,6 +646,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 04:14:56 +0000"
     },
     "done": true
   },
@@ -1246,6 +1255,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-31 03:31:42 +0000",
+      "minecraft:beach": "2024-12-31 04:14:07 +0000",
       "minecraft:river": "2024-12-31 02:32:43 +0000",
       "minecraft:forest": "2024-12-31 03:16:39 +0000",
       "minecraft:ocean": "2024-12-31 02:34:17 +0000",
@@ -1259,6 +1269,26 @@
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2024-12-31 04:19:11 +0000",
+      "!bit14": "2024-12-31 04:19:11 +0000",
+      "!bit11": "2024-12-31 04:19:11 +0000",
+      "!bit12": "2024-12-31 04:19:11 +0000",
+      "!bit10": "2024-12-31 04:19:11 +0000",
+      "!bit9": "2024-12-31 04:19:11 +0000",
+      "!bit8": "2024-12-31 04:19:11 +0000",
+      "!bit7": "2024-12-31 04:19:11 +0000",
+      "!bit6": "2024-12-31 04:19:11 +0000",
+      "!bit5": "2024-12-31 04:19:11 +0000",
+      "!bit4": "2024-12-31 04:19:11 +0000",
+      "!bit3": "2024-12-31 04:19:11 +0000",
+      "!bit2": "2024-12-31 04:19:11 +0000",
+      "!bit1": "2024-12-31 04:19:11 +0000",
+      "!bit0": "2024-12-31 04:19:11 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1302,6 +1332,12 @@
       "requirement": "2024-12-31 02:20:45 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2024-12-31 04:13:42 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_purple_from_white": {
     "criteria": {

@@ -3919,3 +3919,38 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 04:12:55.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/25251, l='ServerLevel[world]', x=384.50, y=75.00, z=57.50]
 [31Dec2024 04:13:02.979] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [31Dec2024 04:14:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Pillager
+[31Dec2024 04:14:39.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has reached the goal [Adventurer ]
+[31Dec2024 04:14:56.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Voluntary Exile]
+[31Dec2024 04:15:09.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer was burnt to a crisp whilst fighting Pillager
+[31Dec2024 04:15:35.684] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[31Dec2024 04:15:35.684] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[31Dec2024 04:16:29.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Voluntary Exile]
+[31Dec2024 04:16:43.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[31Dec2024 04:16:54.530] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/28677, l='ServerLevel[world]', x=291.50, y=74.00, z=65.50]
+[31Dec2024 04:17:10.679] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/29261, l='ServerLevel[world]', x=305.50, y=73.00, z=70.50]
+[31Dec2024 04:17:34.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Shards of the Past]
+[31Dec2024 04:18:40.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Knight Quest]
+[31Dec2024 04:19:48.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/jarva/arsadditions/server/util/LocateUtil$Status
+[31Dec2024 04:19:48.619] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[31Dec2024 04:19:52.944] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[31Dec2024 04:19:55.425] [Worker-Main98/WARN] [ModernFix/]: The namespace kaisyn contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 04:19:58.121] [Worker-Main68/WARN] [ModernFix/]: The namespace minecolonies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 04:20:01.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8303ms or 166 ticks behind
+[31Dec2024 04:20:01.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved too quickly! 4.969105534213838,3.249187078744683,8.14117908929137
+[31Dec2024 04:20:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[31Dec2024 04:20:36.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer suffocated in a wall
+[31Dec2024 04:20:42.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Skeleton
+[31Dec2024 04:20:42.541] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 540.7226738079728, Y: 68.0, Z: 255.96643508810808
+[31Dec2024 04:20:42.550] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31Dec2024 04:20:42.552] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[31Dec2024 04:20:42.552] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[31Dec2024 04:20:42.553] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31Dec2024 04:20:42.553] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[31Dec2024 04:21:15.631] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/32518, l='ServerLevel[world]', x=383.50, y=75.00, z=57.50]
+[31Dec2024 04:22:38.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Huntsman
+[31Dec2024 04:22:38.089] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 498.4386511369744, Y: 64.18035108360648, Z: 232.69999998807907
+[31Dec2024 04:22:41.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33961, l='ServerLevel[world]', x=-88.50, y=56.00, z=137.50]
+[31Dec2024 04:23:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [A breath of fresh air]
+[31Dec2024 04:24:32.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Isn't It Iron Pick]
+[31Dec2024 04:24:35.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/32313, l='ServerLevel[world]', x=540.72, y=69.50, z=255.97]
+[31Dec2024 04:24:35.492] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/32313, l='ServerLevel[world]', x=540.72, y=69.50, z=255.97]

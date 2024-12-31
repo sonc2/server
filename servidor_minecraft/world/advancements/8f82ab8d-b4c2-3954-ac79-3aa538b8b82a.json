@@ -398,6 +398,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2024-12-30 18:51:07 +0000",
+      "entered_pillager_camp": "2024-12-31 04:13:37 +0000",
       "entered_druid_circle": "2024-12-31 02:22:53 +0000",
       "entered_dungeon_variant": "2024-12-30 21:00:43 +0000"
     },
@@ -770,6 +771,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-31 04:16:29 +0000"
     },
     "done": true
   },
@@ -1521,6 +1528,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-31 02:22:46 +0000",
+      "minecraft:beach": "2024-12-31 04:13:53 +0000",
       "minecraft:river": "2024-12-30 18:57:39 +0000",
       "minecraft:forest": "2024-12-30 22:14:02 +0000",
       "minecraft:ocean": "2024-12-30 19:49:33 +0000",
@@ -1534,6 +1542,12 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-12-31 04:19:26 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1583,6 +1597,12 @@
       "requirement": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2024-12-31 04:13:27 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_purple_from_white": {
     "criteria": {
