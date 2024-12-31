@@ -4,20 +4,6 @@
       "f_135804_": "minecraft",
       "f_135805_": "overworld"
     },
-    "id": "f545d461-3f04-471d-a813-568982c99340",
-    "ownerID": "bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1",
-    "pos": {
-      "f_123285_": 498,
-      "f_123286_": 65,
-      "f_123289_": 232
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
     "id": "c2e7c06a-f5a3-4908-9201-3676c07015e4",
     "ownerID": "bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1",
     "pos": {

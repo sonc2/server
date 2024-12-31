@@ -591,6 +591,12 @@
     },
     "done": false
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-31 04:48:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -995,6 +1001,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-31 04:49:41 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
       "is_cursed_one": "2024-12-30 19:41:24 +0000"
@@ -1161,6 +1173,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-30 19:43:28 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2024-12-31 04:44:58 +0000"
     },
     "done": true
   },

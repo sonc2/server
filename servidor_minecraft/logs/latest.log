@@ -3983,3 +3983,14 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 04:41:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Take Aim]
 [31Dec2024 04:42:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
 [31Dec2024 04:44:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Boo!]
+[31Dec2024 04:47:08.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/32316, l='ServerLevel[world]', x=547.46, y=73.92, z=259.47] died: Brog the Bulwark was slain by jefferson_pad
+[31Dec2024 04:48:13.538] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/46387, l='ServerLevel[world]', x=498.44, y=65.68, z=232.70]
+[31Dec2024 04:48:13.538] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/46387, l='ServerLevel[world]', x=498.44, y=65.68, z=232.70]
+[31Dec2024 04:48:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [How'd You Get This?]
+[31Dec2024 04:49:31.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lenny the Special'/48663, l='ServerLevel[world]', x=486.58, y=71.00, z=292.98] died: Lenny the Special was slain by jefferson_pad
+[31Dec2024 04:49:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has completed the challenge [He Wasn't So Strong]
+[31Dec2024 04:50:30.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[31Dec2024 04:51:07.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bandit'/43231, l='ServerLevel[world]', x=464.89, y=73.50, z=362.88] died, message: 'Bandit was shot by Pillager'
+[31Dec2024 04:51:07.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bandit'/43231, l='ServerLevel[world]', x=464.89, y=73.50, z=362.88] died: Bandit was shot by Pillager
+[31Dec2024 04:51:13.485] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/44463, l='ServerLevel[world]', x=444.30, y=73.00, z=342.48] died, message: 'Fletcher was sniped by Archer'
+[31Dec2024 04:51:26.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/44464, l='ServerLevel[world]', x=450.68, y=74.00, z=369.85] died, message: 'Fletcher was shot by Pillager'
