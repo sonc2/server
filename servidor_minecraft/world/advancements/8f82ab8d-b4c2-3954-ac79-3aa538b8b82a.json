@@ -1002,6 +1002,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-31 23:15:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/accessories/night_scroll": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1485,6 +1491,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-31 23:13:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 18:56:38 +0000"
@@ -1701,7 +1713,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2024-12-31 23:10:28 +0000"
+      "target": "2024-12-31 23:33:35 +0000"
     },
     "done": false
   },
