@@ -4091,3 +4091,45 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 05:44:35.041] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 174.9757856584157, Y: -15.50525732696341, Z: 888.7048282599545
 [31Dec2024 05:44:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Enderman
 [31Dec2024 05:44:51.936] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 155.94489710267447, Y: 90.49520087700593, Z: 982.7055393429304
+[31Dec2024 05:46:03.040] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/67974, l='ServerLevel[world]', x=174.98, y=-14.01, z=888.70]
+[31Dec2024 05:46:03.040] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/67974, l='ServerLevel[world]', x=174.98, y=-14.01, z=888.70]
+[31Dec2024 05:46:05.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Skeleton
+[31Dec2024 05:46:05.139] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 172.48842256073695, Y: -16.0, Z: 885.8834632850352
+[31Dec2024 05:46:42.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xaero-waypoint:Waypoint:X:91:68:132:3:false:0:Internal-overworld-waypoints
+[31Dec2024 05:47:49.241] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/69089, l='ServerLevel[world]', x=172.49, y=-14.50, z=885.88]
+[31Dec2024 05:47:49.241] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/69089, l='ServerLevel[world]', x=172.49, y=-14.50, z=885.88]
+[31Dec2024 05:51:20.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! 10.128973749671928,-0.04791519154052715,-0.9329392430655616
+[31Dec2024 05:51:29.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Timed out
+[31Dec2024 05:51:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[31Dec2024 05:51:59.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[31Dec2024 05:51:59.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[31Dec2024 05:53:01.203] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[31Dec2024 05:53:01.203] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[31Dec2024 05:53:01.203] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[31Dec2024 05:53:01.345] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[31Dec2024 05:53:01.378] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31Dec2024 05:53:01.379] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31Dec2024 05:53:01.483] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31Dec2024 05:53:01.483] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31Dec2024 05:53:01.483] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31Dec2024 05:53:01.667] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31Dec2024 05:53:01.667] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31Dec2024 05:53:01.667] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31Dec2024 05:53:02.556] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31Dec2024 05:53:02.556] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31Dec2024 05:53:02.726] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31Dec2024 05:53:02.808] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a7d9e19
+[31Dec2024 05:53:02.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.122.0.154:35807] logged in with entity id 70664 at (177.09875996867135, -16.0, 885.9367381407135)
+[31Dec2024 05:53:02.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[31Dec2024 05:53:02.869] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[31Dec2024 05:53:02.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[31Dec2024 05:53:02.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[31Dec2024 05:53:02.876] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[31Dec2024 05:53:02.878] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[31Dec2024 05:53:02.878] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[31Dec2024 05:53:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[31Dec2024 05:53:02.989] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[31Dec2024 05:53:03.075] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[31Dec2024 05:53:03.076] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[31Dec2024 05:53:03.076] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[31Dec2024 05:53:03.076] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
