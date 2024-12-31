@@ -242,6 +242,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-31 20:34:43 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-30 21:17:08 +0000"
@@ -406,6 +412,12 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2024-12-30 20:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-31 20:34:43 +0000"
     },
     "done": true
   },
@@ -764,6 +776,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-31 03:02:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-31 20:34:43 +0000"
     },
     "done": true
   },
@@ -1591,6 +1609,8 @@
       "minecraft:river": "2024-12-30 18:57:39 +0000",
       "minecraft:forest": "2024-12-30 22:14:02 +0000",
       "minecraft:ocean": "2024-12-30 19:49:33 +0000",
+      "minecraft:flower_forest": "2024-12-31 05:55:24 +0000",
+      "minecraft:deep_dark": "2024-12-31 20:34:43 +0000",
       "minecraft:meadow": "2024-12-31 03:31:18 +0000",
       "minecraft:plains": "2024-12-30 22:15:32 +0000"
     },
@@ -1604,7 +1624,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2024-12-31 05:54:41 +0000"
+      "!bit13": "2024-12-31 20:30:37 +0000",
+      "!bit14": "2024-12-31 20:30:37 +0000",
+      "!bit11": "2024-12-31 20:30:37 +0000",
+      "!bit12": "2024-12-31 20:30:37 +0000",
+      "!bit10": "2024-12-31 20:30:37 +0000",
+      "!bit9": "2024-12-31 20:30:37 +0000",
+      "!bit8": "2024-12-31 20:30:37 +0000",
+      "!bit7": "2024-12-31 20:30:37 +0000",
+      "!bit6": "2024-12-31 20:30:37 +0000",
+      "!bit5": "2024-12-31 20:30:37 +0000",
+      "!bit4": "2024-12-31 20:30:37 +0000",
+      "!bit3": "2024-12-31 20:30:37 +0000",
+      "!bit2": "2024-12-31 20:30:37 +0000",
+      "!bit1": "2024-12-31 20:30:37 +0000",
+      "!bit0": "2024-12-31 20:30:37 +0000"
     },
     "done": false
   },
