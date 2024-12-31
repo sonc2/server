@@ -200,6 +200,12 @@
     },
     "done": false
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-31 05:33:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -211,6 +217,12 @@
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-31 05:32:55 +0000"
+    },
+    "done": false
   },
   "apotheosis:affix/root": {
     "criteria": {
@@ -375,6 +387,7 @@
       "entered_tower_of_the_undead": "2024-12-31 04:20:14 +0000",
       "entered_stables": "2024-12-30 19:38:03 +0000",
       "entered_pillager_camp": "2024-12-31 04:40:40 +0000",
+      "entered_deep_crypt": "2024-12-31 05:33:16 +0000",
       "entered_druid_circle": "2024-12-31 04:25:08 +0000"
     },
     "done": false
@@ -501,6 +514,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-12-31 05:04:57 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2024-12-30 19:12:18 +0000"
@@ -606,7 +625,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-30 19:48:14 +0000",
-      "opened_chest": "2024-12-30 19:34:13 +0000"
+      "opened_chest": "2024-12-30 19:34:13 +0000",
+      "opened_cart": "2024-12-31 05:33:38 +0000"
     },
     "done": false
   },
@@ -646,6 +666,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2024-12-31 04:59:54 +0000"
+    },
+    "done": true
+  },
   "vinery:white_grape_crate": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -658,8 +684,11 @@
       "minecraft:skeleton": "2024-12-31 04:29:09 +0000",
       "minecraft:spider": "2024-12-31 03:51:56 +0000",
       "minecraft:phantom": "2024-12-31 04:27:44 +0000",
+      "minecraft:zombified_piglin": "2024-12-31 05:22:59 +0000",
+      "minecraft:cave_spider": "2024-12-31 05:40:20 +0000",
       "minecraft:enderman": "2024-12-31 04:28:31 +0000",
-      "minecraft:zombie": "2024-12-31 04:29:12 +0000"
+      "minecraft:zombie": "2024-12-31 04:29:12 +0000",
+      "minecraft:zombie_villager": "2024-12-31 05:05:28 +0000"
     },
     "done": false
   },
@@ -668,6 +697,12 @@
       "log_spam_fixer": "2024-12-30 19:12:18 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2024-12-31 04:56:22 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -783,9 +818,21 @@
     },
     "done": false
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-31 05:00:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-31 05:32:55 +0000"
     },
     "done": true
   },
@@ -1104,6 +1151,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 04:59:54 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1406,6 +1459,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-31 04:56:22 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1576,6 +1635,12 @@
     },
     "done": false
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-31 05:33:16 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 19:39:10 +0000",
@@ -1711,9 +1776,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-31 05:09:50 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-31 04:56:40 +0000"
     },
     "done": true
   },

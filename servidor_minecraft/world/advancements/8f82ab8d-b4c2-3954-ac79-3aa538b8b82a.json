@@ -211,6 +211,12 @@
     },
     "done": false
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-31 05:33:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -225,7 +231,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000"
+      "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000",
+      "in_better_spider_dungeon": "2024-12-31 05:32:21 +0000"
     },
     "done": false
   },
@@ -307,6 +314,7 @@
       "cooked_mutton": "2024-12-30 19:29:12 +0000",
       "apple": "2024-12-30 19:18:56 +0000",
       "golden_apple": "2024-12-30 19:39:30 +0000",
+      "bread": "2024-12-31 05:23:21 +0000",
       "rotten_flesh": "2024-12-30 20:48:08 +0000"
     },
     "done": false
@@ -371,6 +379,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-12-31 05:33:36 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -400,6 +414,7 @@
       "entered_tower_of_the_undead": "2024-12-31 04:44:53 +0000",
       "entered_stables": "2024-12-30 18:51:07 +0000",
       "entered_pillager_camp": "2024-12-31 04:13:37 +0000",
+      "entered_deep_crypt": "2024-12-31 05:32:59 +0000",
       "entered_druid_circle": "2024-12-31 02:22:53 +0000",
       "entered_dungeon_variant": "2024-12-30 21:00:43 +0000"
     },
@@ -514,6 +529,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-31 05:28:32 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:07:21 +0000"
@@ -523,6 +544,12 @@
   "undead_unleashed:shards_of_the_past": {
     "criteria": {
       "shards_of_the_past": "2024-12-30 19:38:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-12-31 05:03:58 +0000"
     },
     "done": true
   },
@@ -643,7 +670,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-30 19:59:46 +0000",
-      "opened_chest": "2024-12-30 19:06:47 +0000"
+      "opened_chest": "2024-12-30 19:06:47 +0000",
+      "opened_cart": "2024-12-31 05:33:30 +0000"
     },
     "done": false
   },
@@ -704,8 +732,11 @@
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
       "minecraft:creeper": "2024-12-30 18:56:18 +0000",
       "minecraft:evoker": "2024-12-30 22:19:44 +0000",
+      "minecraft:phantom": "2024-12-31 05:28:32 +0000",
       "minecraft:zombified_piglin": "2024-12-31 04:34:10 +0000",
       "minecraft:husk": "2024-12-31 04:49:31 +0000",
+      "minecraft:cave_spider": "2024-12-31 05:32:33 +0000",
+      "minecraft:enderman": "2024-12-31 05:01:41 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000",
       "minecraft:drowned": "2024-12-30 19:35:44 +0000",
       "minecraft:zombie_villager": "2024-12-31 04:32:17 +0000"
@@ -885,6 +916,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-31 05:32:21 +0000"
     },
     "done": true
   },
@@ -1347,6 +1384,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-31 05:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 18:56:38 +0000"
@@ -1561,21 +1604,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2024-12-31 04:53:31 +0000",
-      "!bit14": "2024-12-31 04:53:31 +0000",
-      "!bit11": "2024-12-31 04:53:31 +0000",
-      "!bit12": "2024-12-31 04:53:31 +0000",
-      "!bit10": "2024-12-31 04:53:31 +0000",
-      "!bit9": "2024-12-31 04:53:31 +0000",
-      "!bit8": "2024-12-31 04:53:31 +0000",
-      "!bit7": "2024-12-31 04:53:31 +0000",
-      "!bit6": "2024-12-31 04:53:31 +0000",
-      "!bit5": "2024-12-31 04:53:31 +0000",
-      "!bit4": "2024-12-31 04:53:31 +0000",
-      "!bit3": "2024-12-31 04:53:31 +0000",
-      "!bit2": "2024-12-31 04:53:31 +0000",
-      "!bit1": "2024-12-31 04:53:31 +0000",
-      "!bit0": "2024-12-31 04:53:31 +0000"
+      "!bit13": "2024-12-31 05:38:42 +0000",
+      "!bit14": "2024-12-31 05:38:42 +0000",
+      "!bit11": "2024-12-31 05:38:42 +0000",
+      "!bit12": "2024-12-31 05:38:42 +0000",
+      "!bit10": "2024-12-31 05:38:42 +0000",
+      "!bit9": "2024-12-31 05:38:42 +0000",
+      "!bit8": "2024-12-31 05:38:42 +0000",
+      "!bit7": "2024-12-31 05:38:42 +0000",
+      "!bit6": "2024-12-31 05:38:42 +0000",
+      "!bit5": "2024-12-31 05:38:42 +0000",
+      "!bit4": "2024-12-31 05:38:42 +0000",
+      "!bit3": "2024-12-31 05:38:42 +0000",
+      "!bit2": "2024-12-31 05:38:42 +0000",
+      "!bit1": "2024-12-31 05:38:42 +0000",
+      "!bit0": "2024-12-31 05:38:42 +0000"
     },
     "done": false
   },
@@ -1713,6 +1756,12 @@
     },
     "done": false
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2024-12-31 05:32:59 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 19:06:50 +0000"
@@ -1753,6 +1802,12 @@
   "enigmaticlegacy:book/misc/animal_guidebook": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:06:56 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-31 05:33:33 +0000"
     },
     "done": true
   },
@@ -1825,6 +1880,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-12-30 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-12-31 05:33:33 +0000"
     },
     "done": true
   },
