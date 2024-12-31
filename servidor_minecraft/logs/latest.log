@@ -3954,3 +3954,20 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 04:24:32.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Isn't It Iron Pick]
 [31Dec2024 04:24:35.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/32313, l='ServerLevel[world]', x=540.72, y=69.50, z=255.97]
 [31Dec2024 04:24:35.492] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/32313, l='ServerLevel[world]', x=540.72, y=69.50, z=255.97]
+[31Dec2024 04:26:22.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Best Friends Forever]
+[31Dec2024 04:27:19.882] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[31Dec2024 04:27:19.882] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[31Dec2024 04:29:26.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[31Dec2024 04:29:26.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> escobine
+[31Dec2024 04:29:35.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> sabes como activar el mapa
+[31Dec2024 04:29:49.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> se le desaparecio
+[31Dec2024 04:29:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el mpa
+[31Dec2024 04:31:30.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> pasen cords
+[31Dec2024 04:31:41.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xaero-waypoint:Shared Location:S:622:74:168:7:false:0:Internal-overworld-waypoints
+[31Dec2024 04:33:37.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=662, y=64, z=73} BlockPos{x=661, y=62, z=73}
+[31Dec2024 04:33:40.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=655, y=64, z=78} BlockPos{x=654, y=63, z=75}
+[31Dec2024 04:33:40.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=655, y=64, z=78} BlockPos{x=654, y=63, z=75}
+[31Dec2024 04:33:40.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=655, y=64, z=78} BlockPos{x=654, y=63, z=75}
+[31Dec2024 04:33:50.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/32606, l='ServerLevel[world]', x=654.16, y=63.00, z=70.85] was struck by lightning LightningEntity['Lightning'/42154, l='ServerLevel[world]', x=654.00, y=63.00, z=70.00].
+[31Dec2024 04:33:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Very Very Frightening]
+[31Dec2024 04:34:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning

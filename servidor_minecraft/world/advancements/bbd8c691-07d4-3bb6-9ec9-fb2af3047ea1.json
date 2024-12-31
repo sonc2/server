@@ -290,6 +290,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 04:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2024-12-31 03:48:31 +0000",
@@ -366,7 +372,9 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_stables": "2024-12-30 19:38:03 +0000"
+      "entered_tower_of_the_undead": "2024-12-31 04:20:14 +0000",
+      "entered_stables": "2024-12-30 19:38:03 +0000",
+      "entered_druid_circle": "2024-12-31 04:25:08 +0000"
     },
     "done": false
   },
@@ -392,6 +400,12 @@
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/hunter_guidebook": {
+    "criteria": {
+      "has_items": "2024-12-31 04:28:47 +0000"
     },
     "done": true
   },
@@ -461,6 +475,12 @@
       "get_stone": "2024-12-30 19:46:22 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-31 04:27:44 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
@@ -628,7 +648,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-31 03:58:19 +0000",
-      "minecraft:spider": "2024-12-31 03:51:56 +0000"
+      "minecraft:skeleton": "2024-12-31 04:29:09 +0000",
+      "minecraft:spider": "2024-12-31 03:51:56 +0000",
+      "minecraft:phantom": "2024-12-31 04:27:44 +0000",
+      "minecraft:enderman": "2024-12-31 04:28:31 +0000",
+      "minecraft:zombie": "2024-12-31 04:29:12 +0000"
     },
     "done": false
   },
@@ -817,6 +841,12 @@
   "enigmaticlegacy:recipes/generic/lore_fragment": {
     "criteria": {
       "has_items": "2024-12-30 19:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-31 04:26:22 +0000"
     },
     "done": true
   },
@@ -1385,7 +1415,9 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-31 04:17:42 +0000",
       "minecraft:river": "2024-12-30 19:17:59 +0000",
+      "minecraft:forest": "2024-12-31 04:22:06 +0000",
       "minecraft:ocean": "2024-12-30 19:47:48 +0000",
+      "minecraft:meadow": "2024-12-31 04:31:47 +0000",
       "minecraft:plains": "2024-12-31 03:55:59 +0000"
     },
     "done": false
@@ -1626,6 +1658,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-31 03:46:10 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2024-12-31 04:23:32 +0000"
     },
     "done": true
   },

@@ -555,6 +555,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2024-12-31 04:33:50 +0000"
+    },
+    "done": true
+  },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -697,8 +703,10 @@
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
       "minecraft:creeper": "2024-12-30 18:56:18 +0000",
       "minecraft:evoker": "2024-12-30 22:19:44 +0000",
+      "minecraft:zombified_piglin": "2024-12-31 04:34:10 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000",
-      "minecraft:drowned": "2024-12-30 19:35:44 +0000"
+      "minecraft:drowned": "2024-12-30 19:35:44 +0000",
+      "minecraft:zombie_villager": "2024-12-31 04:32:17 +0000"
     },
     "done": false
   },
@@ -1542,12 +1550,6 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-12-31 04:19:26 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
