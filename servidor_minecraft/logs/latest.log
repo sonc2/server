@@ -3711,3 +3711,24 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 02:22:26.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [31Dec2024 02:22:34.975] [Worker-Main11/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [31Dec2024 02:22:36.293] [Worker-Main10/WARN] [ModernFix/]: The namespace byg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 02:23:21.249] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[31Dec2024 02:23:36.263] [repurposedstructures-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[31Dec2024 02:23:41.784] [Worker-Main9/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 02:24:19.745] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[31Dec2024 02:24:19.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[31Dec2024 02:24:19.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Sweet Dreams]
+[31Dec2024 02:25:15.413] [Worker-Main11/WARN] [ModernFix/]: The namespace dungeons_arise contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 02:25:23.580] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[31Dec2024 02:25:40.827] [Worker-Main9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[31Dec2024 02:25:40.846] [Worker-Main9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[31Dec2024 02:25:40.847] [Worker-Main9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[31Dec2024 02:26:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [I Found It Underground]
+[31Dec2024 02:26:43.179] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[31Dec2024 02:28:08.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement ['X' Marks the Spot]
+[31Dec2024 02:29:33.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Not a Diamond]
+[31Dec2024 02:30:12.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Diamonds!]
+[31Dec2024 02:30:15.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Suit Up]
+[31Dec2024 02:30:15.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has reached the goal [Worthy Equipment]
+[31Dec2024 02:30:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Stone Age]
+[31Dec2024 02:30:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Disme A Dozen]
+[31Dec2024 02:32:40.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType

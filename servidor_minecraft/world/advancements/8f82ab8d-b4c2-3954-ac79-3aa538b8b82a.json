@@ -380,6 +380,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2024-12-30 18:51:07 +0000",
+      "entered_druid_circle": "2024-12-31 02:22:53 +0000",
       "entered_dungeon_variant": "2024-12-30 21:00:43 +0000"
     },
     "done": false
@@ -1087,6 +1088,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2024-12-31 02:25:05 +0000"
+    },
+    "done": false
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000"
@@ -1464,6 +1471,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-31 02:22:46 +0000",
       "minecraft:river": "2024-12-30 18:57:39 +0000",
       "minecraft:forest": "2024-12-30 22:14:02 +0000",
       "minecraft:ocean": "2024-12-30 19:49:33 +0000",
@@ -1479,7 +1487,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2024-12-30 22:35:40 +0000"
+      "direct": "2024-12-31 02:28:58 +0000"
     },
     "done": false
   },
