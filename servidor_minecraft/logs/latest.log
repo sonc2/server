@@ -3761,3 +3761,43 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 21:22:36.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
 [31Dec2024 21:30:10.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/45351, l='ServerLevel[world]', x=143.50, y=101.00, z=834.16] died, message: 'Fisherman was shot by Pillager'
 [31Dec2024 21:30:18.435] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/ICollateralMover$MoveResult
+[31Dec2024 22:20:21.577] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[31Dec2024 22:20:21.657] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[31Dec2024 22:20:21.680] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[31Dec2024 22:20:21.680] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[31Dec2024 22:20:21.809] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31Dec2024 22:20:21.811] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31Dec2024 22:20:21.814] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31Dec2024 22:20:21.964] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31Dec2024 22:20:21.983] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31Dec2024 22:20:21.983] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31Dec2024 22:20:22.085] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31Dec2024 22:20:22.087] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31Dec2024 22:20:27.175] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31Dec2024 22:20:27.195] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31Dec2024 22:20:27.249] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31Dec2024 22:20:27.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1afd5a7d
+[31Dec2024 22:20:27.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:45517] logged in with entity id 48305 at (236.53998009949046, -15.9375, 881.7561243386687)
+[31Dec2024 22:20:27.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[31Dec2024 22:20:27.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[31Dec2024 22:20:27.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[31Dec2024 22:20:27.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[31Dec2024 22:20:27.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[31Dec2024 22:20:27.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[31Dec2024 22:20:27.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[31Dec2024 22:20:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[31Dec2024 22:20:27.551] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[31Dec2024 22:20:27.676] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[31Dec2024 22:20:27.676] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[31Dec2024 22:20:27.677] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[31Dec2024 22:20:27.677] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[31Dec2024 22:22:46.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[31Dec2024 22:23:17.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[31Dec2024 22:26:11.277] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[31Dec2024 22:27:49.357] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[31Dec2024 22:27:49.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[31Dec2024 22:27:49.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya vine estaba afk xd
+[31Dec2024 22:27:54.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[31Dec2024 22:27:55.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entra al canal
+[31Dec2024 22:29:02.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> cuidado que hay como 7 warden ahi xD
+[31Dec2024 22:30:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Mine Turtle!]
