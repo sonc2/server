@@ -187,6 +187,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-12-31 03:02:53 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 15:58:53 +0000"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-31 03:02:53 +0000"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1011,6 +1023,12 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2024-12-31 03:46:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1153,6 +1171,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:buy_map": {
+    "criteria": {
+      "trade": "2024-12-31 03:02:53 +0000"
     },
     "done": true
   },
@@ -1494,6 +1518,7 @@
       "minecraft:river": "2024-12-30 18:57:39 +0000",
       "minecraft:forest": "2024-12-30 22:14:02 +0000",
       "minecraft:ocean": "2024-12-30 19:49:33 +0000",
+      "minecraft:meadow": "2024-12-31 03:31:18 +0000",
       "minecraft:plains": "2024-12-30 22:15:32 +0000"
     },
     "done": false
@@ -1506,21 +1531,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2024-12-31 02:58:22 +0000",
-      "!bit14": "2024-12-31 02:58:22 +0000",
-      "!bit11": "2024-12-31 02:58:22 +0000",
-      "!bit12": "2024-12-31 02:58:22 +0000",
-      "!bit10": "2024-12-31 02:58:22 +0000",
-      "!bit9": "2024-12-31 02:58:22 +0000",
-      "!bit8": "2024-12-31 02:58:22 +0000",
-      "!bit7": "2024-12-31 02:58:22 +0000",
-      "!bit6": "2024-12-31 02:58:22 +0000",
-      "!bit5": "2024-12-31 02:58:22 +0000",
-      "!bit4": "2024-12-31 02:58:22 +0000",
-      "!bit3": "2024-12-31 02:58:22 +0000",
-      "!bit2": "2024-12-31 02:58:22 +0000",
-      "!bit1": "2024-12-31 02:58:22 +0000",
-      "!bit0": "2024-12-31 02:58:22 +0000"
+      "direct": "2024-12-31 03:48:51 +0000"
     },
     "done": false
   },

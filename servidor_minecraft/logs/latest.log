@@ -3763,3 +3763,139 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 03:02:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Sponsored Voyage]
 [31Dec2024 03:02:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [What a Deal!]
 [31Dec2024 03:02:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [First Trade]
+[31Dec2024 03:06:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has reached the goal [Adventurer ]
+[31Dec2024 03:09:14.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Knight Quest]
+[31Dec2024 03:09:18.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Boo!]
+[31Dec2024 03:12:32.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [A breath of fresh air]
+[31Dec2024 03:12:44.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer was incinerated by jefferson_pad's burning dash
+[31Dec2024 03:15:58.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/7375, l='ServerLevel[world]', x=254.47, y=67.00, z=214.61] died: Undead Knight was slain by jefferson_pad
+[31Dec2024 03:16:13.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/9285, l='ServerLevel[world]', x=315.36, y=70.00, z=199.51] died: Undead Knight was slain by AKira_y_jeffeer
+[31Dec2024 03:17:28.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Tools of the Trade]
+[31Dec2024 03:18:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Penteconter]
+[31Dec2024 03:20:51.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Into Fire]
+[31Dec2024 03:24:53.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Ice Bucket Challenge]
+[31Dec2024 03:25:56.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKira_y_jeffeer was kicked for floating too long!
+[31Dec2024 03:25:56.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKira_y_jeffeer lost connection: Flying is not enabled on this server
+[31Dec2024 03:25:56.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer left the game
+[31Dec2024 03:25:57.036] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 03:26:46.474] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[31Dec2024 03:26:46.480] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[31Dec2024 03:26:46.602] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[31Dec2024 03:26:46.632] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[31Dec2024 03:26:46.632] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31Dec2024 03:26:46.738] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31Dec2024 03:26:46.739] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31Dec2024 03:26:46.739] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31Dec2024 03:26:46.875] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31Dec2024 03:26:46.878] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31Dec2024 03:26:46.878] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31Dec2024 03:26:46.968] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31Dec2024 03:26:47.370] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31Dec2024 03:26:47.379] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31Dec2024 03:26:47.392] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31Dec2024 03:26:47.509] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@311bb006
+[31Dec2024 03:26:47.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AKira_y_jeffeer[/127.204.190.54:33519] logged in with entity id 12100 at (356.4075429525403, 49.21416847031993, 370.70523007150376)
+[31Dec2024 03:26:47.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.573] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.574] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to AKira_y_jeffeer
+[31Dec2024 03:26:47.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer joined the game
+[31Dec2024 03:26:47.757] [Server thread/INFO] [Jade/]: Syncing config to AKira_y_jeffeer (e75eb8d9-7b3e-38b7-a83a-1a956acafe2b)
+[31Dec2024 03:26:47.868] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AKira_y_jeffeer...
+[31Dec2024 03:26:47.869] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[31Dec2024 03:26:47.869] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[31Dec2024 03:26:47.869] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AKira_y_jeffeer
+[31Dec2024 03:29:55.075] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mason the Magical'/11882, l='ServerLevel[world]', x=424.15, y=80.20, z=400.72] died: Mason the Magical was slain by AKira_y_jeffeer
+[31Dec2024 03:29:56.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has completed the challenge [He Wasn't So Strong]
+[31Dec2024 03:30:25.606] [Worker-Main11/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 03:30:43.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Arbalist['Torkel Ljungman'/10914, l='ServerLevel[world]', x=463.70, y=96.00, z=433.19] died: Torkel Ljungman was slain by AKira_y_jeffeer
+[31Dec2024 03:31:17.622] [Worker-Main11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[31Dec2024 03:31:24.385] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[31Dec2024 03:31:26.469] [Worker-Main11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[31Dec2024 03:38:32.483] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[31Dec2024 03:38:32.493] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[31Dec2024 03:38:32.545] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[31Dec2024 03:38:32.547] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[31Dec2024 03:38:32.591] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31Dec2024 03:38:32.591] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31Dec2024 03:38:32.701] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31Dec2024 03:38:32.743] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31Dec2024 03:38:32.743] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31Dec2024 03:38:32.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31Dec2024 03:38:32.902] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31Dec2024 03:38:32.903] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31Dec2024 03:38:39.248] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31Dec2024 03:38:39.298] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31Dec2024 03:38:39.356] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31Dec2024 03:38:39.474] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e2a9472
+[31Dec2024 03:38:39.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:46923] logged in with entity id 14775 at (34.35623230969333, 145.64979617801745, 27.605695648791873)
+[31Dec2024 03:38:39.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[31Dec2024 03:38:39.540] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[31Dec2024 03:38:39.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[31Dec2024 03:38:39.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[31Dec2024 03:38:39.544] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[31Dec2024 03:38:39.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[31Dec2024 03:38:39.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[31Dec2024 03:38:39.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[31Dec2024 03:38:39.688] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[31Dec2024 03:38:39.792] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[31Dec2024 03:38:39.792] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[31Dec2024 03:38:39.793] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[31Dec2024 03:38:39.793] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[31Dec2024 03:40:22.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine was kicked for floating too long!
+[31Dec2024 03:40:23.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Flying is not enabled on this server
+[31Dec2024 03:40:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[31Dec2024 03:41:10.291] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[31Dec2024 03:41:10.335] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[31Dec2024 03:41:10.465] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[31Dec2024 03:41:10.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[31Dec2024 03:41:10.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31Dec2024 03:41:10.623] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31Dec2024 03:41:10.623] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31Dec2024 03:41:10.624] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31Dec2024 03:41:10.779] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31Dec2024 03:41:10.790] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31Dec2024 03:41:10.790] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31Dec2024 03:41:10.857] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31Dec2024 03:41:11.379] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31Dec2024 03:41:11.387] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31Dec2024 03:41:11.406] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31Dec2024 03:41:11.496] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4737a829
+[31Dec2024 03:41:11.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:56345] logged in with entity id 16803 at (34.35623230969333, 145.64979617801745, 27.605695648791873)
+[31Dec2024 03:41:11.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[31Dec2024 03:41:11.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[31Dec2024 03:41:11.556] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[31Dec2024 03:41:11.556] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[31Dec2024 03:41:11.558] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[31Dec2024 03:41:11.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[31Dec2024 03:41:11.561] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[31Dec2024 03:41:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[31Dec2024 03:41:11.690] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[31Dec2024 03:41:11.804] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[31Dec2024 03:41:11.804] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[31Dec2024 03:41:11.805] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[31Dec2024 03:41:11.805] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[31Dec2024 03:41:13.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKira_y_jeffeer moved wrongly!
+[31Dec2024 03:41:23.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Orville the Dragonborn'/16590, l='ServerLevel[world]', x=310.58, y=119.00, z=452.42] died: Orville the Dragonborn was slain by jefferson_pad
+[31Dec2024 03:44:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has reached the goal [Adventure Time]
+[31Dec2024 03:45:05.695] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[31Dec2024 03:45:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [To Die For]
+[31Dec2024 03:46:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Shards of the Past]
+[31Dec2024 03:46:04.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Bony King]
+[31Dec2024 03:46:10.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Penteconter]
+[31Dec2024 03:46:39.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Patti the Godly'/18538, l='ServerLevel[world]', x=238.55, y=69.00, z=283.81] died: Patti the Godly was slain by AKira_y_jeffeer
+[31Dec2024 03:46:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Epic!]
+[31Dec2024 03:46:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [You're too Slow!]
+[31Dec2024 03:47:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Far From Perfect]
+[31Dec2024 03:47:50.799] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/174, l='ServerLevel[world]', x=92.49, y=72.50, z=27.70]
+[31Dec2024 03:47:50.800] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/174, l='ServerLevel[world]', x=92.49, y=72.50, z=27.70]
+[31Dec2024 03:48:03.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer fell from a high place
+[31Dec2024 03:48:14.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [You Are A Pirate]
+[31Dec2024 03:51:04.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[31Dec2024 03:51:07.639] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[31Dec2024 03:51:37.087] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=8, z=-539}
+[31Dec2024 03:51:37.089] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=6, z=-541}
+[31Dec2024 03:51:37.091] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=5, z=-541}
