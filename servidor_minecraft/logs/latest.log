@@ -4038,3 +4038,19 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 23:36:18.257] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [31Dec2024 23:36:18.257] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [31Dec2024 23:36:18.257] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[31Dec2024 23:36:35.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[31Dec2024 23:37:02.218] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[31Dec2024 23:37:02.218] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[31Dec2024 23:37:02.219] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[31Dec2024 23:37:12.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[31Dec2024 23:37:12.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[31Dec2024 23:37:12.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[31Dec2024 23:37:55.169] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/19874, l='ServerLevel[world]', x=255.40, y=62.50, z=548.72]
+[31Dec2024 23:37:55.170] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/19874, l='ServerLevel[world]', x=255.40, y=62.50, z=548.72]
+[31Dec2024 23:37:59.598] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[31Dec2024 23:38:17.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[31Dec2024 23:38:17.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[31Dec2024 23:39:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Hidden in the Depths]
+[31Dec2024 23:41:03.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7489ms or 149 ticks behind
+[31Dec2024 23:42:24.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Disconnected
+[31Dec2024 23:42:24.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
