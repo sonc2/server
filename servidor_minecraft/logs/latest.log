@@ -3971,3 +3971,15 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 04:33:50.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/32606, l='ServerLevel[world]', x=654.16, y=63.00, z=70.85] was struck by lightning LightningEntity['Lightning'/42154, l='ServerLevel[world]', x=654.00, y=63.00, z=70.00].
 [31Dec2024 04:33:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Very Very Frightening]
 [31Dec2024 04:34:24.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[31Dec2024 04:35:38.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AKira_y_jeffeer lost connection: Disconnected
+[31Dec2024 04:35:38.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer left the game
+[31Dec2024 04:38:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Pillager
+[31Dec2024 04:38:34.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[31Dec2024 04:38:35.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[31Dec2024 04:39:15.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[31Dec2024 04:39:16.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[31Dec2024 04:39:50.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[31Dec2024 04:41:41.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Ol' Betsy]
+[31Dec2024 04:41:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Take Aim]
+[31Dec2024 04:42:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[31Dec2024 04:44:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Boo!]
