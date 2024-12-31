@@ -3904,3 +3904,18 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 04:00:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has reached the goal [Quaint Scribe]
 [31Dec2024 04:03:31.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [31Dec2024 04:03:32.883] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[31Dec2024 04:04:34.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Secrets of Enchanting]
+[31Dec2024 04:04:48.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Local Librarian]
+[31Dec2024 04:07:14.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [The Secrets of Enchanting]
+[31Dec2024 04:07:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Local Librarian]
+[31Dec2024 04:09:51.497] [Worker-Main11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[31Dec2024 04:09:53.559] [Worker-Main11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[31Dec2024 04:11:21.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/24375, l='ServerLevel[world]', x=440.50, y=74.00, z=26.50]
+[31Dec2024 04:12:36.320] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[31Dec2024 04:12:48.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/25054, l='ServerLevel[world]', x=441.50, y=77.00, z=-0.50]
+[31Dec2024 04:12:51.380] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[31Dec2024 04:12:51.380] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[31Dec2024 04:12:55.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/25244, l='ServerLevel[world]', x=440.50, y=74.00, z=28.50]
+[31Dec2024 04:12:55.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/25251, l='ServerLevel[world]', x=384.50, y=75.00, z=57.50]
+[31Dec2024 04:13:02.979] [Worker-Main98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[31Dec2024 04:14:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Pillager

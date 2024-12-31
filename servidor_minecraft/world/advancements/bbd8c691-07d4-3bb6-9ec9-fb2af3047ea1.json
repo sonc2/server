@@ -292,7 +292,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2024-12-31 03:48:31 +0000"
+      "golden_apple": "2024-12-31 03:48:31 +0000",
+      "golden_carrot": "2024-12-31 04:01:27 +0000"
     },
     "done": false
   },
@@ -354,6 +355,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-31 04:00:57 +0000"
     },
     "done": true
   },
@@ -842,6 +849,12 @@
       "has_parent_recipe": "2024-12-30 19:39:10 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-31 04:00:57 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -1459,6 +1472,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-31 04:00:57 +0000"
     },
     "done": true
   },

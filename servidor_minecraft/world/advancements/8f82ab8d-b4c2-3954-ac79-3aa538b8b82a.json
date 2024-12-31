@@ -1506,6 +1506,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2024-12-31 04:04:34 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-30 18:54:12 +0000"
@@ -1528,26 +1534,6 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "!bit13": "2024-12-31 03:58:13 +0000",
-      "!bit14": "2024-12-31 03:58:13 +0000",
-      "!bit11": "2024-12-31 03:58:13 +0000",
-      "!bit12": "2024-12-31 03:58:13 +0000",
-      "!bit10": "2024-12-31 03:58:13 +0000",
-      "!bit9": "2024-12-31 03:58:13 +0000",
-      "!bit8": "2024-12-31 03:58:13 +0000",
-      "!bit7": "2024-12-31 03:58:13 +0000",
-      "!bit6": "2024-12-31 03:58:13 +0000",
-      "!bit5": "2024-12-31 03:58:13 +0000",
-      "!bit4": "2024-12-31 03:58:13 +0000",
-      "!bit3": "2024-12-31 03:58:13 +0000",
-      "!bit2": "2024-12-31 03:58:13 +0000",
-      "!bit1": "2024-12-31 03:58:13 +0000",
-      "!bit0": "2024-12-31 03:58:13 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1583,6 +1569,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2024-12-30 15:58:53 +0000",
       "inv_changed-diamond": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-31 04:04:48 +0000"
     },
     "done": true
   },
@@ -1626,6 +1618,12 @@
     "criteria": {
       "has_recipe": "2024-12-30 15:58:53 +0000",
       "has_compass": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-31 04:04:34 +0000"
     },
     "done": true
   },

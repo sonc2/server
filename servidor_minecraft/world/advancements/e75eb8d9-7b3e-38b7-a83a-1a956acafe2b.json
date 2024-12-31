@@ -1231,6 +1231,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2024-12-31 04:07:14 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-31 02:28:30 +0000"
@@ -1253,12 +1259,6 @@
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2024-12-31 03:54:31 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1291,6 +1291,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-31 04:07:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-31 02:20:45 +0000"
@@ -1319,6 +1325,12 @@
     "criteria": {
       "has_recipe": "2024-12-31 02:20:45 +0000",
       "has_compass": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-31 04:07:14 +0000"
     },
     "done": true
   },
