@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:metal_lure": {
+    "criteria": {
+      "picked_up_accessory": "2024-12-31 02:37:47 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -141,6 +147,12 @@
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 19:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-31 02:39:03 +0000"
     },
     "done": true
   },
@@ -751,6 +763,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2024-12-31 02:38:42 +0000",
       "brewingstand": "2024-12-30 19:50:11 +0000",
       "blastfurnace": "2024-12-30 19:55:11 +0000"
     },
@@ -1487,7 +1500,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "direct": "2024-12-31 02:28:58 +0000"
+      "!bit13": "2024-12-31 02:30:53 +0000",
+      "!bit14": "2024-12-31 02:30:53 +0000",
+      "!bit11": "2024-12-31 02:30:53 +0000",
+      "!bit12": "2024-12-31 02:30:53 +0000",
+      "!bit10": "2024-12-31 02:30:53 +0000",
+      "!bit9": "2024-12-31 02:30:53 +0000",
+      "!bit8": "2024-12-31 02:30:53 +0000",
+      "!bit7": "2024-12-31 02:30:53 +0000",
+      "!bit6": "2024-12-31 02:30:53 +0000",
+      "!bit5": "2024-12-31 02:30:53 +0000",
+      "!bit4": "2024-12-31 02:30:53 +0000",
+      "!bit3": "2024-12-31 02:30:53 +0000",
+      "!bit2": "2024-12-31 02:30:53 +0000",
+      "!bit1": "2024-12-31 02:30:53 +0000",
+      "!bit0": "2024-12-31 02:30:53 +0000"
     },
     "done": false
   },

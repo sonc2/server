@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-31 02:30:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
       "log_spam_fixer": "2024-12-31 02:20:46 +0000"
@@ -50,6 +56,13 @@
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-31 02:34:39 +0000",
+      "has_items": "2024-12-31 02:30:12 +0000"
     },
     "done": true
   },
@@ -110,6 +123,12 @@
   "vinery:straw_hat": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-31 02:34:39 +0000"
     },
     "done": true
   },
@@ -186,6 +205,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 02:34:39 +0000"
+    },
+    "done": true
+  },
   "vinery:red_grape_crate": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -212,7 +237,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-31 02:28:30 +0000"
+      "cooked_beef": "2024-12-31 02:28:30 +0000",
+      "cooked_chicken": "2024-12-31 02:34:02 +0000"
     },
     "done": false
   },
@@ -294,6 +320,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 02:37:04 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -303,6 +335,12 @@
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2024-12-31 02:20:46 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-31 02:37:04 +0000"
     },
     "done": false
   },
@@ -324,6 +362,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-31 02:30:15 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -333,6 +377,18 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-31 02:30:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 02:34:39 +0000"
     },
     "done": true
   },
@@ -384,6 +440,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-31 02:30:58 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
       "log_spam_fixer": "2024-12-31 02:20:46 +0000"
@@ -396,6 +458,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-31 02:34:39 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -404,6 +472,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-31 02:34:32 +0000",
       "opened_chest": "2024-12-31 02:28:08 +0000"
     },
     "done": false
@@ -455,6 +524,12 @@
       "log_spam_fixer": "2024-12-31 02:20:46 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-31 02:36:07 +0000"
+    },
+    "done": true
   },
   "vinery:shelf": {
     "criteria": {
@@ -534,6 +609,24 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-31 02:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-31 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-31 02:34:40 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -567,6 +660,12 @@
   "enigmaticaddons:book/accessories/earth_promise": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-31 02:34:32 +0000"
     },
     "done": true
   },
@@ -720,6 +819,13 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-31 02:34:39 +0000",
+      "has_items": "2024-12-31 02:37:04 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-31 02:20:45 +0000"
@@ -767,6 +873,12 @@
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-12-31 02:34:39 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
@@ -932,7 +1044,8 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
-      "byg:allium_fields": "2024-12-31 02:20:46 +0000"
+      "byg:allium_fields": "2024-12-31 02:20:46 +0000",
+      "byg:basalt_barrera": "2024-12-31 02:34:05 +0000"
     },
     "done": false
   },
@@ -965,6 +1078,13 @@
       "consumed_item": "2024-12-31 02:28:30 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-12-31 02:32:43 +0000",
+      "minecraft:ocean": "2024-12-31 02:34:17 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -1167,9 +1287,27 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-31 02:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-31 02:34:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2024-12-31 02:37:01 +0000"
     },
     "done": true
   },

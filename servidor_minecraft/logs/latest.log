@@ -3732,3 +3732,16 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 02:30:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Stone Age]
 [31Dec2024 02:30:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Disme A Dozen]
 [31Dec2024 02:32:40.839] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[31Dec2024 02:34:32.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Barrel Booty]
+[31Dec2024 02:34:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Acquire Hardware]
+[31Dec2024 02:34:40.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Getting an Upgrade]
+[31Dec2024 02:34:58.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[31Dec2024 02:36:07.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has reached the goal [Flawless Crystals]
+[31Dec2024 02:36:54.283] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/wesley1808/servercore/common/utils/BreedingCap
+[31Dec2024 02:36:58.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Close Quarters]
+[31Dec2024 02:37:01.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has reached the goal [Adventure Time]
+[31Dec2024 02:37:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Lure-Driven Fishing]
+[31Dec2024 02:39:03.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Cover Me with Diamonds]
+[31Dec2024 02:39:44.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Cover Me with Diamonds]
+[31Dec2024 02:41:14.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/177, l='ServerLevel[world]', x=83.49, y=78.50, z=41.64] died, message: 'Fisherman was slain by jefferson_pad'
+[31Dec2024 02:41:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Bad Deal]
