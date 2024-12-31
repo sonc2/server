@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-30 22:33:07 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2024-12-30 20:52:14 +0000"
@@ -650,6 +656,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2024-12-30 22:34:26 +0000"
+    },
+    "done": true
+  },
   "vinery:white_grape_crate": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -815,6 +827,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-30 22:36:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -936,6 +954,12 @@
       "has_parent_recipe": "2024-12-30 19:06:50 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-30 22:33:07 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -1133,6 +1157,12 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2024-12-30 20:55:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 22:34:26 +0000"
     },
     "done": true
   },
@@ -1449,21 +1479,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2024-12-30 22:26:33 +0000",
-      "!bit14": "2024-12-30 22:26:33 +0000",
-      "!bit11": "2024-12-30 22:26:33 +0000",
-      "!bit12": "2024-12-30 22:26:33 +0000",
-      "!bit10": "2024-12-30 22:26:33 +0000",
-      "!bit9": "2024-12-30 22:26:33 +0000",
-      "!bit8": "2024-12-30 22:26:33 +0000",
-      "!bit7": "2024-12-30 22:26:33 +0000",
-      "!bit6": "2024-12-30 22:26:33 +0000",
-      "!bit5": "2024-12-30 22:26:33 +0000",
-      "!bit4": "2024-12-30 22:26:33 +0000",
-      "!bit3": "2024-12-30 22:26:33 +0000",
-      "!bit2": "2024-12-30 22:26:33 +0000",
-      "!bit1": "2024-12-30 22:26:33 +0000",
-      "!bit0": "2024-12-30 22:26:33 +0000"
+      "direct": "2024-12-30 22:35:40 +0000"
     },
     "done": false
   },
@@ -1550,6 +1566,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-30 22:33:07 +0000"
     },
     "done": true
   },
