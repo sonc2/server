@@ -3747,3 +3747,19 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 02:41:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Bad Deal]
 [31Dec2024 02:52:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [You Are A Pirate]
 [31Dec2024 02:53:28.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/15, l='ServerLevel[world]', x=25.34, y=58.96, z=68.83] died: Honeyed Archer was slain by jefferson_pad
+[31Dec2024 02:55:22.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[31Dec2024 02:56:03.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@686bf5c1
+[31Dec2024 02:56:07.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Monster Hunter]
+[31Dec2024 02:58:28.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[31Dec2024 02:58:28.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[31Dec2024 02:58:28.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad withered away whilst fighting AKira_y_jeffeer
+[31Dec2024 02:58:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Bony King]
+[31Dec2024 02:58:44.397] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[31Dec2024 02:59:41.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[31Dec2024 02:59:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [Tower of Power]
+[31Dec2024 03:01:20.746] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Minotaur['Overseer Marissa the Bishop'/8184, l='ServerLevel[world]', x=83.45, y=62.60, z=56.54] died: Overseer Marissa the Bishop was slain by jefferson_pad
+[31Dec2024 03:02:12.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AKira_y_jeffeer has made the advancement [How'd You Get This?]
+[31Dec2024 03:02:33.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[31Dec2024 03:02:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Sponsored Voyage]
+[31Dec2024 03:02:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [What a Deal!]
+[31Dec2024 03:02:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [First Trade]

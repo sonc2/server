@@ -235,6 +235,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-31 02:56:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -243,6 +249,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-31 02:57:59 +0000",
       "cooked_beef": "2024-12-31 02:28:30 +0000",
       "cooked_chicken": "2024-12-31 02:34:02 +0000"
     },
@@ -296,9 +303,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-12-31 02:54:09 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2024-12-31 02:58:37 +0000"
     },
     "done": true
   },
@@ -464,6 +483,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-31 02:56:07 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/ender_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-31 02:34:39 +0000"
@@ -525,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:vindicator": "2024-12-31 02:56:07 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2024-12-31 02:20:46 +0000"
@@ -576,6 +607,12 @@
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2024-12-31 02:58:37 +0000"
     },
     "done": true
   },
@@ -747,6 +784,12 @@
     },
     "done": true
   },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2024-12-31 02:58:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
@@ -801,6 +844,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-12-31 02:52:53 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-31 02:20:45 +0000"
@@ -844,6 +893,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-31 02:58:58 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2024-12-31 02:20:45 +0000"
@@ -877,6 +932,12 @@
   "vinery:cherry_boat": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2024-12-31 02:58:37 +0000"
     },
     "done": true
   },
@@ -1024,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2024-12-31 02:56:07 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
       "log_spam_fixer": "2024-12-31 02:20:46 +0000"
@@ -1097,6 +1164,26 @@
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2024-12-31 02:58:37 +0000",
+      "!bit14": "2024-12-31 02:58:37 +0000",
+      "!bit11": "2024-12-31 02:58:37 +0000",
+      "!bit12": "2024-12-31 02:58:37 +0000",
+      "!bit10": "2024-12-31 02:58:37 +0000",
+      "!bit9": "2024-12-31 02:58:37 +0000",
+      "!bit8": "2024-12-31 02:58:37 +0000",
+      "!bit7": "2024-12-31 02:58:37 +0000",
+      "!bit6": "2024-12-31 02:58:37 +0000",
+      "!bit5": "2024-12-31 02:58:37 +0000",
+      "!bit4": "2024-12-31 02:58:37 +0000",
+      "!bit3": "2024-12-31 02:58:37 +0000",
+      "!bit2": "2024-12-31 02:58:37 +0000",
+      "!bit1": "2024-12-31 02:58:37 +0000",
+      "!bit0": "2024-12-31 02:58:37 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1308,6 +1395,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-31 02:20:45 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2024-12-31 02:56:07 +0000"
     },
     "done": true
   },
