@@ -481,6 +481,12 @@
     },
     "done": false
   },
+  "majruszsaccessories:booster_dropped": {
+    "criteria": {
+      "picked_up_booster": "2024-12-31 20:46:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/desolation_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 19:35:03 +0000"
@@ -543,7 +549,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2024-12-31 05:28:32 +0000"
+      "phantom": "2024-12-31 05:28:32 +0000",
+      "warden": "2024-12-31 20:46:42 +0000"
     },
     "done": false
   },
@@ -1203,6 +1210,12 @@
     },
     "done": false
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-31 20:46:42 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000"
@@ -1624,7 +1637,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2024-12-31 20:45:52 +0000"
+      "target": "2024-12-31 21:01:10 +0000"
     },
     "done": false
   },
@@ -1856,6 +1869,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2024-12-30 19:08:08 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-31 20:48:35 +0000"
     },
     "done": true
   },

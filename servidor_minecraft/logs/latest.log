@@ -3711,3 +3711,46 @@ java.lang.IllegalArgumentException: null
 [31Dec2024 20:49:54.415] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [31Dec2024 20:49:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
 [31Dec2024 20:50:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:16.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:20.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:25.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:49.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:50:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:33.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:40.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[31Dec2024 20:51:42.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:47.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:51:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:31.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:48.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:52.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:52:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:03.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[31Dec2024 20:53:08.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:13.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:18.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:23.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:28.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:53:44.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:55:55.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:56:27.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 20:56:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[31Dec2024 21:01:22.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/32475, l='ServerLevel[world]', x=250.15, y=-51.00, z=810.58] died: Brog the Bulwark was slain by Warden
+[31Dec2024 21:02:46.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[31Dec2024 21:02:58.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was obliterated by a sonically-charged shriek
+[31Dec2024 21:04:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
