@@ -219,7 +219,8 @@
   },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 15:58:53 +0000"
+      "has_parent_recipe": "2024-12-30 15:58:53 +0000",
+      "has_items2": "2025-01-01 00:12:59 +0000"
     },
     "done": false
   },
@@ -604,6 +605,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/soul_compass": {
+    "criteria": {
+      "has_items1": "2025-01-01 00:12:59 +0000"
+    },
+    "done": false
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2024-12-30 15:58:53 +0000"
@@ -826,6 +833,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/forbidden_axe": {
+    "criteria": {
+      "has_items": "2025-01-01 00:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-31 03:02:53 +0000"
@@ -905,6 +918,12 @@
       "blastfurnace": "2024-12-30 19:55:11 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 00:12:59 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:book/materials/ancient_debris": {
     "criteria": {
@@ -1046,7 +1065,8 @@
   },
   "enigmaticlegacy:recipes/generic/the_twist": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 15:58:53 +0000"
+      "has_parent_recipe": "2024-12-30 15:58:53 +0000",
+      "has_items3": "2025-01-01 00:12:59 +0000"
     },
     "done": false
   },
@@ -1105,6 +1125,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-01-01 00:25:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2024-12-30 21:29:32 +0000",
@@ -1145,6 +1171,12 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 00:12:59 +0000"
     },
     "done": true
   },
@@ -1719,21 +1751,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2024-12-31 23:41:07 +0000",
-      "!bit14": "2024-12-31 23:41:07 +0000",
-      "!bit11": "2024-12-31 23:41:07 +0000",
-      "!bit12": "2024-12-31 23:41:07 +0000",
-      "!bit10": "2024-12-31 23:41:07 +0000",
-      "!bit9": "2024-12-31 23:41:07 +0000",
-      "!bit8": "2024-12-31 23:41:07 +0000",
-      "!bit7": "2024-12-31 23:41:07 +0000",
-      "!bit6": "2024-12-31 23:41:07 +0000",
-      "!bit5": "2024-12-31 23:41:07 +0000",
-      "!bit4": "2024-12-31 23:41:07 +0000",
-      "!bit3": "2024-12-31 23:41:07 +0000",
-      "!bit2": "2024-12-31 23:41:07 +0000",
-      "!bit1": "2024-12-31 23:41:07 +0000",
-      "!bit0": "2024-12-31 23:41:07 +0000"
+      "!bit13": "2025-01-01 00:18:53 +0000",
+      "!bit14": "2025-01-01 00:18:53 +0000",
+      "!bit11": "2025-01-01 00:18:53 +0000",
+      "!bit12": "2025-01-01 00:18:53 +0000",
+      "!bit10": "2025-01-01 00:18:53 +0000",
+      "!bit9": "2025-01-01 00:18:53 +0000",
+      "!bit8": "2025-01-01 00:18:53 +0000",
+      "!bit7": "2025-01-01 00:18:53 +0000",
+      "!bit6": "2025-01-01 00:18:53 +0000",
+      "!bit5": "2025-01-01 00:18:53 +0000",
+      "!bit4": "2025-01-01 00:18:53 +0000",
+      "!bit3": "2025-01-01 00:18:53 +0000",
+      "!bit2": "2025-01-01 00:18:53 +0000",
+      "!bit1": "2025-01-01 00:18:53 +0000",
+      "!bit0": "2025-01-01 00:18:53 +0000"
     },
     "done": false
   },
@@ -1754,6 +1786,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/monster_charm": {
+    "criteria": {
+      "has_items": "2025-01-01 00:12:59 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:main/unholy_grail": {
     "criteria": {
@@ -1879,7 +1917,8 @@
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 19:06:50 +0000"
+      "has_parent_recipe": "2024-12-30 19:06:50 +0000",
+      "has_items2": "2025-01-01 00:12:59 +0000"
     },
     "done": false
   },

@@ -960,6 +960,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-01-01 00:28:28 +0000",
       "carrot": "2024-12-31 22:44:32 +0000"
     },
     "done": false

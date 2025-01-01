@@ -68,3 +68,92 @@
 [01Jan2025 00:13:28.611] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/4060, l='ServerLevel[world]', x=370.31, y=58.50, z=399.13]
 [01Jan2025 00:13:44.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [01Jan2025 00:14:00.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[01Jan2025 00:15:17.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Piglin Brute
+[01Jan2025 00:15:17.064] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 101.4958407964601, Y: 64.0, Z: 154.8019855822231
+[01Jan2025 00:15:21.217] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 00:15:21.217] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:15:21.217] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[01Jan2025 00:15:21.218] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:15:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> que hace un piglin en el overwold
+[01Jan2025 00:15:46.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> no se
+[01Jan2025 00:16:21.763] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 00:16:21.763] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[01Jan2025 00:16:21.764] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[01Jan2025 00:16:21.764] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:17:17.706] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/5659, l='ServerLevel[world]', x=101.50, y=65.50, z=154.80]
+[01Jan2025 00:17:17.706] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/5659, l='ServerLevel[world]', x=101.50, y=65.50, z=154.80]
+[01Jan2025 00:17:26.628] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[01Jan2025 00:17:27.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[01Jan2025 00:17:28.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
+[01Jan2025 00:17:30.240] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 00:17:30.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[01Jan2025 00:17:30.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:17:30.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:18:06.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was slain by Piglin Brute
+[01Jan2025 00:18:06.614] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 87.2980248426248, Y: 64.0, Z: 131.12232661795738
+[01Jan2025 00:18:15.116] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 00:18:15.117] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[01Jan2025 00:18:30.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asu bro
+[01Jan2025 00:18:37.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> estan level 37
+[01Jan2025 00:18:38.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[01Jan2025 00:19:00.618] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 00:19:00.619] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:19:00.619] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:19:00.619] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:19:38.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[01Jan2025 00:19:38.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[01Jan2025 00:20:01.957] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/7548, l='ServerLevel[world]', x=87.30, y=65.50, z=131.12]
+[01Jan2025 00:20:01.957] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/7548, l='ServerLevel[world]', x=87.30, y=65.50, z=131.12]
+[01Jan2025 00:20:39.060] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 00:20:39.060] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:20:39.060] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:20:39.060] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:21:24.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> libro de hechizos
+[01Jan2025 00:21:40.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> eso voy hacer
+[01Jan2025 00:22:03.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy al warden y te paso las coor
+[01Jan2025 00:22:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> para que saques
+[01Jan2025 00:22:12.440] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 00:22:12.440] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:22:12.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:22:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xaero-waypoint:Shared Location:S:98:-51:842:12:false:0:Internal-overworld-waypoints
+[01Jan2025 00:22:37.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> agachado anda
+[01Jan2025 00:22:42.109] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 00:22:42.109] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 00:22:42.109] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:22:42.109] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 00:22:43.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> estan rotas las cosas que dan
+[01Jan2025 00:22:53.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> me dio aliento de dragon sin ir al end
+[01Jan2025 00:23:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> donde te e dado la coordenada
+[01Jan2025 00:23:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> esta uno de eso que te ayudan a volver
+[01Jan2025 00:23:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mikra
+[01Jan2025 00:24:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> llevalo
+[01Jan2025 00:24:23.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> me dieron dos
+[01Jan2025 00:25:44.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [It's Purple!]
+[01Jan2025 00:27:05.242] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[01Jan2025 00:27:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si encuentras GEMA DE FUEGO avisas
+[01Jan2025 00:27:54.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asu
+[01Jan2025 00:28:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> pega
+[01Jan2025 00:28:07.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[01Jan2025 00:28:12.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si baja
+[01Jan2025 00:28:19.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[01Jan2025 00:28:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> exploto
+[01Jan2025 00:28:36.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tiene crafteo ¿
+[01Jan2025 00:28:54.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> no
+[01Jan2025 00:29:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asu :c
+[01Jan2025 00:29:10.403] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[01Jan2025 00:29:10.404] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[01Jan2025 00:31:02.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was burnt to a crisp whilst fighting Meature
+[01Jan2025 00:31:02.427] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 133.11203428806542, Y: 65.0, Z: 156.70439843116355
+[01Jan2025 00:31:19.758] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/10049, l='ServerLevel[world]', x=133.11, y=66.50, z=156.70]
+[01Jan2025 00:31:19.758] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10049, l='ServerLevel[world]', x=133.11, y=66.50, z=156.70]
+[01Jan2025 00:32:37.207] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[01Jan2025 00:33:20.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[01Jan2025 00:33:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was burnt to a crisp whilst fighting jefferson_pad
+[01Jan2025 00:33:48.560] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 120.54251010870439, Y: 64.0, Z: 182.69999998807907
+[01Jan2025 00:33:53.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> DISCULPA
+[01Jan2025 00:34:26.277] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 00:34:26.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:34:26.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 00:34:26.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 00:34:29.610] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/10422, l='ServerLevel[world]', x=120.54, y=65.50, z=182.70]
+[01Jan2025 00:34:29.611] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10422, l='ServerLevel[world]', x=120.54, y=65.50, z=182.70]
