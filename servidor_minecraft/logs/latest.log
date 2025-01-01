@@ -3738,3 +3738,36 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 02:35:55.768] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
 [01Jan2025 02:35:59.023] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [01Jan2025 02:37:12.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[01Jan2025 02:43:39.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Timed out
+[01Jan2025 02:43:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[01Jan2025 02:45:21.766] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[01Jan2025 02:45:21.766] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[01Jan2025 02:45:21.918] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[01Jan2025 02:45:21.918] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[01Jan2025 02:45:21.918] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[01Jan2025 02:45:22.083] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[01Jan2025 02:45:22.083] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[01Jan2025 02:45:22.083] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[01Jan2025 02:45:22.084] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[01Jan2025 02:45:22.246] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[01Jan2025 02:45:22.288] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[01Jan2025 02:45:22.289] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[01Jan2025 02:45:22.833] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[01Jan2025 02:45:22.833] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[01Jan2025 02:45:22.833] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[01Jan2025 02:45:22.945] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57cb4328
+[01Jan2025 02:45:22.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.212.112.43:54309] logged in with entity id 1541 at (92.03320440987619, 64.1875, 127.23750001192093)
+[01Jan2025 02:45:23.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[01Jan2025 02:45:23.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[01Jan2025 02:45:23.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[01Jan2025 02:45:23.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[01Jan2025 02:45:23.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[01Jan2025 02:45:23.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[01Jan2025 02:45:23.016] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[01Jan2025 02:45:23.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[01Jan2025 02:45:23.210] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[01Jan2025 02:45:23.309] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[01Jan2025 02:45:23.310] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[01Jan2025 02:45:23.310] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jan2025 02:45:23.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[01Jan2025 02:47:36.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
