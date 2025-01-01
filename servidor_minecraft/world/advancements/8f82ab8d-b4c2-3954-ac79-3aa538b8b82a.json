@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-01-01 17:13:30 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -965,6 +971,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-01-01 17:12:23 +0000"
+    },
+    "done": false
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-12-30 15:58:53 +0000"
@@ -1753,7 +1765,11 @@
     "criteria": {
       "byg:allium_fields": "2024-12-30 15:58:55 +0000",
       "byg:orchard": "2024-12-30 18:54:59 +0000",
+      "byg:red_oak_forest": "2025-01-01 17:12:51 +0000",
+      "byg:rose_fields": "2025-01-01 17:16:32 +0000",
       "byg:magma_wastes": "2025-01-01 04:03:35 +0000",
+      "byg:crag_gardens": "2025-01-01 17:18:17 +0000",
+      "byg:aspen_forest": "2025-01-01 17:12:15 +0000",
       "byg:crimson_gardens": "2025-01-01 01:16:05 +0000",
       "byg:weeping_mire": "2025-01-01 03:53:58 +0000",
       "byg:basalt_barrera": "2024-12-30 19:35:28 +0000"
@@ -1812,6 +1828,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-31 02:22:46 +0000",
       "minecraft:beach": "2024-12-31 04:13:53 +0000",
+      "minecraft:sparse_jungle": "2025-01-01 17:19:12 +0000",
       "minecraft:river": "2024-12-30 18:57:39 +0000",
       "minecraft:forest": "2024-12-30 22:14:02 +0000",
       "minecraft:ocean": "2024-12-30 19:49:33 +0000",
@@ -1830,21 +1847,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-01 16:27:42 +0000",
-      "!bit14": "2025-01-01 16:27:42 +0000",
-      "!bit11": "2025-01-01 16:27:42 +0000",
-      "!bit12": "2025-01-01 16:27:42 +0000",
-      "!bit10": "2025-01-01 16:27:42 +0000",
-      "!bit9": "2025-01-01 16:27:42 +0000",
-      "!bit8": "2025-01-01 16:27:42 +0000",
-      "!bit7": "2025-01-01 16:27:42 +0000",
-      "!bit6": "2025-01-01 16:27:42 +0000",
-      "!bit5": "2025-01-01 16:27:42 +0000",
-      "!bit4": "2025-01-01 16:27:42 +0000",
-      "!bit3": "2025-01-01 16:27:42 +0000",
-      "!bit2": "2025-01-01 16:27:42 +0000",
-      "!bit1": "2025-01-01 16:27:42 +0000",
-      "!bit0": "2025-01-01 16:27:42 +0000"
+      "target": "2025-01-01 17:15:50 +0000"
     },
     "done": false
   },
