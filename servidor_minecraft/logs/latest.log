@@ -3828,3 +3828,10 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 03:59:00.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
 [01Jan2025 03:59:43.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Piglin Brute
 [01Jan2025 04:00:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Crimson Mosquito
+[01Jan2025 04:04:07.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 04:04:44.315] [Worker-Main86/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jan2025 04:05:50.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Giddy Blaze
+[01Jan2025 04:06:19.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[01Jan2025 04:06:39.595] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[01Jan2025 04:10:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad died because of Weeper
+[01Jan2025 04:11:18.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to 50.500000, 31.500000, -169.500000]
