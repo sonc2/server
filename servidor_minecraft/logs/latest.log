@@ -160,3 +160,6 @@
 [01Jan2025 00:36:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> ya me desconecto
 [01Jan2025 00:36:07.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
 [01Jan2025 00:36:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[01Jan2025 00:55:07.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[01Jan2025 00:55:07.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[01Jan2025 00:55:07.309] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
