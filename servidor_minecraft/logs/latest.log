@@ -3871,3 +3871,4 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 04:22:05.693] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [01Jan2025 04:22:05.694] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
 [01Jan2025 04:22:42.661] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[01Jan2025 04:24:06.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
