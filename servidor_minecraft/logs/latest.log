@@ -3687,3 +3687,10 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 16:28:26.677] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
 [01Jan2025 16:28:26.678] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/whisperwoods/entity/EntityZotzpyre$SwoopingAttackGoal$MovementPhase
 [01Jan2025 16:32:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Ancient Craftmanship]
+[01Jan2025 16:33:51.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Strength in Darkness]
+[01Jan2025 16:37:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Unbreaking X]
+[01Jan2025 16:38:07.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[01Jan2025 16:38:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[01Jan2025 16:38:42.682] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[01Jan2025 16:39:03.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[01Jan2025 16:39:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Mage's Spell Book]

@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-01-01 16:37:35 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -936,6 +942,7 @@
     "criteria": {
       "barrel": "2024-12-31 02:38:42 +0000",
       "brewingstand": "2024-12-30 19:50:11 +0000",
+      "smithingtable": "2025-01-01 16:29:39 +0000",
       "blastfurnace": "2024-12-30 19:55:11 +0000"
     },
     "done": false
@@ -1015,6 +1022,12 @@
   "morevillagers:kill_villager": {
     "criteria": {
       "killedvillager": "2024-12-31 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:ancient_craftmanship": {
+    "criteria": {
+      "ancient_craftmanship": "2025-01-01 16:32:29 +0000"
     },
     "done": true
   },
@@ -1715,6 +1728,12 @@
   "byg:root": {
     "criteria": {
       "tick": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:darksteel_advancement": {
+    "criteria": {
+      "darksteel_advancement": "2025-01-01 16:33:51 +0000"
     },
     "done": true
   },
