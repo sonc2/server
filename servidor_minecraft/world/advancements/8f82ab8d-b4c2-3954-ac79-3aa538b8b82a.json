@@ -244,9 +244,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 19:06:50 +0000"
+      "has_parent_recipe": "2024-12-30 19:06:50 +0000",
+      "has_items": "2025-01-01 17:27:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1cart": {
     "criteria": {
@@ -288,6 +289,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2024-12-30 21:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-01 17:25:27 +0000"
     },
     "done": true
   },
@@ -485,7 +492,8 @@
       "entered_pillager_camp": "2024-12-31 04:13:37 +0000",
       "entered_deep_crypt": "2024-12-31 05:32:59 +0000",
       "entered_druid_circle": "2024-12-31 02:22:53 +0000",
-      "entered_dungeon_variant": "2024-12-30 21:00:43 +0000"
+      "entered_dungeon_variant": "2024-12-30 21:00:43 +0000",
+      "entered_ruined_building": "2025-01-01 17:23:34 +0000"
     },
     "done": false
   },
@@ -834,6 +842,7 @@
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
       "minecraft:piglin_brute": "2024-12-31 23:10:25 +0000",
       "minecraft:creeper": "2024-12-30 18:56:18 +0000",
+      "minecraft:wither": "2025-01-01 17:27:45 +0000",
       "minecraft:evoker": "2024-12-30 22:19:44 +0000",
       "minecraft:phantom": "2024-12-31 05:28:32 +0000",
       "minecraft:zombified_piglin": "2024-12-31 04:34:10 +0000",
@@ -901,6 +910,12 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/fabulous_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-01 17:27:51 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -1183,6 +1198,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-01 17:28:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "ratatouille": "2024-12-30 21:29:32 +0000",
@@ -1289,6 +1310,12 @@
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-01-01 17:27:51 +0000"
     },
     "done": true
   },
@@ -1847,7 +1874,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-01 17:15:50 +0000"
+      "!bit13": "2025-01-01 17:27:45 +0000",
+      "!bit14": "2025-01-01 17:27:45 +0000",
+      "!bit11": "2025-01-01 17:27:45 +0000",
+      "!bit12": "2025-01-01 17:27:45 +0000",
+      "!bit10": "2025-01-01 17:27:45 +0000",
+      "!bit9": "2025-01-01 17:27:45 +0000",
+      "!bit8": "2025-01-01 17:27:45 +0000",
+      "!bit7": "2025-01-01 17:27:45 +0000",
+      "!bit6": "2025-01-01 17:27:45 +0000",
+      "!bit5": "2025-01-01 17:27:45 +0000",
+      "!bit4": "2025-01-01 17:27:45 +0000",
+      "!bit3": "2025-01-01 17:27:45 +0000",
+      "!bit2": "2025-01-01 17:27:45 +0000",
+      "!bit1": "2025-01-01 17:27:45 +0000",
+      "!bit0": "2025-01-01 17:27:45 +0000"
     },
     "done": false
   },
@@ -1872,6 +1913,12 @@
   "enigmaticaddons:book/materials/ichor_droplet": {
     "criteria": {
       "has_items": "2025-01-01 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-01-01 17:27:52 +0000"
     },
     "done": true
   },
@@ -2206,6 +2253,12 @@
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 17:27:51 +0000"
     },
     "done": true
   },
