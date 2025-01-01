@@ -3940,3 +3940,36 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 04:48:40.442] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
 [01Jan2025 04:50:40.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Timed out
 [01Jan2025 04:50:40.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[01Jan2025 04:53:42.495] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[01Jan2025 04:53:42.525] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[01Jan2025 04:53:42.671] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[01Jan2025 04:53:42.671] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[01Jan2025 04:53:42.671] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[01Jan2025 04:53:42.817] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[01Jan2025 04:53:42.850] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[01Jan2025 04:53:42.850] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[01Jan2025 04:53:42.963] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[01Jan2025 04:53:42.963] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[01Jan2025 04:53:42.963] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[01Jan2025 04:53:43.049] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[01Jan2025 04:53:43.378] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[01Jan2025 04:53:43.378] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[01Jan2025 04:53:43.494] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[01Jan2025 04:53:43.557] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fcefe28
+[01Jan2025 04:53:43.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.254.198.158:39667] logged in with entity id 22083 at (91.15174580527228, 64.0, 127.47241931156375)
+[01Jan2025 04:53:43.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[01Jan2025 04:53:43.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[01Jan2025 04:53:43.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[01Jan2025 04:53:43.626] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[01Jan2025 04:53:43.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[01Jan2025 04:53:43.633] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[01Jan2025 04:53:43.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[01Jan2025 04:53:43.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[01Jan2025 04:53:43.875] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[01Jan2025 04:53:44.002] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[01Jan2025 04:53:44.002] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[01Jan2025 04:53:44.003] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jan2025 04:53:44.003] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[01Jan2025 04:54:50.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[01Jan2025 04:58:43.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Timed out
+[01Jan2025 04:58:43.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
