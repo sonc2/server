@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-01 03:22:10 +0000"
+    },
+    "done": true
+  },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1500,6 +1506,12 @@
     },
     "done": true
   },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-01-01 03:22:10 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1781,6 +1793,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-01-01 03:19:42 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1920,6 +1938,12 @@
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
+    "criteria": {
+      "has_items": "2025-01-01 03:22:10 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
