@@ -1001,6 +1001,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2025-01-01 18:45:50 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
@@ -1147,7 +1153,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-31 23:04:26 +0000"
+      "minecraft:crimson_forest": "2024-12-31 23:04:26 +0000",
+      "minecraft:nether_wastes": "2025-01-01 18:49:48 +0000"
     },
     "done": false
   },
@@ -1172,6 +1179,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2024-12-30 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 18:45:50 +0000"
     },
     "done": true
   },
@@ -1331,6 +1344,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 18:45:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1397,6 +1416,12 @@
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 20:00:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2025-01-01 18:45:50 +0000"
     },
     "done": true
   },
@@ -1883,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-01 18:49:33 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2030,9 +2061,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 20:00:30 +0000"
+      "has_parent_recipe": "2024-12-30 20:00:30 +0000",
+      "has_items": "2025-01-01 18:45:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
@@ -2181,6 +2213,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-01-01 18:45:50 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-30 18:54:12 +0000"
@@ -2192,12 +2230,6 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-01-01 18:35:57 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {

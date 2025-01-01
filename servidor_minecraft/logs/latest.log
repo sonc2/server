@@ -4050,3 +4050,21 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 18:37:24.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [01Jan2025 18:37:24.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [01Jan2025 18:41:14.183] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/easing/EasingType
+[01Jan2025 18:46:05.337] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[01Jan2025 18:46:05.359] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[01Jan2025 18:46:53.086] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Jan2025 18:46:53.089] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Jan2025 18:46:53.090] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Jan2025 18:46:53.096] [Worker-Main179/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$Interp
+[01Jan2025 18:46:53.097] [Worker-Main179/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$NoiseType
+[01Jan2025 18:46:53.098] [Worker-Main179/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$FractalType
+[01Jan2025 18:46:53.099] [Worker-Main179/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularDistanceFunction
+[01Jan2025 18:46:53.100] [Worker-Main179/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ninni/twigs/world/FastNoise$CellularReturnType
+[01Jan2025 18:49:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A Terrible Fortress]
+[01Jan2025 18:51:59.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad withered away whilst fighting Wither Skeleton
+[01Jan2025 18:52:23.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to -82.500000, 74.500000, 566.500000]
+[01Jan2025 18:52:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Wither Skeleton
+[01Jan2025 18:52:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to -84.500000, 74.500000, 566.500000]
+[01Jan2025 18:54:13.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=108, z=529} BlockPos{x=-97, y=108, z=528}
+[01Jan2025 18:54:13.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-96, y=109, z=529} BlockPos{x=-97, y=108, z=528}
+[01Jan2025 18:54:13.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=109, z=529} BlockPos{x=-97, y=108, z=528}
