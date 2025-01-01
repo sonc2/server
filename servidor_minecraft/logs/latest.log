@@ -4131,3 +4131,8 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 19:48:23.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [01Jan2025 19:48:23.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [01Jan2025 19:54:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Brain Drain]
+[01Jan2025 19:57:21.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 19:57:21.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 19:57:21.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 20:00:46.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[01Jan2025 20:01:24.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
