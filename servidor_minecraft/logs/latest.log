@@ -3935,3 +3935,43 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 17:55:26.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to 99.500000, 71.500000, 1775.500000]
 [01Jan2025 17:57:52.485] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [01Jan2025 17:58:45.865] [Worker-Main178/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[01Jan2025 18:05:28.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Armor Alteration]
+[01Jan2025 18:05:41.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Tiny Home]
+[01Jan2025 18:05:46.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Not a Fluid!]
+[01Jan2025 18:05:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Cutest Hopper]
+[01Jan2025 18:05:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Eye Spy]
+[01Jan2025 18:06:17.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Magebloom]
+[01Jan2025 18:07:24.312] [Worker-Main78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[01Jan2025 18:07:46.451] [Worker-Main179/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=198, y=48, z=187}
+[01Jan2025 18:08:26.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to 54.500000, 88.500000, 1688.500000]
+[01Jan2025 18:09:13.576] [Worker-Main178/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 286 120 1408
+[01Jan2025 18:09:18.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 18:09:18.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:09:18.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 18:09:18.338] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:09:33.428] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[01Jan2025 18:09:41.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A trip to the Countryside]
+[01Jan2025 18:10:11.164] [Worker-Main78/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: 318 102 1281
+[01Jan2025 18:10:11.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 18:10:11.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 18:10:11.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:10:11.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 18:11:09.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Mr. Lilly the Really Cool'/25891, l='ServerLevel[world]', x=175.67, y=76.00, z=1440.66] died: Mr. Lilly the Really Cool was incinerated by jefferson_pad's burning dash
+[01Jan2025 18:11:09.885] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 18:11:09.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:11:09.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 18:11:09.886] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:13:10.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 18:13:10.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[01Jan2025 18:13:10.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[01Jan2025 18:13:10.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:13:46.790] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 18:13:46.791] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 18:13:46.791] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 18:13:46.791] [Worker-Main179/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jan2025 18:13:48.695] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=395, y=68, z=1611} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[01Jan2025 18:13:48.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=395, y=68, z=1611}
+[01Jan2025 18:13:55.173] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 18:13:55.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 18:13:55.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[01Jan2025 18:13:55.175] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
