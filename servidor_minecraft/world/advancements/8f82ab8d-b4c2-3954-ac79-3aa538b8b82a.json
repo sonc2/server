@@ -421,6 +421,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_nether": "2025-01-01 19:00:56 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2024-12-30 19:18:48 +0000"
@@ -1314,6 +1320,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-01-01 19:03:39 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 19:07:21 +0000"
@@ -1380,6 +1392,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-01-01 19:03:39 +0000"
     },
     "done": true
   },
@@ -2181,6 +2199,7 @@
       "byg:red_oak_forest": "2025-01-01 17:12:51 +0000",
       "byg:rose_fields": "2025-01-01 17:16:32 +0000",
       "byg:magma_wastes": "2025-01-01 04:03:35 +0000",
+      "byg:embur_bog": "2025-01-01 18:58:18 +0000",
       "byg:crag_gardens": "2025-01-01 17:18:17 +0000",
       "byg:aspen_forest": "2025-01-01 17:12:15 +0000",
       "byg:crimson_gardens": "2025-01-01 01:16:05 +0000",
@@ -2288,6 +2307,7 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
+      "in_ruins_nether": "2025-01-01 18:58:29 +0000",
       "in_ruins_land_warm": "2024-12-31 04:13:27 +0000"
     },
     "done": false
