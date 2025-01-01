@@ -194,3 +194,17 @@
 [01Jan2025 01:15:01.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Giddy Blaze
 [01Jan2025 01:15:16.604] [Worker-Main102/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [01Jan2025 01:15:18.160] [Worker-Main102/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jan2025 01:15:27.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Hoglin
+[01Jan2025 01:15:59.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 01:16:45.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad fell from a high place
+[01Jan2025 01:21:02.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was blown up by Gremlin
+[01Jan2025 01:22:02.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad burned to death
+[01Jan2025 01:23:22.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 01:25:17.188] [Worker-Main101/WARN] [ModernFix/]: The namespace minecolonies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jan2025 01:28:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad suffocated in a wall
+[01Jan2025 01:41:46.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[01Jan2025 01:51:04.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Cursed!]
+[01Jan2025 01:51:09.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Mournstone
+[01Jan2025 01:51:45.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 01:52:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad went up in flames
+[01Jan2025 01:54:43.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Mournstone
