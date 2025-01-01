@@ -1277,6 +1277,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-01-01 02:29:49 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2024-12-30 18:58:25 +0000"
