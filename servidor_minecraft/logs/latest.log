@@ -4128,3 +4128,6 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 19:38:53.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Look at the Size of His Spawner!]
 [01Jan2025 19:38:56.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Who Needs Darkness?]
 [01Jan2025 19:45:20.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Creating a Horde]
+[01Jan2025 19:48:23.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 19:48:23.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 19:54:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Brain Drain]
