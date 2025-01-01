@@ -157,3 +157,6 @@
 [01Jan2025 00:34:26.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [01Jan2025 00:34:29.610] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/10422, l='ServerLevel[world]', x=120.54, y=65.50, z=182.70]
 [01Jan2025 00:34:29.611] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/10422, l='ServerLevel[world]', x=120.54, y=65.50, z=182.70]
+[01Jan2025 00:36:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> ya me desconecto
+[01Jan2025 00:36:07.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[01Jan2025 00:36:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
