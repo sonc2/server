@@ -388,6 +388,12 @@
     },
     "done": true
   },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-01-01 16:39:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
