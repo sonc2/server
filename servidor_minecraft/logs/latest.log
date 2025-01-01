@@ -4258,3 +4258,44 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 20:41:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> ya
 [01Jan2025 20:41:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale te aviso
 [01Jan2025 20:42:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Let's Get To Work]
+[01Jan2025 20:47:01.890] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 20:47:01.890] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:47:01.890] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:47:01.891] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 20:47:01.891] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:47:40.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el nether es re peligroso
+[01Jan2025 20:49:06.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[01Jan2025 20:49:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> encontre un creper mutante
+[01Jan2025 20:49:22.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy
+[01Jan2025 20:49:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> uy ahora lo matamos espera
+[01Jan2025 20:50:51.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[01Jan2025 20:50:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> VAMOSW
+[01Jan2025 20:51:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ESPERA MANZANAS DE ORO
+[01Jan2025 20:52:10.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> GO
+[01Jan2025 20:52:12.333] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 20:52:12.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:52:12.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:52:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> se fue
+[01Jan2025 20:53:00.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> aca
+[01Jan2025 20:53:03.695] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:53:03.696] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 20:53:06.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> parecia
+[01Jan2025 20:53:23.379] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/54358, l='ServerLevel[world]', x=323.50, y=70.00, z=69.50]
+[01Jan2025 20:53:38.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> se fue
+[01Jan2025 20:53:40.179] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/54399, l='ServerLevel[world]', x=307.50, y=73.00, z=71.50]
+[01Jan2025 20:54:12.390] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 20:54:12.390] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:54:12.390] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:55:04.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tienes lapiz
+[01Jan2025 20:55:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> azuli
+[01Jan2025 20:55:12.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> 4
+[01Jan2025 20:55:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tamos escasos en eso XD
+[01Jan2025 20:55:39.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:55:39.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[01Jan2025 20:55:39.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 20:55:46.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy a minar
+[01Jan2025 20:56:27.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 20:59:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bueno bye mas tarde entro para hacer el conjuro
+[01Jan2025 20:59:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ahi esta el server prendido
+[01Jan2025 20:59:17.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Disconnected
+[01Jan2025 20:59:17.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
