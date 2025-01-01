@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8f82ab8d-b4c2-3954-ac79-3aa538b8b82a",
+    "name": "jefferson_pad",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
