@@ -271,6 +271,12 @@
     },
     "done": false
   },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2025-01-01 20:12:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -310,6 +316,12 @@
   "majruszsaccessories:booster_dropped": {
     "criteria": {
       "picked_up_booster": "2024-12-31 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/mindelay": {
+    "criteria": {
+      "modifier": "2025-01-01 20:08:17 +0000"
     },
     "done": true
   },
@@ -1803,6 +1815,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2025-01-01 20:13:14 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
       "log_spam_fixer": "2024-12-30 15:58:55 +0000"
@@ -1917,6 +1935,12 @@
     "criteria": {
       "ratatouille": "2024-12-30 21:29:32 +0000",
       "bacon_and_eggs": "2024-12-30 22:14:25 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-01-01 20:07:08 +0000"
     },
     "done": false
   },
@@ -2279,6 +2303,26 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-01-01 20:12:46 +0000",
+      "!bit14": "2025-01-01 20:12:46 +0000",
+      "!bit11": "2025-01-01 20:12:46 +0000",
+      "!bit12": "2025-01-01 20:12:46 +0000",
+      "!bit10": "2025-01-01 20:12:46 +0000",
+      "!bit9": "2025-01-01 20:12:46 +0000",
+      "!bit8": "2025-01-01 20:12:46 +0000",
+      "!bit7": "2025-01-01 20:12:46 +0000",
+      "!bit6": "2025-01-01 20:12:46 +0000",
+      "!bit5": "2025-01-01 20:12:46 +0000",
+      "!bit4": "2025-01-01 20:12:46 +0000",
+      "!bit3": "2025-01-01 20:12:46 +0000",
+      "!bit2": "2025-01-01 20:12:46 +0000",
+      "!bit1": "2025-01-01 20:12:46 +0000",
+      "!bit0": "2025-01-01 20:12:46 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
