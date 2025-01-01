@@ -607,6 +607,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/spawncount": {
+    "criteria": {
+      "modifier": "2025-01-01 19:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-30 22:11:08 +0000"
@@ -988,6 +994,12 @@
   "enigmaticlegacy:book/enchantments/generic": {
     "criteria": {
       "has_items": "2024-12-31 04:04:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2025-01-01 19:38:56 +0000"
     },
     "done": true
   },
@@ -1962,6 +1974,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/players": {
+    "criteria": {
+      "modifier": "2025-01-01 19:36:44 +0000"
+    },
+    "done": true
+  },
   "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2264,21 +2282,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-01 19:32:21 +0000",
-      "!bit14": "2025-01-01 19:32:21 +0000",
-      "!bit11": "2025-01-01 19:32:21 +0000",
-      "!bit12": "2025-01-01 19:32:21 +0000",
-      "!bit10": "2025-01-01 19:32:21 +0000",
-      "!bit9": "2025-01-01 19:32:21 +0000",
-      "!bit8": "2025-01-01 19:32:21 +0000",
-      "!bit7": "2025-01-01 19:32:21 +0000",
-      "!bit6": "2025-01-01 19:32:21 +0000",
-      "!bit5": "2025-01-01 19:32:21 +0000",
-      "!bit4": "2025-01-01 19:32:21 +0000",
-      "!bit3": "2025-01-01 19:32:21 +0000",
-      "!bit2": "2025-01-01 19:32:21 +0000",
-      "!bit1": "2025-01-01 19:32:21 +0000",
-      "!bit0": "2025-01-01 19:32:21 +0000"
+      "target": "2025-01-01 19:38:47 +0000"
     },
     "done": false
   },
@@ -2422,6 +2426,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-31 05:33:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-01-01 19:36:44 +0000"
     },
     "done": true
   },
