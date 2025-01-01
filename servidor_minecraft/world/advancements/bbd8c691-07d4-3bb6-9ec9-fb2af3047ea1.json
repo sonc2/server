@@ -376,6 +376,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2025-01-01 00:00:34 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1226,6 +1232,12 @@
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2024-12-31 23:59:17 +0000"
     },
     "done": true
   },
