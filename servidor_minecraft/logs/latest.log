@@ -4146,3 +4146,95 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 20:12:07.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Adding a Switch]
 [01Jan2025 20:13:14.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Time-Warped Spawner]
 [01Jan2025 20:15:36.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[01Jan2025 20:18:50.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 20:18:50.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:18:50.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:18:50.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 20:23:44.879] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[01Jan2025 20:23:44.888] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[01Jan2025 20:23:44.930] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[01Jan2025 20:23:44.930] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[01Jan2025 20:23:45.034] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[01Jan2025 20:23:45.038] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[01Jan2025 20:23:45.082] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[01Jan2025 20:23:45.188] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[01Jan2025 20:23:45.230] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[01Jan2025 20:23:45.230] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[01Jan2025 20:23:45.288] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[01Jan2025 20:23:45.330] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[01Jan2025 20:23:49.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 20:23:49.085] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:23:49.085] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:23:49.085] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:23:51.204] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[01Jan2025 20:23:51.222] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[01Jan2025 20:23:51.282] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[01Jan2025 20:23:51.339] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@56c4e860
+[01Jan2025 20:23:51.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:47477] logged in with entity id 49661 at (117.41455785064024, 69.5, 183.24258308027387)
+[01Jan2025 20:23:51.389] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[01Jan2025 20:23:51.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[01Jan2025 20:23:51.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[01Jan2025 20:23:51.390] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[01Jan2025 20:23:51.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[01Jan2025 20:23:51.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[01Jan2025 20:23:51.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[01Jan2025 20:23:51.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[01Jan2025 20:23:51.520] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[01Jan2025 20:23:51.616] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[01Jan2025 20:23:51.616] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[01Jan2025 20:23:51.617] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jan2025 20:23:51.617] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[01Jan2025 20:24:02.836] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[01Jan2025 20:24:02.837] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:24:02.837] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:24:09.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 20:24:09.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:24:09.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[01Jan2025 20:25:29.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Jan2025 20:25:29.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bro
+[01Jan2025 20:26:30.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> baja para enseñarte algo
+[01Jan2025 20:27:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> eso es un spawner
+[01Jan2025 20:27:14.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> lo mejore
+[01Jan2025 20:27:19.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> busque en internet
+[01Jan2025 20:27:23.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mira
+[01Jan2025 20:27:31.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> funiciona por redstone
+[01Jan2025 20:27:42.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> metete aca
+[01Jan2025 20:28:04.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> aca abajo
+[01Jan2025 20:28:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> prende la àlanta
+[01Jan2025 20:28:13.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 20:28:13.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:28:13.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:28:13.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:28:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> cuidado con algunos que tienen efectos
+[01Jan2025 20:28:52.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> cuando salas apàgas para que no se sobrecargue
+[01Jan2025 20:30:36.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 20:30:36.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:30:36.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:30:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tengo dos hechizos
+[01Jan2025 20:30:47.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> 1 del dragon y otro de agujerio
+[01Jan2025 20:30:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> pero esta caro pide 800 de mana
+[01Jan2025 20:31:14.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=67, z=136} BlockPos{x=84, y=65, z=136}
+[01Jan2025 20:31:16.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=67, z=139} BlockPos{x=78, y=64, z=140}
+[01Jan2025 20:31:16.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=67, z=139} BlockPos{x=78, y=64, z=140}
+[01Jan2025 20:31:16.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=67, z=139} BlockPos{x=78, y=64, z=140}
+[01Jan2025 20:31:44.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> porque por aca estan nivel 2
+[01Jan2025 20:31:51.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> y por otro lago estan nivel 45
+[01Jan2025 20:31:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[01Jan2025 20:32:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> se supone que mientras más lejos del spawn suben de nivel
+[01Jan2025 20:32:23.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> HICE UN CASO DEMAS TOMA
+[01Jan2025 20:33:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no lo mejores
+[01Jan2025 20:33:23.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no vale la pena xD+
+[01Jan2025 20:33:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> YO ME ARREPENTI y gaste material :C
+[01Jan2025 20:33:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> vamos al end ?
+[01Jan2025 20:33:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> quiero escamas de dragon
+[01Jan2025 20:34:08.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> para mejorar esta esapda
+[01Jan2025 20:34:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy a farmear avisas cualquier cosa
+[01Jan2025 20:35:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> quiero netherita voy 1 y 4 fragementos
+[01Jan2025 20:35:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> aca los jefes dan
+[01Jan2025 20:35:40.884] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[01Jan2025 20:35:40.884] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:35:40.884] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:36:05.183] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 20:36:05.184] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 20:36:05.184] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 20:36:05.184] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
