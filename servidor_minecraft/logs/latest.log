@@ -4299,3 +4299,8 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 20:59:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ahi esta el server prendido
 [01Jan2025 20:59:17.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Disconnected
 [01Jan2025 20:59:17.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[01Jan2025 21:26:28.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 21:26:28.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 21:26:28.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[01Jan2025 21:26:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [First Trade]
+[01Jan2025 21:26:38.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [What a Deal!]
