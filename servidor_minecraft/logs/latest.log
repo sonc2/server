@@ -3784,3 +3784,47 @@ java.lang.IllegalArgumentException: null
 [01Jan2025 03:41:29.974] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [01Jan2025 03:41:29.974] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [01Jan2025 03:42:21.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Jan2025 03:43:34.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 03:44:53.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/8269, l='ServerLevel[world]', x=269.70, y=35.00, z=143.70] died: Samuel the Pit Master was slain by jefferson_pad
+[01Jan2025 03:46:56.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Timed out
+[01Jan2025 03:46:56.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[01Jan2025 03:49:25.800] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[01Jan2025 03:49:25.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[01Jan2025 03:49:25.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[01Jan2025 03:49:25.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[01Jan2025 03:49:26.044] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[01Jan2025 03:49:26.045] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[01Jan2025 03:49:26.046] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[01Jan2025 03:49:26.187] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[01Jan2025 03:49:26.188] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[01Jan2025 03:49:26.329] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[01Jan2025 03:49:26.376] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[01Jan2025 03:49:26.376] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[01Jan2025 03:49:26.661] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[01Jan2025 03:49:26.661] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[01Jan2025 03:49:26.784] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[01Jan2025 03:49:26.906] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f96e089
+[01Jan2025 03:49:26.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.18.134.53:58977] logged in with entity id 10761 at (271.38691283693396, 39.0, 145.68348614940157)
+[01Jan2025 03:49:26.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[01Jan2025 03:49:26.999] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[01Jan2025 03:49:27.000] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[01Jan2025 03:49:27.001] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[01Jan2025 03:49:27.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[01Jan2025 03:49:27.013] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[01Jan2025 03:49:27.014] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[01Jan2025 03:49:27.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[01Jan2025 03:49:27.441] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[01Jan2025 03:49:27.903] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[01Jan2025 03:49:27.904] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[01Jan2025 03:49:27.906] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jan2025 03:49:27.907] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[01Jan2025 03:52:00.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[01Jan2025 03:52:36.908] [Worker-Main86/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[01Jan2025 03:54:21.574] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[01Jan2025 03:54:21.576] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[01Jan2025 03:54:21.576] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[01Jan2025 03:54:52.310] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=27, y=76, z=488} but found not block entity block Block{minecraft:nether_bricks} at location
+[01Jan2025 03:54:52.311] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:nether_bricks} but failed at location BlockPos{x=27, y=76, z=488}
+[01Jan2025 03:59:00.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[01Jan2025 03:59:43.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Piglin Brute
+[01Jan2025 04:00:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Crimson Mosquito
