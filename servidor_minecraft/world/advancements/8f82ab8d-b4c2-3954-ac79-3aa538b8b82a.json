@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/etherium_ore": {
+    "criteria": {
+      "generic_revelation": "2025-01-01 18:15:28 +0000"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -331,15 +337,15 @@
     },
     "done": true
   },
-  "ars_nouveau:starby_charm": {
-    "criteria": {
-      "has_starbuncle_charm": "2025-01-01 18:05:50 +0000"
-    },
-    "done": true
-  },
   "blue_skies:everbright/get_ventium": {
     "criteria": {
       "obtain_material": "2025-01-01 17:49:39 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2025-01-01 18:05:50 +0000"
     },
     "done": true
   },
@@ -474,6 +480,7 @@
       "minecraft:cave_spider": "2024-12-31 05:32:33 +0000",
       "minecraft:piglin": "2024-12-31 23:05:42 +0000",
       "minecraft:enderman": "2024-12-31 05:01:41 +0000",
+      "minecraft:stray": "2025-01-01 18:11:09 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000",
       "minecraft:drowned": "2024-12-30 19:35:44 +0000",
       "minecraft:zombie_villager": "2024-12-31 04:32:17 +0000"
@@ -509,6 +516,12 @@
       "troll_hunter_0": "2024-12-31 22:44:21 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone1": "2025-01-01 18:14:35 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -795,6 +808,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-01-01 03:22:10 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2025-01-01 18:09:41 +0000"
     },
     "done": true
   },
@@ -2099,6 +2118,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2025-01-01 18:14:35 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/xp_scroll": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:06:50 +0000"
@@ -2170,7 +2195,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-01 18:09:08 +0000"
+      "not_target": "2025-01-01 18:35:57 +0000"
     },
     "done": false
   },
@@ -2349,6 +2374,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2025-01-01 18:14:35 +0000"
     },
     "done": true
   },
