@@ -4254,3 +4254,21 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:51:30.426] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47772, l='ServerLevel[world]', x=-90.50, y=55.00, z=127.50]
+[02Jan2025 05:57:47.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Mastering the Inferno]
+[02Jan2025 05:58:58.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Sleeping in the Cold Below]
+[02Jan2025 05:59:33.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[02Jan2025 06:00:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[02Jan2025 06:00:13.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Mastering Hell and Sea]
+[02Jan2025 06:00:13.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Rolling the Dice]
+[02Jan2025 06:00:13.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Eterna, Quanta, Arcana]
+[02Jan2025 06:00:13.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Basics]
+[02Jan2025 06:00:13.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Introduction to Chaos]
+[02Jan2025 06:00:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Enchanter]
+[02Jan2025 06:00:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Arcane Power]
+[02Jan2025 06:00:13.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Magical Energy]
+[02Jan2025 06:02:42.434] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[02Jan2025 06:03:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[02Jan2025 06:03:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...jefferson :pad<--[HERE]
+[02Jan2025 06:03:23.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[02Jan2025 06:07:32.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator

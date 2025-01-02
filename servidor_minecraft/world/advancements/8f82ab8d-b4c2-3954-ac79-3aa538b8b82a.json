@@ -205,6 +205,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2025-01-02 05:57:47 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -214,6 +220,12 @@
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
   },
@@ -553,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
+    },
+    "done": true
+  },
   "vinery:cherry_floorboard": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -688,9 +706,21 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticaddons:book/relics/lost_engine": {
     "criteria": {
       "has_items": "2024-12-30 20:54:07 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
   },
@@ -1384,6 +1414,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-30 18:58:25 +0000"
@@ -1486,6 +1522,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/super_magnet_ring": {
     "criteria": {
       "has_the_recipe": "2025-01-01 18:45:50 +0000"
@@ -1528,6 +1570,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:weeping_valley": "2025-01-01 19:03:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
   },
@@ -2470,23 +2518,15 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-02 05:45:54 +0000",
-      "!bit14": "2025-01-02 05:45:54 +0000",
-      "!bit11": "2025-01-02 05:45:54 +0000",
-      "!bit12": "2025-01-02 05:45:54 +0000",
-      "!bit10": "2025-01-02 05:45:54 +0000",
-      "!bit9": "2025-01-02 05:45:54 +0000",
-      "!bit8": "2025-01-02 05:45:54 +0000",
-      "!bit7": "2025-01-02 05:45:54 +0000",
-      "!bit6": "2025-01-02 05:45:54 +0000",
-      "!bit5": "2025-01-02 05:45:54 +0000",
-      "!bit4": "2025-01-02 05:45:54 +0000",
-      "!bit3": "2025-01-02 05:45:54 +0000",
-      "!bit2": "2025-01-02 05:45:54 +0000",
-      "!bit1": "2025-01-02 05:45:54 +0000",
-      "!bit0": "2025-01-02 05:45:54 +0000"
+      "target": "2025-01-02 06:06:55 +0000"
     },
     "done": false
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-01-02 06:00:13 +0000"
+    },
+    "done": true
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -2640,6 +2680,12 @@
   "apotheosis:spawner/modifier": {
     "criteria": {
       "modifier": "2025-01-01 19:36:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-01-02 05:58:58 +0000"
     },
     "done": true
   },
