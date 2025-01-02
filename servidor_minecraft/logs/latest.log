@@ -4050,3 +4050,66 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 18:43:33.630] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [02Jan2025 18:44:12.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Immaterial and Missing Power]
 [02Jan2025 18:44:19.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mate al jefe de la campana
+[02Jan2025 18:48:26.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 18:48:26.411] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 18:48:26.411] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 18:48:49.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> como tienes la hacha que tala todo?
+[02Jan2025 18:49:00.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> es de encantamiento
+[02Jan2025 18:49:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> se llama motosierra
+[02Jan2025 18:49:11.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el libro
+[02Jan2025 18:49:15.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> creo que tengo espera
+[02Jan2025 18:50:04.409] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 18:50:04.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 18:50:04.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 18:50:04.410] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 18:50:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no tengo :c
+[02Jan2025 18:52:24.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[02Jan2025 18:52:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[02Jan2025 18:52:45.066] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[02Jan2025 18:52:45.192] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[02Jan2025 18:52:45.208] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[02Jan2025 18:52:45.208] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[02Jan2025 18:52:45.338] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[02Jan2025 18:52:45.340] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[02Jan2025 18:52:45.340] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[02Jan2025 18:52:45.493] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[02Jan2025 18:52:45.507] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[02Jan2025 18:52:45.548] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[02Jan2025 18:52:45.610] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[02Jan2025 18:52:45.652] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[02Jan2025 18:52:46.387] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[02Jan2025 18:52:46.408] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[02Jan2025 18:52:46.436] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[02Jan2025 18:52:46.516] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3635efc1
+[02Jan2025 18:52:46.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:45827] logged in with entity id 17579 at (81.14586390678512, 67.0, 137.4256307950426)
+[02Jan2025 18:52:46.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[02Jan2025 18:52:46.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[02Jan2025 18:52:46.570] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[02Jan2025 18:52:46.570] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[02Jan2025 18:52:46.572] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[02Jan2025 18:52:46.574] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[02Jan2025 18:52:46.574] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[02Jan2025 18:52:46.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[02Jan2025 18:52:46.682] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[02Jan2025 18:52:46.754] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[02Jan2025 18:52:46.754] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Jan2025 18:52:46.755] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 18:52:46.755] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[02Jan2025 18:52:46.851] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 18:52:46.852] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 18:53:04.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 18:53:04.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 18:53:04.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 18:53:04.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 18:54:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine fell while climbing
+[02Jan2025 18:54:47.363] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 80.89246050731505, Y: 64.0, Z: 149.47900014851817
+[02Jan2025 18:54:58.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/17829, l='ServerLevel[world]', x=80.89, y=65.50, z=149.48]
+[02Jan2025 18:54:58.257] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/17829, l='ServerLevel[world]', x=80.89, y=65.50, z=149.48]
+[02Jan2025 18:55:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> mi cuerpo?
+[02Jan2025 18:55:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ahi esta
+[02Jan2025 18:57:12.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[02Jan2025 18:57:12.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[02Jan2025 18:57:29.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Father Perid'/17905, l='ServerLevel[world]', x=20.62, y=66.00, z=161.29] died: Father Perid was slain by jefferson_pad
+[02Jan2025 18:58:25.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 18:58:25.012] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 18:58:25.012] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
