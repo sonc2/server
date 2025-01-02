@@ -757,6 +757,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-01-02 05:23:00 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_5": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1734,7 +1740,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-02 05:17:03 +0000"
+      "target": "2025-01-02 05:22:31 +0000"
     },
     "done": false
   },

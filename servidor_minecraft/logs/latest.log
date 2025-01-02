@@ -4153,3 +4153,40 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 05:16:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Check Out the Guide]
 [02Jan2025 05:16:32.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/requestsystem/manager/AssigningStrategy
 [02Jan2025 05:16:49.267] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=46, y=69, z=155} of type builder
+[02Jan2025 05:18:37.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> :C
+[02Jan2025 05:18:58.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine hit the ground too hard whilst trying to escape Royal Zombie
+[02Jan2025 05:18:58.987] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 98.8428299305148, Y: 64.0, Z: 163.84173194090204
+[02Jan2025 05:19:09.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Royal Zombie
+[02Jan2025 05:19:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was doomed to fall by Skeleton
+[02Jan2025 05:19:30.988] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 82.90078351251513, Y: 65.0, Z: 72.31800735404505
+[02Jan2025 05:19:34.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 05:19:34.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 05:19:34.138] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:20:15.436] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/40149, l='ServerLevel[world]', x=98.84, y=65.50, z=163.84]
+[02Jan2025 05:20:15.437] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/40149, l='ServerLevel[world]', x=98.84, y=65.50, z=163.84]
+[02Jan2025 05:20:29.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> MATO A VARIOS :C
+[02Jan2025 05:20:49.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> salio legendario pa colmo
+[02Jan2025 05:21:28.187] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[02Jan2025 05:21:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> me dio esmeralda
+[02Jan2025 05:21:49.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> lo mato tambien
+[02Jan2025 05:21:50.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xd
+[02Jan2025 05:21:52.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 05:21:52.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 05:21:52.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:21:52.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:21:52.343] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:23:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Builder Begins]
+[02Jan2025 05:23:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [The Builder Begins]
+[02Jan2025 05:23:32.537] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/network/messages/server/colony/OpenInventoryMessage$InventoryType
+[02Jan2025 05:24:30.436] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:24:30.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:24:31.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/util/BuildingStructureHandler$Stage
+[02Jan2025 05:27:36.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Getting an Upgrade]
+[02Jan2025 05:27:40.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bro
+[02Jan2025 05:27:45.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Fulfillment Comes Cheap]
+[02Jan2025 05:27:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tienes pociones de regenearcion
+[02Jan2025 05:27:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> no
+[02Jan2025 05:28:03.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> toma
+[02Jan2025 05:28:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> reclama en misones
+[02Jan2025 05:28:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> y me la pasas
+[02Jan2025 05:28:16.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [The Secrets of Enchanting]
