@@ -3792,3 +3792,52 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 02:21:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
 [02Jan2025 02:21:32.674] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
 [02Jan2025 02:21:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[02Jan2025 02:57:20.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=68, z=129} BlockPos{x=90, y=62, z=97}
+[02Jan2025 02:59:11.433] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 02:59:11.434] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 02:59:11.434] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 02:59:11.434] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 03:01:58.810] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[02Jan2025 03:01:58.815] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[02Jan2025 03:01:58.817] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[02Jan2025 03:01:58.906] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[02Jan2025 03:01:58.929] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[02Jan2025 03:01:58.929] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[02Jan2025 03:01:59.060] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[02Jan2025 03:01:59.064] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[02Jan2025 03:01:59.066] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[02Jan2025 03:01:59.214] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[02Jan2025 03:01:59.256] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[02Jan2025 03:01:59.257] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[02Jan2025 03:02:04.945] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[02Jan2025 03:02:04.968] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[02Jan2025 03:02:05.002] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[02Jan2025 03:02:05.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4d5683cb
+[02Jan2025 03:02:05.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Escobine[/127.48.250.102:60647] logged in with entity id 19090 at (71.401230641972, 64.0, 132.42957182411118)
+[02Jan2025 03:02:05.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Escobine
+[02Jan2025 03:02:05.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Escobine
+[02Jan2025 03:02:05.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Escobine
+[02Jan2025 03:02:05.162] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Escobine
+[02Jan2025 03:02:05.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Escobine
+[02Jan2025 03:02:05.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Escobine
+[02Jan2025 03:02:05.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Escobine
+[02Jan2025 03:02:05.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine joined the game
+[02Jan2025 03:02:05.346] [Server thread/INFO] [Jade/]: Syncing config to Escobine (bbd8c691-07d4-3bb6-9ec9-fb2af3047ea1)
+[02Jan2025 03:02:05.434] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Escobine...
+[02Jan2025 03:02:05.434] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Jan2025 03:02:05.435] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 03:02:05.435] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Escobine
+[02Jan2025 03:04:24.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [What a Deal!]
+[02Jan2025 03:04:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [First Trade]
+[02Jan2025 03:10:20.582] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 03:10:20.582] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 03:14:09.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[02Jan2025 03:14:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya vilvi +
+[02Jan2025 03:14:16.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> volvi me fui a cenar
+[02Jan2025 03:14:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> haste uno para tradear libros
+[02Jan2025 03:15:33.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Warped]
+[02Jan2025 03:15:39.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> eso te lleva a la casa
+[02Jan2025 03:15:47.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> solamente se usa una vez
+[02Jan2025 03:16:02.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> okey
+[02Jan2025 03:16:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy hacer un nuevo portal vas ?
+[02Jan2025 03:16:31.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> mira

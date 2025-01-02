@@ -187,6 +187,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-02 03:04:24 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 19:12:17 +0000",
@@ -736,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-02 03:04:24 +0000"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -787,6 +799,12 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-01-01 20:42:05 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "farmer": "2025-01-02 03:04:24 +0000"
     },
     "done": false
   },
