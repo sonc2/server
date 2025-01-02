@@ -4826,3 +4826,23 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 20:46:50.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was chopped to bits by Skirmisher
 [02Jan2025 20:47:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
 [02Jan2025 20:47:51.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to -2254.500000, 70.500000, 3242.500000]
+[02Jan2025 20:52:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[02Jan2025 20:54:14.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:54:41.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:54:41.417] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Jan2025 20:54:41.419] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 14 is dual wielding: false
+[02Jan2025 20:54:41.419] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[02Jan2025 20:54:41.419] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[02Jan2025 20:54:41.420] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[02Jan2025 20:54:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:55:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:55:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:55:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:55:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:56:06.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:56:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Klaudius Bloodglare
+[02Jan2025 20:56:18.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/57635, l='ServerLevel[world]', x=-2249.30, y=72.00, z=3244.51] died: Klaudius Bloodglare was burnt to a crisp whilst fighting jefferson_pad
+[02Jan2025 20:56:57.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was shot by Pillager
+[02Jan2025 20:57:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was shot by Pillager
+[02Jan2025 20:57:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was shot by Pillager
+[02Jan2025 20:58:58.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was sniped by Archer
