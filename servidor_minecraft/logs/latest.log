@@ -3754,3 +3754,16 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 01:10:06.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [02Jan2025 01:10:06.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [02Jan2025 01:10:06.830] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 01:17:00.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 01:17:00.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 01:17:00.084] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 01:17:35.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Quatonjon the Rejected'/10773, l='ServerLevel[world]', x=140.18, y=65.18, z=144.09] died: Quatonjon the Rejected was slain by jefferson_pad
+[02Jan2025 01:18:50.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 01:18:50.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 01:18:50.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 01:18:50.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 01:20:39.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Nerves of Steel]
+[02Jan2025 01:20:40.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[02Jan2025 01:20:48.696] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
+[02Jan2025 01:24:53.376] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[02Jan2025 01:24:53.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus

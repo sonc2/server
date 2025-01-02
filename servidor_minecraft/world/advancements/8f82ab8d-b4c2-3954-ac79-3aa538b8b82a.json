@@ -603,6 +603,12 @@
     },
     "done": true
   },
+  "undead_unleashed:nerves_of_steel": {
+    "criteria": {
+      "nerves_of_steel": "2025-01-02 01:20:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:mob_jar": {
     "criteria": {
       "has_mob_jar": "2025-01-01 18:05:41 +0000"
@@ -2351,12 +2357,6 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-01-02 01:08:39 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
