@@ -616,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-02 04:06:46 +0000"
+    },
+    "done": true
+  },
   "vinery:jungle_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1330,6 +1336,12 @@
     },
     "done": true
   },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-01-02 03:54:45 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2024-12-30 19:12:18 +0000"
@@ -1632,6 +1644,12 @@
     },
     "done": false
   },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-01-02 04:03:27 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/insignia": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:39:10 +0000"
@@ -1671,7 +1689,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-02 03:43:21 +0000"
+      "!bit13": "2025-01-02 04:04:24 +0000",
+      "!bit14": "2025-01-02 04:04:24 +0000",
+      "!bit11": "2025-01-02 04:04:24 +0000",
+      "!bit12": "2025-01-02 04:04:24 +0000",
+      "!bit10": "2025-01-02 04:04:24 +0000",
+      "!bit9": "2025-01-02 04:04:24 +0000",
+      "!bit8": "2025-01-02 04:04:24 +0000",
+      "!bit7": "2025-01-02 04:04:24 +0000",
+      "!bit6": "2025-01-02 04:04:24 +0000",
+      "!bit5": "2025-01-02 04:04:24 +0000",
+      "!bit4": "2025-01-02 04:04:24 +0000",
+      "!bit3": "2025-01-02 04:04:24 +0000",
+      "!bit2": "2025-01-02 04:04:24 +0000",
+      "!bit1": "2025-01-02 04:04:24 +0000",
+      "!bit0": "2025-01-02 04:04:24 +0000"
     },
     "done": false
   },

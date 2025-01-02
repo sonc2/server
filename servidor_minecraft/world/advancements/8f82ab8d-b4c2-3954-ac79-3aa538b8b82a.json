@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2024-12-31 03:02:53 +0000"
@@ -409,6 +415,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2025-01-02 03:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/very_very_frightening": {
     "criteria": {
       "struck_villager": "2024-12-31 04:33:50 +0000"
@@ -480,6 +492,12 @@
   "iter_rpg:economy": {
     "criteria": {
       "economy": "2025-01-01 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-01-02 03:50:24 +0000"
     },
     "done": true
   },
@@ -563,6 +581,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-31 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 03:59:33 +0000"
     },
     "done": true
   },
@@ -790,6 +814,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mega_sponge": {
+    "criteria": {
+      "has_items": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -847,6 +877,12 @@
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-01-02 03:54:50 +0000"
     },
     "done": true
   },
@@ -1027,6 +1063,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-01-02 03:59:35 +0000"
     },
     "done": true
   },
@@ -1262,6 +1304,12 @@
       "has_the_recipe": "2025-01-01 18:45:50 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-02 03:59:33 +0000"
+    },
+    "done": false
   },
   "majruszsaccessories:certificate_of_taming": {
     "criteria": {
@@ -1548,9 +1596,11 @@
       "baked_potato": "2025-01-01 20:47:22 +0000",
       "cooked_mutton": "2024-12-30 19:29:12 +0000",
       "apple": "2024-12-30 19:18:56 +0000",
+      "cooked_cod": "2025-01-02 04:00:01 +0000",
       "golden_apple": "2024-12-30 19:39:30 +0000",
       "bread": "2024-12-31 05:23:21 +0000",
       "rotten_flesh": "2024-12-30 20:48:08 +0000",
+      "dried_kelp": "2025-01-02 03:59:57 +0000",
       "golden_carrot": "2024-12-31 23:05:11 +0000",
       "enchanted_golden_apple": "2024-12-31 21:09:36 +0000",
       "carrot": "2025-01-02 01:07:36 +0000"
@@ -2253,6 +2303,12 @@
     },
     "done": true
   },
+  "ars_nouveau:wilden_explosion": {
+    "criteria": {
+      "wilden_explosion": "2025-01-02 03:54:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 18:56:38 +0000"
@@ -2326,6 +2382,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-01-02 03:59:23 +0000"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2024-12-30 15:58:55 +0000",
@@ -2383,6 +2445,26 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-01-02 04:00:52 +0000",
+      "!bit14": "2025-01-02 04:00:52 +0000",
+      "!bit11": "2025-01-02 04:00:52 +0000",
+      "!bit12": "2025-01-02 04:00:52 +0000",
+      "!bit10": "2025-01-02 04:00:52 +0000",
+      "!bit9": "2025-01-02 04:00:52 +0000",
+      "!bit8": "2025-01-02 04:00:52 +0000",
+      "!bit7": "2025-01-02 04:00:52 +0000",
+      "!bit6": "2025-01-02 04:00:52 +0000",
+      "!bit5": "2025-01-02 04:00:52 +0000",
+      "!bit4": "2025-01-02 04:00:52 +0000",
+      "!bit3": "2025-01-02 04:00:52 +0000",
+      "!bit2": "2025-01-02 04:00:52 +0000",
+      "!bit1": "2025-01-02 04:00:52 +0000",
+      "!bit0": "2025-01-02 04:00:52 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
