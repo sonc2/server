@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-02 02:02:16 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/materials/etherium_ore": {
     "criteria": {
       "generic_revelation": "2025-01-01 18:15:28 +0000"
