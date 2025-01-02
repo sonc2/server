@@ -308,6 +308,7 @@
       "entered_pillager_camp": "2024-12-31 04:13:37 +0000",
       "entered_deep_crypt": "2024-12-31 05:32:59 +0000",
       "entered_druid_circle": "2024-12-31 02:22:53 +0000",
+      "entered_large_dungeon": "2025-01-02 19:15:21 +0000",
       "entered_dungeon_variant": "2024-12-30 21:00:43 +0000",
       "entered_ruined_building": "2025-01-01 17:23:34 +0000"
     },
@@ -472,6 +473,12 @@
   "aquamirae:recipes/spinefish": {
     "criteria": {
       "has_item": "2024-12-30 20:07:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-02 19:15:21 +0000"
     },
     "done": true
   },
@@ -1158,13 +1165,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "atmospheric:rainforest_basin": "2025-01-02 19:14:51 +0000",
+      "atmospheric:rainforest": "2025-01-02 19:14:47 +0000",
       "minecraft:sunflower_plains": "2024-12-31 02:22:46 +0000",
       "minecraft:bamboo_jungle": "2025-01-02 05:38:12 +0000",
       "minecraft:beach": "2024-12-31 04:13:53 +0000",
+      "minecraft:dark_forest": "2025-01-02 19:09:48 +0000",
+      "minecraft:stony_peaks": "2025-01-02 19:14:39 +0000",
       "minecraft:sparse_jungle": "2025-01-01 17:19:12 +0000",
       "minecraft:river": "2024-12-30 18:57:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-02 19:14:53 +0000",
+      "minecraft:stony_shore": "2025-01-02 19:14:50 +0000",
       "minecraft:forest": "2024-12-30 22:14:02 +0000",
       "minecraft:ocean": "2024-12-30 19:49:33 +0000",
+      "minecraft:jungle": "2025-01-02 19:13:14 +0000",
       "minecraft:flower_forest": "2024-12-31 05:55:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-01 17:39:19 +0000",
       "minecraft:deep_dark": "2024-12-31 20:34:43 +0000",
@@ -2527,6 +2541,7 @@
       "byg:embur_bog": "2025-01-01 18:58:18 +0000",
       "byg:crag_gardens": "2025-01-01 17:18:17 +0000",
       "byg:aspen_forest": "2025-01-01 17:12:15 +0000",
+      "byg:forgotten_forest": "2025-01-02 19:12:55 +0000",
       "byg:crimson_gardens": "2025-01-01 01:16:05 +0000",
       "byg:weeping_mire": "2025-01-01 03:53:58 +0000",
       "byg:basalt_barrera": "2024-12-30 19:35:28 +0000",
@@ -2590,21 +2605,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-02 19:02:44 +0000",
-      "!bit14": "2025-01-02 19:02:44 +0000",
-      "!bit11": "2025-01-02 19:02:44 +0000",
-      "!bit12": "2025-01-02 19:02:44 +0000",
-      "!bit10": "2025-01-02 19:02:44 +0000",
-      "!bit9": "2025-01-02 19:02:44 +0000",
-      "!bit8": "2025-01-02 19:02:44 +0000",
-      "!bit7": "2025-01-02 19:02:44 +0000",
-      "!bit6": "2025-01-02 19:02:44 +0000",
-      "!bit5": "2025-01-02 19:02:44 +0000",
-      "!bit4": "2025-01-02 19:02:44 +0000",
-      "!bit3": "2025-01-02 19:02:44 +0000",
-      "!bit2": "2025-01-02 19:02:44 +0000",
-      "!bit1": "2025-01-02 19:02:44 +0000",
-      "!bit0": "2025-01-02 19:02:44 +0000"
+      "target": "2025-01-02 19:18:01 +0000"
     },
     "done": false
   },

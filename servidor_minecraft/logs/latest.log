@@ -4122,3 +4122,61 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 19:08:30.579] [Worker-Main199/WARN] [ModernFix/]: The namespace takesapillage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [02Jan2025 19:08:31.605] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ae9c9918: RandomSpreadSearchWorker succeeded with 3913 radius, 82 samples
 [02Jan2025 19:08:31.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Jan2025 19:09:10.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[02Jan2025 19:09:11.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[02Jan2025 19:09:11.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[02Jan2025 19:09:37.558] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[02Jan2025 19:09:46.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[02Jan2025 19:09:52.450] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/20657, l='ServerLevel[world]', x=-284.50, y=75.00, z=165.50]
+[02Jan2025 19:10:03.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
+[02Jan2025 19:10:36.421] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:10:36.422] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:10:36.422] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:12:40.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[02Jan2025 19:12:42.659] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:12:42.659] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:12:42.659] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:12:50.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[02Jan2025 19:12:50.429] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:12:50.435] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 19:12:50.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:12:50.437] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:13:06.593] [Worker-Main20/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 19:13:10.077] [Worker-Main199/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[02Jan2025 19:13:31.551] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 19:14:46.509] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:14:46.509] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 19:14:46.510] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:14:46.510] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 19:14:49.772] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:14:49.773] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:14:49.773] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 19:14:49.773] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 19:15:00.875] [Worker-Main20/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[02Jan2025 19:15:01.069] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:01.069] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:01.070] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:01.070] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:20.387] [Worker-Main199/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=-11, z=-113}
+[02Jan2025 19:15:20.388] [Worker-Main199/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=204, y=-11, z=-110}
+[02Jan2025 19:15:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [What a Dungeon!]
+[02Jan2025 19:15:21.805] [Worker-Main183/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -722 116 755
+[02Jan2025 19:15:22.017] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-162, y=-12, z=171}
+[02Jan2025 19:15:23.221] [Worker-Main183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.428] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.428] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.428] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.428] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.429] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.429] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:26.429] [Worker-Main199/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:15:42.915] [Worker-Main199/WARN] [ModernFix/]: The namespace minecolonies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 19:16:05.858] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[02Jan2025 19:16:05.865] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@283a5c29[id=<null>,name=Knight_Dox,properties={},legacy=false] (/127.147.89.35:60531): Unexpected custom data from client
+[02Jan2025 19:16:05.867] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@283a5c29[id=<null>,name=Knight_Dox,properties={},legacy=false] (/127.147.89.35:60531) lost connection: Unexpected custom data from client
+[02Jan2025 19:16:09.813] [Worker-Main20/WARN] [ModernFix/]: The namespace dungeons_enhanced contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 19:16:10.931] [Worker-Main183/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 19:16:45.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[02Jan2025 19:18:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Ewart the Cold
+[02Jan2025 19:18:24.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[02Jan2025 19:18:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to -582.500000, 47.500000, 790.500000]
