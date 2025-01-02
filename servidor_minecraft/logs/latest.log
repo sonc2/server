@@ -3776,3 +3776,39 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 17:16:51.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [02Jan2025 17:16:51.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [02Jan2025 17:16:51.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:17:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ayuda xd
+[02Jan2025 17:17:49.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[02Jan2025 17:17:49.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[02Jan2025 17:17:49.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was blown up by Swampjaw
+[02Jan2025 17:17:49.225] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 162.18483945514578, Y: 64.0, Z: 116.71879664256515
+[02Jan2025 17:18:55.861] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/2481, l='ServerLevel[world]', x=162.18, y=65.50, z=116.72]
+[02Jan2025 17:18:55.862] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/2481, l='ServerLevel[world]', x=162.18, y=65.50, z=116.72]
+[02Jan2025 17:19:20.654] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/network/ServerBoundCycleQuiverPacket$Slot
+[02Jan2025 17:19:56.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[02Jan2025 17:20:06.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Bog Champion]
+[02Jan2025 17:20:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Bog Champion]
+[02Jan2025 17:20:22.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ta potente
+[02Jan2025 17:20:38.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> como seran los otros
+[02Jan2025 17:20:51.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[02Jan2025 17:20:51.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[02Jan2025 17:21:08.801] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[02Jan2025 17:22:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine was burnt to a crisp whilst fighting Phantom
+[02Jan2025 17:22:40.914] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 63.08954030770192, Y: 64.0, Z: 157.90252195341648
+[02Jan2025 17:22:44.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:22:44.813] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:22:44.813] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:22:49.758] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/3239, l='ServerLevel[world]', x=63.09, y=65.50, z=157.90]
+[02Jan2025 17:22:49.758] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3239, l='ServerLevel[world]', x=63.09, y=65.50, z=157.90]
+[02Jan2025 17:23:14.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine burned to death
+[02Jan2025 17:23:14.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 55.72494844523946, Y: 65.0, Z: 163.07472741269717
+[02Jan2025 17:23:16.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[02Jan2025 17:23:24.860] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/3329, l='ServerLevel[world]', x=55.72, y=66.50, z=163.07]
+[02Jan2025 17:23:24.860] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/3329, l='ServerLevel[world]', x=55.72, y=66.50, z=163.07]
+[02Jan2025 17:24:43.460] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:24:43.460] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 17:24:43.461] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 17:24:43.461] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:25:23.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> has uno para guardias no hya ?
+[02Jan2025 17:25:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> RECIEN ESTA COMENZANDO
+[02Jan2025 17:25:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> o dime cual es yo lo hago porque muchos mueren
+[02Jan2025 17:25:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> okas okas
