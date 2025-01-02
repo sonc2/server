@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/starlit_sword": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:23:44 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2024-12-31 22:48:06 +0000"
@@ -93,6 +99,18 @@
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_axe": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:23:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_starlit_log": "2025-01-02 03:23:28 +0000"
     },
     "done": true
   },
@@ -327,6 +345,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:24:11 +0000"
+    },
+    "done": true
+  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -400,6 +424,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/starlit_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:23:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2024-12-31 04:20:14 +0000",
@@ -444,6 +474,12 @@
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2024-12-31 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:24:11 +0000"
     },
     "done": true
   },
@@ -619,6 +655,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2024-12-31 22:48:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-01-02 03:22:52 +0000"
     },
     "done": true
   },
@@ -1059,6 +1101,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/starlit_shovel": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:23:44 +0000"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1086,6 +1134,12 @@
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-30 19:12:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_hoe": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:23:44 +0000"
     },
     "done": true
   },
@@ -1243,6 +1297,12 @@
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-01-02 03:22:52 +0000"
     },
     "done": true
   },
@@ -1413,6 +1473,12 @@
       "requirement": "2024-12-31 04:18:40 +0000"
     },
     "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-01-02 03:22:52 +0000"
+    },
+    "done": false
   },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
@@ -1621,6 +1687,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:24:11 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1663,6 +1735,12 @@
       "log_spam_fixer": "2024-12-30 19:12:18 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:24:11 +0000"
+    },
+    "done": true
   },
   "enigmaticlegacy:main/cursed_ring": {
     "criteria": {
@@ -1883,6 +1961,12 @@
       "is_cursed_one": "2024-12-30 19:41:24 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-01-02 03:24:11 +0000"
+    },
+    "done": true
   },
   "vinery:grapevine_pot": {
     "criteria": {

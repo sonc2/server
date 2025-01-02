@@ -433,6 +433,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-01-02 03:22:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2024-12-31 21:18:31 +0000"
@@ -2180,6 +2186,12 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-01-02 03:22:49 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
       "has_parent_recipe": "2024-12-30 20:00:30 +0000",
@@ -2277,6 +2289,12 @@
     },
     "done": true
   },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-01-02 03:22:49 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2368,7 +2386,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-02 03:21:39 +0000"
+      "!bit13": "2025-01-02 03:25:04 +0000",
+      "!bit14": "2025-01-02 03:25:04 +0000",
+      "!bit11": "2025-01-02 03:25:04 +0000",
+      "!bit12": "2025-01-02 03:25:04 +0000",
+      "!bit10": "2025-01-02 03:25:04 +0000",
+      "!bit9": "2025-01-02 03:25:04 +0000",
+      "!bit8": "2025-01-02 03:25:04 +0000",
+      "!bit7": "2025-01-02 03:25:04 +0000",
+      "!bit6": "2025-01-02 03:25:04 +0000",
+      "!bit5": "2025-01-02 03:25:04 +0000",
+      "!bit4": "2025-01-02 03:25:04 +0000",
+      "!bit3": "2025-01-02 03:25:04 +0000",
+      "!bit2": "2025-01-02 03:25:04 +0000",
+      "!bit1": "2025-01-02 03:25:04 +0000",
+      "!bit0": "2025-01-02 03:25:04 +0000"
     },
     "done": false
   },

@@ -3863,3 +3863,24 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 03:24:24.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> goo
 [02Jan2025 03:24:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> es para lootear nomas
 [02Jan2025 03:26:46.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> nd bueno :c
+[02Jan2025 03:27:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> reclama en portales
+[02Jan2025 03:27:22.644] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[02Jan2025 03:27:24.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> escoge una armadura se ve buena
+[02Jan2025 03:27:27.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[02Jan2025 03:27:31.633] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 03:27:31.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 03:27:31.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 03:27:36.391] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 03:27:36.391] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 03:27:36.392] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 03:27:36.392] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 03:31:53.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> de casualidad no agarraste un libro con reparacion?
+[02Jan2025 03:32:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si
+[02Jan2025 03:32:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> okey
+[02Jan2025 03:32:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> era para hacer encatamieno
+[02Jan2025 03:32:18.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> pero no funciono
+[02Jan2025 03:32:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> deja lo busco
+[02Jan2025 03:35:31.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bro
+[02Jan2025 03:35:38.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ve si te da experiencia
+[02Jan2025 03:35:39.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> dime
+[02Jan2025 03:36:02.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> farmea y despues me lo das
