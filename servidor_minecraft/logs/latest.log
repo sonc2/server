@@ -3812,3 +3812,38 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 17:25:38.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> RECIEN ESTA COMENZANDO
 [02Jan2025 17:25:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> o dime cual es yo lo hago porque muchos mueren
 [02Jan2025 17:25:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> okas okas
+[02Jan2025 17:27:20.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[02Jan2025 17:27:22.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[02Jan2025 17:27:28.509] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[02Jan2025 17:27:28.547] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting auviotre/enigmatic/addon/contents/entities/goal/CrossbowBlazeAttackGoal$CrossbowState
+[02Jan2025 17:27:28.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamabnormals/savage_and_ravage/common/entity/ai/goal/ImprovedCrossbowGoal$CrossbowState
+[02Jan2025 17:27:32.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
+[02Jan2025 17:27:33.490] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[02Jan2025 17:27:34.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[02Jan2025 17:27:36.502] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[02Jan2025 17:28:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Toll the Bell]
+[02Jan2025 17:28:29.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy a invocar otro jefe
+[02Jan2025 17:28:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> YO ME RETIRO UN RATO
+[02Jan2025 17:28:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale dale
+[02Jan2025 17:28:44.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[02Jan2025 17:28:44.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[02Jan2025 17:31:15.163] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:31:15.163] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:31:15.163] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 17:31:15.164] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:31:16.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Bellringer
+[02Jan2025 17:31:34.607] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 17:31:34.608] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:31:34.608] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:31:38.562] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:31:38.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:31:38.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:31:38.563] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:33:44.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[02Jan2025 17:34:30.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 17:34:30.809] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:35:19.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Robbie'/6470, l='ServerLevel[world]', x=53.31, y=70.00, z=197.77] died: Robbie was slain by jefferson_pad
+[02Jan2025 17:36:01.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[02Jan2025 17:36:01.510] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:36:01.510] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:36:01.511] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond

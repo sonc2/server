@@ -493,6 +493,12 @@
     },
     "done": true
   },
+  "meetyourfight:main/bellringer_summon": {
+    "criteria": {
+      "get_item": "2025-01-02 17:28:13 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2554,7 +2560,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-01-02 17:22:01 +0000"
+      "target": "2025-01-02 17:29:20 +0000"
     },
     "done": false
   },
