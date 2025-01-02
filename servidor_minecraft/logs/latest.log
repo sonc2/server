@@ -4042,3 +4042,32 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 04:46:11.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [02Jan2025 04:46:11.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [02Jan2025 04:46:40.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[02Jan2025 04:49:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad withered away whilst fighting Zombie
+[02Jan2025 04:50:07.416] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[02Jan2025 04:51:05.230] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/network/messages/BuildToolPlacementMessage$HandlerType
+[02Jan2025 04:51:05.241] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/blueprints/v1/DataVersion
+[02Jan2025 04:51:05.243] [Structurize IO Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/RotationMirror
+[02Jan2025 04:51:05.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [MineColonies]
+[02Jan2025 04:51:05.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/util/TickedWorldOperation$OperationType
+[02Jan2025 04:51:05.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/StructurePlacer$Operation
+[02Jan2025 04:51:05.325] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/AbstractBlueprintIterator$Result
+[02Jan2025 04:51:05.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/BlockPlacementResult$Result
+[02Jan2025 04:51:05.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/handlers/placement/IPlacementHandler$ActionProcessingResult
+[02Jan2025 04:54:26.237] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 04:54:26.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:54:26.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:54:26.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:54:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tiens varas de blaze
+[02Jan2025 04:54:41.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> no
+[02Jan2025 04:54:50.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> okas
+[02Jan2025 04:56:32.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[02Jan2025 04:56:41.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 04:56:41.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:56:41.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:56:41.285] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:56:59.335] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 04:56:59.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:56:59.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:57:03.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[02Jan2025 04:57:16.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[02Jan2025 04:57:35.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
