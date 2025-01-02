@@ -1426,6 +1426,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2025-01-02 03:35:57 +0000"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1662,6 +1668,12 @@
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-01-02 03:43:21 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
