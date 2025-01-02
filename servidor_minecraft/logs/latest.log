@@ -3734,3 +3734,45 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 17:06:28.065] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [02Jan2025 17:06:28.066] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [02Jan2025 17:06:28.066] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:07:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> derrepente te toca algo bueno
+[02Jan2025 17:07:37.300] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[02Jan2025 17:07:39.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[02Jan2025 17:08:19.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/citizens/event/CitizenAddedEvent$Source
+[02Jan2025 17:08:50.043] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
+[02Jan2025 17:09:32.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 17:09:32.712] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 17:09:32.713] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 17:10:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Coronation]
+[02Jan2025 17:10:19.301] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[02Jan2025 17:10:19.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[02Jan2025 17:10:30.608] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/requestsystem/manager/AssigningStrategy
+[02Jan2025 17:10:30.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/basic/AbstractEntityAIStructure$ItemCheckResult
+[02Jan2025 17:10:38.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[02Jan2025 17:11:10.053] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/placement/handlers/placement/IPlacementHandler$ActionProcessingResult
+[02Jan2025 17:11:49.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mejore el spawn de lo saqueadores
+[02Jan2025 17:12:07.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/event/ColonyInformationChangedEvent$Type
+[02Jan2025 17:12:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ahora tenmos esmeraladas ilimitadas se podria decir
+[02Jan2025 17:13:33.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Mire's Maw]
+[02Jan2025 17:13:39.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> lo matamos ¿
+[02Jan2025 17:13:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> es un jefe
+[02Jan2025 17:13:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> YA
+[02Jan2025 17:14:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> vamos un poco lejos xd
+[02Jan2025 17:14:51.715] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:14:51.715] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:14:51.715] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:15:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya lo voy a generar
+[02Jan2025 17:15:14.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:15:14.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:15:14.032] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:15:15.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/2005, l='ServerLevel[world]', x=333.50, y=73.00, z=43.50]
+[02Jan2025 17:15:19.453] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/2006, l='ServerLevel[world]', x=321.50, y=70.00, z=69.50]
+[02Jan2025 17:15:27.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xaero-waypoint:Shared Location:S:238:71:100:4:false:0:Internal-overworld-waypoints
+[02Jan2025 17:15:31.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> estoy ahi
+[02Jan2025 17:15:52.961] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[02Jan2025 17:16:03.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/2088, l='ServerLevel[world]', x=305.50, y=73.00, z=71.50]
+[02Jan2025 17:16:26.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/2138, l='ServerLevel[world]', x=323.50, y=70.00, z=70.50]
+[02Jan2025 17:16:31.044] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[02Jan2025 17:16:51.314] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:16:51.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 17:16:51.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 17:16:51.315] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
