@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/iron_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:07:21 +0000"
@@ -537,7 +543,8 @@
   },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
-      "spellstone1": "2025-01-01 18:14:35 +0000"
+      "spellstone1": "2025-01-01 18:14:35 +0000",
+      "spellstone5": "2025-01-02 00:53:40 +0000"
     },
     "done": false
   },
@@ -561,7 +568,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "fletcher": "2025-01-01 17:12:23 +0000"
+      "fletcher": "2025-01-01 17:12:23 +0000",
+      "farmer": "2025-01-02 01:01:51 +0000"
     },
     "done": false
   },
@@ -1290,6 +1298,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1693,6 +1707,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_rack_3": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1953,9 +1973,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-12-30 19:06:50 +0000"
+      "has_parent_recipe": "2024-12-30 19:06:50 +0000",
+      "has_items": "2025-01-02 00:53:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
@@ -2157,6 +2178,12 @@
     },
     "done": true
   },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-01-02 01:01:12 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_amulet": {
     "criteria": {
       "has_items": "2024-12-30 15:58:53 +0000"
@@ -2178,6 +2205,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2025-01-02 00:53:40 +0000"
     },
     "done": true
   },
@@ -2237,7 +2270,8 @@
   },
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
-      "has_item_1": "2025-01-01 18:14:35 +0000"
+      "has_item_1": "2025-01-01 18:14:35 +0000",
+      "has_item_5": "2025-01-02 00:53:40 +0000"
     },
     "done": false
   },
@@ -2319,21 +2353,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-02 00:51:16 +0000",
-      "!bit14": "2025-01-02 00:51:16 +0000",
-      "!bit11": "2025-01-02 00:51:16 +0000",
-      "!bit12": "2025-01-02 00:51:16 +0000",
-      "!bit10": "2025-01-02 00:51:16 +0000",
-      "!bit9": "2025-01-02 00:51:16 +0000",
-      "!bit8": "2025-01-02 00:51:16 +0000",
-      "!bit7": "2025-01-02 00:51:16 +0000",
-      "!bit6": "2025-01-02 00:51:16 +0000",
-      "!bit5": "2025-01-02 00:51:16 +0000",
-      "!bit4": "2025-01-02 00:51:16 +0000",
-      "!bit3": "2025-01-02 00:51:16 +0000",
-      "!bit2": "2025-01-02 00:51:16 +0000",
-      "!bit1": "2025-01-02 00:51:16 +0000",
-      "!bit0": "2025-01-02 00:51:16 +0000"
+      "not_target": "2025-01-02 01:01:17 +0000"
     },
     "done": false
   },
