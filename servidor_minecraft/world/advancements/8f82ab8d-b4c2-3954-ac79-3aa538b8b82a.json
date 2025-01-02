@@ -1941,6 +1941,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2025-01-02 16:45:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2530,7 +2536,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-01-02 16:39:11 +0000"
+      "not_target": "2025-01-02 16:48:22 +0000"
     },
     "done": false
   },
