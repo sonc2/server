@@ -937,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-02 05:27:36 +0000"
+    },
+    "done": true
+  },
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1689,6 +1695,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:book/enchantments/generic": {
+    "criteria": {
+      "has_items": "2025-01-02 05:28:16 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2025-01-02 04:03:27 +0000"
@@ -1738,12 +1750,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-01-02 05:22:31 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1784,6 +1790,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2024-12-30 19:12:17 +0000",
       "inv_changed-diamond": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-02 05:28:27 +0000"
     },
     "done": true
   },
@@ -1845,6 +1857,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_compass": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-01-02 05:28:16 +0000"
     },
     "done": true
   },
@@ -2010,6 +2028,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/fulfill_request": {
+    "criteria": {
+      "click_gui_button_fulfill": "2025-01-02 05:27:45 +0000"
     },
     "done": true
   },

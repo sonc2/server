@@ -4190,3 +4190,67 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 05:28:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> reclama en misones
 [02Jan2025 05:28:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> y me la pasas
 [02Jan2025 05:28:16.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [The Secrets of Enchanting]
+[02Jan2025 05:28:27.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Local Librarian]
+[02Jan2025 05:29:54.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Chaos of Hell]
+[02Jan2025 05:30:18.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/basic/AbstractEntityAIStructure$ItemCheckResult
+[02Jan2025 05:30:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> ya me voy
+[02Jan2025 05:30:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale
+[02Jan2025 05:30:32.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine lost connection: Disconnected
+[02Jan2025 05:30:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine left the game
+[02Jan2025 05:34:38.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[02Jan2025 05:34:39.931] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[02Jan2025 05:35:38.933] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 05:35:38.934] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:35:38.934] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:35:38.934] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:35:44.288] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:36:01.126] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/43337, l='ServerLevel[world]', x=-176.50, y=71.00, z=253.50]
+[02Jan2025 05:36:03.536] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 05:36:03.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:36:03.537] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:36:16.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/43843, l='ServerLevel[world]', x=-259.50, y=74.00, z=215.50]
+[02Jan2025 05:36:25.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/43871, l='ServerLevel[world]', x=-257.50, y=71.00, z=285.50]
+[02Jan2025 05:37:08.474] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/43993, l='ServerLevel[world]', x=-175.50, y=71.00, z=253.50]
+[02Jan2025 05:37:38.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/44036, l='ServerLevel[world]', x=-209.50, y=72.00, z=282.50]
+[02Jan2025 05:37:40.375] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/44038, l='ServerLevel[world]', x=-257.50, y=74.00, z=214.50]
+[02Jan2025 05:37:52.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/44111, l='ServerLevel[world]', x=-233.50, y=70.00, z=274.50]
+[02Jan2025 05:37:54.625] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/44124, l='ServerLevel[world]', x=-195.50, y=77.00, z=235.50]
+[02Jan2025 05:37:59.229] [Worker-Main595/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[02Jan2025 05:38:01.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/44194, l='ServerLevel[world]', x=-219.50, y=72.00, z=262.50]
+[02Jan2025 05:38:10.675] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/44426, l='ServerLevel[world]', x=-232.50, y=70.00, z=272.50]
+[02Jan2025 05:38:13.498] [Worker-Main595/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -485 115 378
+[02Jan2025 05:38:23.711] [Worker-Main595/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 05:38:23.712] [Worker-Main595/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 05:38:23.712] [Worker-Main595/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 05:38:23.712] [Worker-Main595/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 05:38:28.951] [Worker-Main595/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 05:38:30.181] [Worker-Main595/WARN] [ModernFix/]: The namespace savage_and_ravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 05:38:40.088] [Worker-Main346/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[02Jan2025 05:38:40.089] [Worker-Main346/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[02Jan2025 05:38:42.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xaero-waypoint:Shared Location:S:-467:82:118:8:false:0:Internal-overworld-waypoints
+[02Jan2025 05:38:47.326] [Worker-Main595/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -633 96 130
+[02Jan2025 05:38:48.308] [Worker-Main489/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[02Jan2025 05:38:49.883] [Worker-Main489/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[02Jan2025 05:39:00.993] [Server thread/WARN] [ModernFix/]: The namespace iter_rpg contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 05:39:01.172] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[02Jan2025 05:39:23.940] [Worker-Main489/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[02Jan2025 05:39:28.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 05:39:28.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:39:28.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 05:39:28.786] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:40:07.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 05:40:07.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 05:40:07.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:40:07.635] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:44:18.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 05:44:18.583] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:44:18.584] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 05:44:31.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[02Jan2025 05:47:34.381] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 05:47:34.381] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:47:34.382] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 05:47:34.382] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 05:48:13.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
