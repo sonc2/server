@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:dream_catcher": {
+    "criteria": {
+      "picked_up_accessory": "2025-01-02 19:19:36 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/spawncount": {
     "criteria": {
       "modifier": "2025-01-01 19:38:53 +0000"
@@ -896,6 +902,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-01-02 19:25:28 +0000"
     },
     "done": true
   },
@@ -1169,6 +1181,7 @@
       "atmospheric:rainforest": "2025-01-02 19:14:47 +0000",
       "minecraft:sunflower_plains": "2024-12-31 02:22:46 +0000",
       "minecraft:bamboo_jungle": "2025-01-02 05:38:12 +0000",
+      "minecraft:savanna_plateau": "2025-01-02 19:45:29 +0000",
       "minecraft:beach": "2024-12-31 04:13:53 +0000",
       "minecraft:dark_forest": "2025-01-02 19:09:48 +0000",
       "minecraft:stony_peaks": "2025-01-02 19:14:39 +0000",
@@ -2605,7 +2618,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-02 19:18:01 +0000"
+      "!bit13": "2025-01-02 19:42:33 +0000",
+      "!bit14": "2025-01-02 19:42:33 +0000",
+      "!bit11": "2025-01-02 19:42:33 +0000",
+      "!bit12": "2025-01-02 19:42:33 +0000",
+      "!bit10": "2025-01-02 19:42:33 +0000",
+      "!bit9": "2025-01-02 19:42:33 +0000",
+      "!bit8": "2025-01-02 19:42:33 +0000",
+      "!bit7": "2025-01-02 19:42:33 +0000",
+      "!bit6": "2025-01-02 19:42:33 +0000",
+      "!bit5": "2025-01-02 19:42:33 +0000",
+      "!bit4": "2025-01-02 19:42:33 +0000",
+      "!bit3": "2025-01-02 19:42:33 +0000",
+      "!bit2": "2025-01-02 19:42:33 +0000",
+      "!bit1": "2025-01-02 19:42:33 +0000",
+      "!bit0": "2025-01-02 19:42:33 +0000"
     },
     "done": false
   },

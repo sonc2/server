@@ -4180,3 +4180,285 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 19:18:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Ewart the Cold
 [02Jan2025 19:18:24.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
 [02Jan2025 19:18:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to -582.500000, 47.500000, 790.500000]
+[02Jan2025 19:19:08.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/25757, l='ServerLevel[world]', x=-587.70, y=47.00, z=794.09] died: Ewart the Cold was slain by jefferson_pad
+[02Jan2025 19:19:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [What a Dream!]
+[02Jan2025 19:22:59.965] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:22:59.966] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:23:41.944] [Worker-Main199/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=71, z=-56}
+[02Jan2025 19:23:42.132] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-6, y=71, z=-73}
+[02Jan2025 19:23:42.133] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=69, z=-68}
+[02Jan2025 19:23:42.133] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=66, z=-68}
+[02Jan2025 19:23:42.134] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=69, z=-61}
+[02Jan2025 19:23:42.134] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=66, z=-61}
+[02Jan2025 19:23:43.297] [Worker-Main183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:23:43.297] [Worker-Main183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:23:43.297] [Worker-Main183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:23:43.298] [Worker-Main183/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:25:24.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/25971, l='ServerLevel[world]', x=-718.16, y=121.00, z=829.87] died: Corvin the Rotten was slain by jefferson_pad
+[02Jan2025 19:25:28.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Serious Dedication]
+[02Jan2025 19:26:30.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! 8.098584284251956,-6.941532093252647,1.4673904276638723
+[02Jan2025 19:26:52.774] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=66, z=-67}
+[02Jan2025 19:26:52.775] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=66, z=-62}
+[02Jan2025 19:30:57.871] [Worker-Main183/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -830 111 1122
+[02Jan2025 19:31:01.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:31:01.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:31:01.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 19:31:01.811] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:31:17.964] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[02Jan2025 19:31:18.008] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[02Jan2025 19:31:18.140] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[02Jan2025 19:31:18.140] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[02Jan2025 19:31:18.160] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[02Jan2025 19:31:18.161] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[02Jan2025 19:31:18.161] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[02Jan2025 19:31:18.310] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[02Jan2025 19:31:18.316] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[02Jan2025 19:31:18.316] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[02Jan2025 19:31:18.434] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[02Jan2025 19:31:18.442] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[02Jan2025 19:31:21.296] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[02Jan2025 19:31:21.306] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[02Jan2025 19:31:21.332] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[02Jan2025 19:31:21.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c1cc1a6
+[02Jan2025 19:31:21.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Knight_Dox[/127.147.89.35:54181] logged in with entity id 28716 at (36.5, 64.0, 137.5)
+[02Jan2025 19:31:21.465] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Knight_Dox
+[02Jan2025 19:31:21.465] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Knight_Dox
+[02Jan2025 19:31:21.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Knight_Dox
+[02Jan2025 19:31:21.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Knight_Dox
+[02Jan2025 19:31:21.469] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Knight_Dox
+[02Jan2025 19:31:21.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Knight_Dox
+[02Jan2025 19:31:21.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Knight_Dox
+[02Jan2025 19:31:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox joined the game
+[02Jan2025 19:31:21.580] [Server thread/INFO] [insane96mcp.insanelib.InsaneLib/]: [Progressive Bosses] Knight_Dox first spawned. Set First Dragon to 1
+[02Jan2025 19:31:21.645] [Server thread/INFO] [Jade/]: Syncing config to Knight_Dox (08027a58-2aa2-3016-9008-35864f4e41f5)
+[02Jan2025 19:31:21.787] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Knight_Dox...
+[02Jan2025 19:31:21.788] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Jan2025 19:31:21.789] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 19:31:21.789] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Knight_Dox
+[02Jan2025 19:31:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Apothic Affixes]
+[02Jan2025 19:31:41.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[02Jan2025 19:32:02.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> hey aqui
+[02Jan2025 19:32:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no te pongas el cinturon
+[02Jan2025 19:33:43.112] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / strictly:skilled_swordsman_axe_boost] from power ResourceKey[apoli:configured_power / strictly:skilled_swordsman]
+[02Jan2025 19:33:43.113] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Giving player Knight_Dox stack: 1 written_book
+[02Jan2025 19:34:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bro
+[02Jan2025 19:34:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Knight_Dox> que es esto
+[02Jan2025 19:35:01.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[02Jan2025 19:35:07.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entra a la casa
+[02Jan2025 19:35:10.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no rompas
+[02Jan2025 19:35:11.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> nd
+[02Jan2025 19:35:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Knight_Dox> i will not
+[02Jan2025 19:35:23.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> pero si puedes cojer las cosas que necesites
+[02Jan2025 19:35:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> puedes lootear todo lo que esta aca
+[02Jan2025 19:35:56.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> en los barcos de alla
+[02Jan2025 19:35:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tambien
+[02Jan2025 19:36:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> estan dspejados
+[02Jan2025 19:36:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> en dos barcos
+[02Jan2025 19:36:20.703] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[02Jan2025 19:36:20.703] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[02Jan2025 19:36:20.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bueno en 1 hay spwaner para farmear
+[02Jan2025 19:36:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> le das la palanca
+[02Jan2025 19:36:29.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> y salen los mods
+[02Jan2025 19:36:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox was slain by Tarantula
+[02Jan2025 19:37:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox was slain by Huntsman
+[02Jan2025 19:37:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Knight_Dox> tu qn eres
+[02Jan2025 19:38:09.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Timed out
+[02Jan2025 19:38:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[02Jan2025 19:38:09.256] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 19:38:15.644] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[02Jan2025 19:38:15.721] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[02Jan2025 19:38:15.721] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[02Jan2025 19:38:15.876] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[02Jan2025 19:38:15.876] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[02Jan2025 19:38:15.876] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[02Jan2025 19:38:16.058] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[02Jan2025 19:38:16.058] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[02Jan2025 19:38:16.058] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[02Jan2025 19:38:16.208] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[02Jan2025 19:38:16.209] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[02Jan2025 19:38:16.209] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[02Jan2025 19:38:17.047] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[02Jan2025 19:38:17.051] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[02Jan2025 19:38:17.222] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[02Jan2025 19:38:17.338] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e742ef5
+[02Jan2025 19:38:17.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.254.198.158:53345] logged in with entity id 29872 at (92.69999998807907, 81.89023999786377, 155.24661222216824)
+[02Jan2025 19:38:17.395] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[02Jan2025 19:38:17.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[02Jan2025 19:38:17.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[02Jan2025 19:38:17.396] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[02Jan2025 19:38:17.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[02Jan2025 19:38:17.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[02Jan2025 19:38:17.399] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[02Jan2025 19:38:17.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[02Jan2025 19:38:17.598] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[02Jan2025 19:38:17.666] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[02Jan2025 19:38:17.666] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Jan2025 19:38:17.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 19:38:17.667] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[02Jan2025 19:38:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> yo soy el que te invito al server xd
+[02Jan2025 19:38:55.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> trata de guiarte de las misiones
+[02Jan2025 19:38:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bro
+[02Jan2025 19:39:04.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entra al inventario
+[02Jan2025 19:39:06.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox was slain by Burbjentoast the Light
+[02Jan2025 19:39:18.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> y arriba a la izquierda ahi estan
+[02Jan2025 19:39:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Knight_Dox> y cuando entra la demas gente
+[02Jan2025 19:39:42.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:39:42.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:39:42.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:39:42.011] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:39:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> somos 3 contigo xd
+[02Jan2025 19:40:01.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox was slain by Burbjentoast the Light
+[02Jan2025 19:40:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el otro se fue a comer
+[02Jan2025 19:40:23.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ven mira
+[02Jan2025 19:40:33.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 19:40:33.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:40:33.111] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:40:51.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Maw['Burbjentoast the Light'/29505, l='ServerLevel[world]', x=178.32, y=48.24, z=173.38] died: Burbjentoast the Light was slain by jefferson_pad
+[02Jan2025 19:41:14.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bueno con cuidado suerte
+[02Jan2025 19:41:29.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[02Jan2025 19:41:34.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Disconnected
+[02Jan2025 19:41:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[02Jan2025 19:41:49.705] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[02Jan2025 19:41:49.705] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[02Jan2025 19:41:49.866] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[02Jan2025 19:41:49.906] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[02Jan2025 19:41:49.906] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[02Jan2025 19:41:50.031] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[02Jan2025 19:41:50.031] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[02Jan2025 19:41:50.031] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[02Jan2025 19:41:50.031] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[02Jan2025 19:41:50.195] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[02Jan2025 19:41:50.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[02Jan2025 19:41:50.196] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[02Jan2025 19:41:50.688] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[02Jan2025 19:41:50.688] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[02Jan2025 19:41:50.694] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[02Jan2025 19:41:50.766] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f1b02a3
+[02Jan2025 19:41:50.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.254.198.158:37089] logged in with entity id 30940 at (90.92047061871754, 64.0, 127.49981478330805)
+[02Jan2025 19:41:50.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[02Jan2025 19:41:50.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[02Jan2025 19:41:50.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[02Jan2025 19:41:50.814] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[02Jan2025 19:41:50.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[02Jan2025 19:41:50.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[02Jan2025 19:41:50.817] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[02Jan2025 19:41:50.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[02Jan2025 19:41:50.920] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[02Jan2025 19:41:50.983] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[02Jan2025 19:41:50.983] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Jan2025 19:41:50.983] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jan2025 19:41:50.984] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[02Jan2025 19:42:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Acquire Hardware]
+[02Jan2025 19:42:23.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Monster Hunter]
+[02Jan2025 19:43:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> en nuestra base los mods estan nivel dos por otros lados estan level 54 o 30 cuidado
+[02Jan2025 19:43:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement ['X' Marks the Spot]
+[02Jan2025 19:43:14.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Not a Diamond]
+[02Jan2025 19:43:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Diamonds!]
+[02Jan2025 19:43:17.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:43:17.542] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:43:18.273] [Worker-Main239/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -737 99 1143
+[02Jan2025 19:43:22.551] [Worker-Main20/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: DEPOSIT GENERATED AT: -856 111 1154
+[02Jan2025 19:43:34.818] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:43:34.819] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:43:34.819] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:43:34.819] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:43:36.223] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:43:36.224] [Worker-Main20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:43:42.765] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-11, z=92}
+[02Jan2025 19:43:42.766] [Worker-Main20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-11, z=96}
+[02Jan2025 19:43:51.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[02Jan2025 19:43:51.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! -1.7772030672776964,-9.406263027957436,3.7597149658799935
+[02Jan2025 19:43:51.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[02Jan2025 19:44:03.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-966, y=30, z=1243} but found not block entity block Block{minecraft:water}[level=8] at location
+[02Jan2025 19:44:03.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-966, y=30, z=1243}
+[02Jan2025 19:44:25.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [I Found It Underground]
+[02Jan2025 19:44:29.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:44:29.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 19:44:53.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Barrel Booty]
+[02Jan2025 19:45:00.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has reached the goal [Adventure Time]
+[02Jan2025 19:45:25.672] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:45:25.673] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:45:25.673] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:45:25.673] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:45:25.673] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:45:45.490] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:45:45.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 19:45:45.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:45:45.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:45:47.245] [Worker-Main183/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-162, y=-12, z=171}
+[02Jan2025 19:45:56.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has reached the goal [Worthy Equipment]
+[02Jan2025 19:45:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Suit Up]
+[02Jan2025 19:45:56.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [How'd You Get This?]
+[02Jan2025 19:46:16.764] [Worker-Main239/WARN] [ModernFix/]: The namespace nova_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 19:46:17.394] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.395] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.505] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.511] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.513] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.514] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.530] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.536] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.542] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.546] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.564] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.568] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.568] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.592] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.598] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.619] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.732] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.776] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.782] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.801] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.802] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.813] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.813] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.861] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.863] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.883] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.927] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.938] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.952] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.952] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:17.988] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:18.162] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:18.162] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:18.173] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:18.321] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:46:20.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[02Jan2025 19:46:20.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Knight_Dox moved too quickly! 7.748000353319242,-0.41999998688697815,6.57405416930834
+[02Jan2025 19:46:31.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[02Jan2025 19:46:50.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Into Fire]
+[02Jan2025 19:46:52.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Ice Bucket Challenge]
+[02Jan2025 19:46:55.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[02Jan2025 19:46:55.768] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:47:04.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Sparkle$CrystalType
+[02Jan2025 19:47:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Knight_Dox has made the advancement [Disme A Dozen]
+[02Jan2025 19:47:21.620] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:21.620] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:21.620] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:21.621] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:22.063] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 19:47:22.063] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 19:47:22.064] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 19:47:22.064] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 19:47:29.337] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.338] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.338] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.338] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.338] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.339] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.339] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.342] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.344] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.345] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.345] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.345] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.346] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.346] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.346] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:29.346] [Worker-Main239/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jan2025 19:47:43.165] [Worker-Main20/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[02Jan2025 19:47:43.167] [Worker-Main20/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[02Jan2025 19:48:07.313] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 19:48:07.314] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
