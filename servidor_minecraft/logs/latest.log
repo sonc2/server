@@ -3865,3 +3865,9 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 17:44:20.764] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [02Jan2025 17:44:20.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [02Jan2025 17:44:20.765] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:53:17.910] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 17:53:17.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 17:53:17.911] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 17:54:29.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=73, z=211} BlockPos{x=73, y=74, z=213}
+[02Jan2025 17:56:19.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Build a Builder Building]
+[02Jan2025 17:56:19.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/buildings/event/BuildingConstructionEvent$EventType
