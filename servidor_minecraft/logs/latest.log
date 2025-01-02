@@ -3841,3 +3841,25 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 03:16:02.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> okey
 [02Jan2025 03:16:20.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy hacer un nuevo portal vas ?
 [02Jan2025 03:16:31.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> mira
+[02Jan2025 03:16:51.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ojo
+[02Jan2025 03:18:13.125] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[02Jan2025 03:18:36.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=64, z=158} BlockPos{x=69, y=63, z=157}
+[02Jan2025 03:20:55.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[02Jan2025 03:21:09.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mira
+[02Jan2025 03:22:22.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> si conosco un poco
+[02Jan2025 03:22:45.246] [Worker-Main346/WARN] [ModernFix/]: The namespace totw_modded contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 03:22:48.918] [Worker-Main361/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Jan2025 03:22:48.919] [Worker-Main361/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Jan2025 03:22:48.920] [Worker-Main361/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[02Jan2025 03:22:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Forever Bright?]
+[02Jan2025 03:22:49.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10566ms or 211 ticks behind
+[02Jan2025 03:22:49.756] [Worker-Main335/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[02Jan2025 03:22:50.367] [Worker-Main346/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Jan2025 03:22:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Forever Bright?]
+[02Jan2025 03:23:28.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [A Bright Future!]
+[02Jan2025 03:23:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xaero-waypoint:Shared Location:S:196:216:135:9:false:0:Internal-dim%blue-skies$everbright-waypoints
+[02Jan2025 03:23:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> parece algo
+[02Jan2025 03:24:22.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> sii ven
+[02Jan2025 03:24:24.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> goo
+[02Jan2025 03:24:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> es para lootear nomas
+[02Jan2025 03:26:46.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> nd bueno :c

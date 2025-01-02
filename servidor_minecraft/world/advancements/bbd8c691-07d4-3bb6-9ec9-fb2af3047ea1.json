@@ -798,7 +798,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "barrel": "2025-01-01 20:42:05 +0000"
+      "barrel": "2025-01-01 20:42:05 +0000",
+      "lectern": "2025-01-02 03:15:28 +0000",
+      "composter": "2025-01-02 03:12:22 +0000"
     },
     "done": false
   },
@@ -1283,6 +1285,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-12-30 19:34:23 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-01-02 03:15:33 +0000"
     },
     "done": true
   },
