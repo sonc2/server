@@ -3978,3 +3978,26 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 04:06:41.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si
 [02Jan2025 04:06:46.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Hot Stuff]
 [02Jan2025 04:07:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el segundo piso es una granja de amatista
+[02Jan2025 04:09:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> tienes más de estos??
+[02Jan2025 04:09:41.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si
+[02Jan2025 04:09:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> para que es
+[02Jan2025 04:09:47.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> por seaca los traia
+[02Jan2025 04:10:03.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> un libro de no se que
+[02Jan2025 04:11:27.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:11:27.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:11:27.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:11:27.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:11:36.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 04:11:36.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:11:36.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:11:36.889] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:13:33.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Madam Maddison the Wimpy'/30709, l='ServerLevel[world]', x=160.74, y=66.00, z=105.26] died: Madam Maddison the Wimpy was slain by jefferson_pad
+[02Jan2025 04:14:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Vampire Slayer]
+[02Jan2025 04:16:05.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 04:16:05.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:16:05.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 04:16:05.334] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:16:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> te di un libro
+[02Jan2025 04:17:04.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> para que es
+[02Jan2025 04:17:11.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> el ode
+[02Jan2025 04:17:19.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> como ?

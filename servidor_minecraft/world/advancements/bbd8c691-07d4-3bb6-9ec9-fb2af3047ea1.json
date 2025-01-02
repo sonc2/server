@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-01-02 04:10:16 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2024-12-30 19:12:17 +0000"
@@ -442,6 +448,7 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_mirror": {
     "criteria": {
+      "has_parent_recipe": "2025-01-02 04:10:16 +0000",
       "is_cursed_one": "2024-12-30 19:41:24 +0000"
     },
     "done": false
@@ -474,6 +481,12 @@
   "ars_nouveau:magebloom_crop": {
     "criteria": {
       "has_magebloom_crop": "2024-12-31 22:44:26 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-01-02 04:10:16 +0000"
     },
     "done": true
   },
@@ -1121,9 +1134,10 @@
   },
   "enigmaticlegacy:recipes/generic/twisted_heart": {
     "criteria": {
+      "has_items": "2025-01-02 04:10:16 +0000",
       "is_cursed_one": "2024-12-30 19:41:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "aquamirae:adventure/root": {
     "criteria": {
@@ -1181,6 +1195,7 @@
   },
   "enigmaticlegacy:recipes/generic/cursed_stone": {
     "criteria": {
+      "has_parent_recipe": "2025-01-02 04:10:16 +0000",
       "is_cursed_one": "2024-12-30 19:41:24 +0000"
     },
     "done": false
@@ -1417,6 +1432,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-30 19:42:56 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 04:10:16 +0000"
     },
     "done": true
   },
@@ -1681,6 +1702,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 04:10:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:12:17 +0000"
@@ -1689,21 +1716,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-02 04:04:24 +0000",
-      "!bit14": "2025-01-02 04:04:24 +0000",
-      "!bit11": "2025-01-02 04:04:24 +0000",
-      "!bit12": "2025-01-02 04:04:24 +0000",
-      "!bit10": "2025-01-02 04:04:24 +0000",
-      "!bit9": "2025-01-02 04:04:24 +0000",
-      "!bit8": "2025-01-02 04:04:24 +0000",
-      "!bit7": "2025-01-02 04:04:24 +0000",
-      "!bit6": "2025-01-02 04:04:24 +0000",
-      "!bit5": "2025-01-02 04:04:24 +0000",
-      "!bit4": "2025-01-02 04:04:24 +0000",
-      "!bit3": "2025-01-02 04:04:24 +0000",
-      "!bit2": "2025-01-02 04:04:24 +0000",
-      "!bit1": "2025-01-02 04:04:24 +0000",
-      "!bit0": "2025-01-02 04:04:24 +0000"
+      "!bit13": "2025-01-02 04:12:20 +0000",
+      "!bit14": "2025-01-02 04:12:20 +0000",
+      "!bit11": "2025-01-02 04:12:20 +0000",
+      "!bit12": "2025-01-02 04:12:20 +0000",
+      "!bit10": "2025-01-02 04:12:20 +0000",
+      "!bit9": "2025-01-02 04:12:20 +0000",
+      "!bit8": "2025-01-02 04:12:20 +0000",
+      "!bit7": "2025-01-02 04:12:20 +0000",
+      "!bit6": "2025-01-02 04:12:20 +0000",
+      "!bit5": "2025-01-02 04:12:20 +0000",
+      "!bit4": "2025-01-02 04:12:20 +0000",
+      "!bit3": "2025-01-02 04:12:20 +0000",
+      "!bit2": "2025-01-02 04:12:20 +0000",
+      "!bit1": "2025-01-02 04:12:20 +0000",
+      "!bit0": "2025-01-02 04:12:20 +0000"
     },
     "done": false
   },
