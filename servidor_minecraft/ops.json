@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "9b4ff492-b1cf-3d68-8657-c1e267855e7f",
+    "name": "jefferson:_pad",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bd544d1b-6e13-31a8-aacc-aebed86c8c25",
+    "name": "jefferson_pàd",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8f82ab8d-b4c2-3954-ac79-3aa538b8b82a",
+    "name": "jefferson_pad",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -4846,3 +4846,20 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 20:57:21.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was shot by Pillager
 [02Jan2025 20:57:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was shot by Pillager
 [02Jan2025 20:58:58.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was sniped by Archer
+[02Jan2025 21:01:22.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Not Today, Thank You]
+[02Jan2025 21:01:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Ravager
+[02Jan2025 21:01:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson:_pad a server operator
+[02Jan2025 21:01:52.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pàd a server operator
+[02Jan2025 21:01:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[02Jan2025 21:03:22.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Azure Ascendant]
+[02Jan2025 21:05:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Awakened Equllibrium ]
+[02Jan2025 21:06:45.412] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 21:06:45.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 21:06:45.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 21:06:45.413] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 21:07:03.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 21:07:03.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 21:07:03.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 21:07:03.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 21:07:28.065] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f8a3163
+[02Jan2025 21:08:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Cover Me In Emeralds]

@@ -289,6 +289,12 @@
     },
     "done": true
   },
+  "cisco_mod:azure_ascendant": {
+    "criteria": {
+      "azure_ascendant": "2025-01-02 21:03:22 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-30 22:33:07 +0000"
@@ -903,6 +909,12 @@
   "enigmaticlegacy:recipes/generic/mega_sponge": {
     "criteria": {
       "has_items": "2025-01-02 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-02 21:01:22 +0000"
     },
     "done": true
   },
@@ -1976,6 +1988,12 @@
     },
     "done": true
   },
+  "cisco_mod:awakened_equllibrium_advancement": {
+    "criteria": {
+      "awakened_equllibrium_advancement": "2025-01-02 21:05:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-31 03:02:53 +0000"
@@ -2630,6 +2648,12 @@
       "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-01-02 21:08:23 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
