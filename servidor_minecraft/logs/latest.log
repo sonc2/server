@@ -4272,3 +4272,9 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 06:03:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...jefferson :pad<--[HERE]
 [02Jan2025 06:03:23.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
 [02Jan2025 06:07:32.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[02Jan2025 06:09:42.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Limit Breaker]
+[02Jan2025 06:15:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [The Devil has its Price]
+[02Jan2025 06:15:35.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 06:15:35.233] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 06:15:35.234] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 06:15:35.234] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
