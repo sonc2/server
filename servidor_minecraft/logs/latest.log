@@ -4071,3 +4071,63 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 04:57:03.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
 [02Jan2025 04:57:16.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
 [02Jan2025 04:57:35.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Escobine moved wrongly!
+[02Jan2025 04:58:57.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mira
+[02Jan2025 04:59:08.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> para que es
+[02Jan2025 04:59:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> del minecolab
+[02Jan2025 04:59:36.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> a esas personitas
+[02Jan2025 04:59:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> si
+[02Jan2025 04:59:41.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> que crean cosas creo
+[02Jan2025 05:01:01.961] [Server thread/ERROR] [minecolonies/]: Packet error:
+java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.StructurePackMeta.getName()" because "style" is null
+	at com.minecolonies.api.tileentities.TileEntityColonyBuilding.setStructurePack(TileEntityColonyBuilding.java:531) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23538!/:1.19.2-1.1.516-BETA]
+	at com.minecolonies.core.network.messages.server.DirectPlaceMessage.onExecute(DirectPlaceMessage.java:130) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23538!/:1.19.2-1.1.516-BETA]
+	at com.minecolonies.core.network.messages.splitting.SplitPacketMessage.lambda$onExecute$1(SplitPacketMessage.java:142) ~[minecolonies-1.19.2-1.1.516-BETA.jar%23538!/:1.19.2-1.1.516-BETA]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:763) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:746) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:740) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:140) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:726) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:658) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23645!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[02Jan2025 05:01:04.418] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/permissions/Action
+[02Jan2025 05:01:04.427] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/permissions/OldRank
+[02Jan2025 05:01:04.431] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/ColonyState
+[02Jan2025 05:01:04.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/requestsystem/management/update/UpdateType
+[02Jan2025 05:01:04.451] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by Escobine
+[02Jan2025 05:01:07.732] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/ColonyProgressType
+[02Jan2025 05:01:12.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/event/ColonyInformationChangedEvent$Type
+[02Jan2025 05:01:32.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/pathfinding/SurfaceType
+[02Jan2025 05:01:32.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/citizens/event/CitizenAddedEvent$Source
+[02Jan2025 05:01:34.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAICitizenAvoidEntity$FleeStates
+[02Jan2025 05:01:34.934] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAIEatTask$EatingState
+[02Jan2025 05:01:34.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAICitizenWander$WanderState
+[02Jan2025 05:01:34.938] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAISickTask$DiseaseState
+[02Jan2025 05:01:34.940] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAISleep$SleepState
+[02Jan2025 05:01:34.942] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/minimal/EntityAIMournCitizen$MourningState
+[02Jan2025 05:01:45.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> jefferson_pad
+[02Jan2025 05:02:02.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dime jeffer nomas xd
+[02Jan2025 05:02:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> solo estoy poniendo tu nick
+[02Jan2025 05:02:22.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> a okas
+[02Jan2025 05:02:28.041] [Server thread/ERROR] [minecolonies/]: Officer
+[02Jan2025 05:03:00.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/pathfinding/PathFindingStatus
+[02Jan2025 05:03:00.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[02Jan2025 05:03:24.312] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/network/messages/server/colony/building/BuildRequestMessage$Mode
+[02Jan2025 05:03:24.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/workorders/WorkOrderType
+[02Jan2025 05:05:48.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> quieres matar jefes o mas adelante ?
+[02Jan2025 05:06:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> ya vamos
+[02Jan2025 05:06:08.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> en misiones sale
+[02Jan2025 05:06:16.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> para craftear jefes
+[02Jan2025 05:06:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> vamos por aqui para que no arruine nd
+[02Jan2025 05:06:38.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> pero te aviso voy a craftearlo
+[02Jan2025 05:06:46.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> cual primero
+[02Jan2025 05:06:51.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entra en misiones
+[02Jan2025 05:06:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> anda donde DEUS
+[02Jan2025 05:07:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> la parte abajo se comienza
