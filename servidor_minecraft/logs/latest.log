@@ -4131,3 +4131,25 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 05:06:51.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entra en misiones
 [02Jan2025 05:06:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> anda donde DEUS
 [02Jan2025 05:07:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> la parte abajo se comienza
+[02Jan2025 05:09:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> solamente el del pescado se craftea
+[02Jan2025 05:09:14.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xd
+[02Jan2025 05:09:31.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=65, z=157} BlockPos{x=77, y=63, z=157}
+[02Jan2025 05:09:31.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=65, z=157} BlockPos{x=77, y=63, z=157}
+[02Jan2025 05:09:31.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=65, z=157} BlockPos{x=77, y=63, z=157}
+[02Jan2025 05:11:02.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mejor encantamos nuestras armaduras
+[02Jan2025 05:11:04.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[02Jan2025 05:11:23.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asuu mira
+[02Jan2025 05:11:29.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> eficiencia 10
+[02Jan2025 05:12:53.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> un hueco para que no se vaya+
+[02Jan2025 05:13:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[02Jan2025 05:13:36.333] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 05:13:36.333] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 05:13:36.333] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 05:13:36.333] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 05:14:49.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/interactionhandling/ChatPriority
+[02Jan2025 05:15:56.593] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[02Jan2025 05:16:16.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/entity/ai/statemachine/states/AIWorkerState
+[02Jan2025 05:16:16.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/core/entity/ai/basic/AbstractEntityAIStructureWithWorkOrder$RequestStage
+[02Jan2025 05:16:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Check Out the Guide]
+[02Jan2025 05:16:32.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/requestsystem/manager/AssigningStrategy
+[02Jan2025 05:16:49.267] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=46, y=69, z=155} of type builder
