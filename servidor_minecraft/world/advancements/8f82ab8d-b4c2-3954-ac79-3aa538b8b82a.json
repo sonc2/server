@@ -2522,17 +2522,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-01-02 06:23:25 +0000"
-    },
-    "done": false
-  },
   "apotheosis:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-01-02 16:39:11 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
