@@ -301,6 +301,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pillager_camp": "2025-01-02 19:53:08 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-01-02 19:31:22 +0000"
@@ -376,6 +382,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-02 19:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 19:51:17 +0000"
     },
     "done": true
   },
@@ -602,6 +614,12 @@
     },
     "done": false
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-01-02 19:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-02 19:43:17 +0000"
@@ -701,6 +719,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-02 19:31:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pillager_camp": "2025-01-02 19:53:08 +0000"
     },
     "done": true
   },
