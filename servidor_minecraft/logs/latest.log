@@ -4010,3 +4010,8 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 04:26:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tienes 1 de lana
 [02Jan2025 04:26:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> si
 [02Jan2025 04:26:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> gracais
+[02Jan2025 04:29:24.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> toma
+[02Jan2025 04:30:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> estas haciendo la granja de hierr09o ?
+[02Jan2025 04:30:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> usa cofre de diamante
+[02Jan2025 04:34:12.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asu tengo 35 mondedas
+[02Jan2025 04:37:33.690] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "main" inventory handler
