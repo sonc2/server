@@ -4015,3 +4015,30 @@ java.lang.IllegalArgumentException: null
 [02Jan2025 04:30:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> usa cofre de diamante
 [02Jan2025 04:34:12.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asu tengo 35 mondedas
 [02Jan2025 04:37:33.690] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "main" inventory handler
+[02Jan2025 04:37:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no funciona xd
+[02Jan2025 04:38:56.032] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 1 in "main" inventory handler
+[02Jan2025 04:38:59.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> apagalo
+[02Jan2025 04:39:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya esta
+[02Jan2025 04:39:57.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> los zombies stan en ia
+[02Jan2025 04:40:08.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> osea no hacen daño cuando spawnean en este
+[02Jan2025 04:40:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> que paso con la lava
+[02Jan2025 04:40:39.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> con ese anillo
+[02Jan2025 04:40:46.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[02Jan2025 04:40:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> viste
+[02Jan2025 04:40:57.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine burned to death
+[02Jan2025 04:40:57.239] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Escobine at X: 111.34344022780975, Y: 66.0, Z: 157.2887494879086
+[02Jan2025 04:40:59.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:40:59.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[02Jan2025 04:40:59.743] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[02Jan2025 04:41:30.482] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Escobine picking up: PermanentItemEntity['Soul Crystal'/33907, l='ServerLevel[world]', x=111.34, y=67.50, z=157.29]
+[02Jan2025 04:41:30.483] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/33907, l='ServerLevel[world]', x=111.34, y=67.50, z=157.29]
+[02Jan2025 04:41:36.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[02Jan2025 04:41:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> wtf
+[02Jan2025 04:43:22.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[02Jan2025 04:44:51.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Zombie
+[02Jan2025 04:44:59.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> wtf con los rayos
+[02Jan2025 04:46:11.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 04:46:11.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[02Jan2025 04:46:11.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 04:46:11.535] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[02Jan2025 04:46:40.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
