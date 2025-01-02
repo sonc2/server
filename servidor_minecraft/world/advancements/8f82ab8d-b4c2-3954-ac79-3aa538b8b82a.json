@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/wrench": {
+    "criteria": {
+      "wrench": "2025-01-02 18:16:31 +0000"
+    },
+    "done": true
+  },
   "minecolonies:production/root": {
     "criteria": {
       "builders_hut": "2025-01-02 17:56:19 +0000"
@@ -2581,12 +2587,6 @@
       "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-01-02 17:54:33 +0000"
-    },
-    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
