@@ -4040,3 +4040,13 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [02Jan2025 18:37:42.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Escobine> primero necesitasmos universidad
 [02Jan2025 18:37:44.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mira xd
 [02Jan2025 18:38:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale dale
+[02Jan2025 18:40:28.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> aca hay una cueva xd
+[02Jan2025 18:42:26.989] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ldtteam/structurize/network/messages/BuildToolPlacementMessage$HandlerType
+[02Jan2025 18:42:27.353] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[02Jan2025 18:42:44.460] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=31, y=66, z=157} of type university
+[02Jan2025 18:42:59.826] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 1 recipes!
+[02Jan2025 18:43:19.910] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[02Jan2025 18:43:19.910] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[02Jan2025 18:43:33.630] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[02Jan2025 18:44:12.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Escobine has made the advancement [Immaterial and Missing Power]
+[02Jan2025 18:44:19.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> mate al jefe de la campana
