@@ -894,6 +894,12 @@
     },
     "done": false
   },
+  "cisco_mod:herald_of_ragnarok": {
+    "criteria": {
+      "herald_of_ragnarok": "2025-01-03 00:15:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-01-01 02:29:49 +0000"
@@ -2654,6 +2660,12 @@
       "enchanted_item": "2025-01-02 06:00:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-01-03 00:24:13 +0000"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
