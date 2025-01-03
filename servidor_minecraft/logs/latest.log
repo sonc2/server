@@ -3892,3 +3892,60 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 16:53:04.890] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [03Jan2025 16:53:04.890] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [03Jan2025 16:53:04.891] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:55:48.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25729, l='ServerLevel[world]', x=-2134.50, y=65.00, z=3358.75] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 16:56:02.990] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/25731, l='ServerLevel[world]', x=-2126.21, y=66.02, z=3363.39] died, message: 'Toolsmith was slain by Zombie'
+[03Jan2025 16:56:55.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Eld Knight
+[03Jan2025 16:58:21.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Jan2025 16:58:21.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP JEFFERSON_PAD<--[HERE]
+[03Jan2025 16:58:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[03Jan2025 16:58:31.184] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[03Jan2025 16:58:34.384] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting alexthw/ars_elemental/common/entity/MermaidEntity$Variants
+[03Jan2025 16:58:35.940] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 16:58:35.940] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:58:35.940] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 17:01:18.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Jan2025 17:01:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eop jefferson_pad<--[HERE]
+[03Jan2025 17:01:21.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 17:01:21.441] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 17:04:56.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[03Jan2025 17:10:12.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 17:10:12.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 17:10:12.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 17:10:12.840] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 17:10:24.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[03Jan2025 17:10:24.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[03Jan2025 17:10:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[03Jan2025 17:10:24.983] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 17:10:43.314] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03Jan2025 17:10:43.454] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03Jan2025 17:10:43.454] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03Jan2025 17:10:43.483] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03Jan2025 17:10:43.594] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03Jan2025 17:10:43.594] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03Jan2025 17:10:43.594] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03Jan2025 17:10:43.733] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03Jan2025 17:10:43.733] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03Jan2025 17:10:43.733] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03Jan2025 17:10:43.871] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03Jan2025 17:10:43.872] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03Jan2025 17:10:44.186] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03Jan2025 17:10:44.187] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03Jan2025 17:10:44.298] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03Jan2025 17:10:44.414] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2798362e
+[03Jan2025 17:10:44.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.48.118.249:40253] logged in with entity id 31297 at (85.67400150600321, 225.89973008429587, 145.09343138909563)
+[03Jan2025 17:10:44.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[03Jan2025 17:10:44.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[03Jan2025 17:10:44.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[03Jan2025 17:10:44.475] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[03Jan2025 17:10:44.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[03Jan2025 17:10:44.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[03Jan2025 17:10:44.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[03Jan2025 17:10:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[03Jan2025 17:10:44.621] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[03Jan2025 17:10:44.704] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[03Jan2025 17:10:44.704] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03Jan2025 17:10:44.705] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Jan2025 17:10:44.706] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[03Jan2025 17:10:56.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[03Jan2025 17:10:56.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[03Jan2025 17:10:56.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
