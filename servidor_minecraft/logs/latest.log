@@ -4106,3 +4106,20 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 18:54:47.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/46653, l='ServerLevel[world]', x=449.50, y=76.00, z=44.50]
 [03Jan2025 18:55:13.333] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47036, l='ServerLevel[world]', x=442.50, y=77.00, z=1.50]
 [03Jan2025 18:55:15.982] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47063, l='ServerLevel[world]', x=405.50, y=70.00, z=29.50]
+[03Jan2025 18:55:58.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47485, l='ServerLevel[world]', x=426.50, y=73.00, z=40.50]
+[03Jan2025 18:56:10.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47623, l='ServerLevel[world]', x=424.50, y=73.00, z=39.50]
+[03Jan2025 18:56:24.882] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47684, l='ServerLevel[world]', x=441.50, y=74.00, z=28.50]
+[03Jan2025 18:56:27.682] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47695, l='ServerLevel[world]', x=443.50, y=77.00, z=-0.50]
+[03Jan2025 18:56:38.482] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47729, l='ServerLevel[world]', x=426.50, y=73.00, z=39.50]
+[03Jan2025 18:57:02.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/47904, l='ServerLevel[world]', x=464.50, y=74.00, z=-77.50]
+[03Jan2025 18:57:15.833] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/48026, l='ServerLevel[world]', x=449.50, y=76.00, z=42.50]
+[03Jan2025 18:58:54.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[03Jan2025 19:02:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Underground Hides No Secrets]
+[03Jan2025 19:04:54.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 19:04:54.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 19:04:54.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:04:54.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:04:55.241] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 19:04:55.241] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:04:55.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:04:55.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
