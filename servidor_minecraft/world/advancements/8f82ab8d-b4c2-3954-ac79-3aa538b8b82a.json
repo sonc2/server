@@ -417,6 +417,12 @@
     },
     "done": true
   },
+  "cisco_mod:winter_harbinger": {
+    "criteria": {
+      "winter_harbinger": "2025-01-03 00:05:41 +0000"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
