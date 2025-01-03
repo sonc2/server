@@ -253,6 +253,12 @@
     },
     "done": true
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-01-03 16:28:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -598,6 +604,7 @@
       "minecraft:pillager": "2024-12-30 21:35:18 +0000",
       "minecraft:blaze": "2025-01-01 03:42:39 +0000",
       "minecraft:skeleton": "2024-12-30 19:38:04 +0000",
+      "savage_and_ravage:creepie": "2025-01-03 16:27:33 +0000",
       "minecraft:ravager": "2024-12-30 22:17:42 +0000",
       "minecraft:hoglin": "2025-01-01 01:27:46 +0000",
       "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
@@ -922,6 +929,12 @@
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-01-01 02:29:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-01-03 16:17:14 +0000"
     },
     "done": true
   },
@@ -2706,7 +2719,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-01-03 15:43:40 +0000"
+      "!bit13": "2025-01-03 16:28:43 +0000",
+      "!bit14": "2025-01-03 16:28:43 +0000",
+      "!bit11": "2025-01-03 16:28:43 +0000",
+      "!bit12": "2025-01-03 16:28:43 +0000",
+      "!bit10": "2025-01-03 16:28:43 +0000",
+      "!bit9": "2025-01-03 16:28:43 +0000",
+      "!bit8": "2025-01-03 16:28:43 +0000",
+      "!bit7": "2025-01-03 16:28:43 +0000",
+      "!bit6": "2025-01-03 16:28:43 +0000",
+      "!bit5": "2025-01-03 16:28:43 +0000",
+      "!bit4": "2025-01-03 16:28:43 +0000",
+      "!bit3": "2025-01-03 16:28:43 +0000",
+      "!bit2": "2025-01-03 16:28:43 +0000",
+      "!bit1": "2025-01-03 16:28:43 +0000",
+      "!bit0": "2025-01-03 16:28:43 +0000"
     },
     "done": false
   },

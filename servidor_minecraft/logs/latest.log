@@ -3738,3 +3738,101 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 15:45:55.493] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [03Jan2025 15:45:55.493] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [03Jan2025 15:51:49.437] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/managers/interfaces/IRaiderManager$RaidSpawnResult
+[03Jan2025 16:13:08.035] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to locate any gear sets matching the following predicates: 
+[03Jan2025 16:13:08.036] [Server thread/ERROR] [Apotheosis : Adventure/]: SetPredicate[#terrible]
+[03Jan2025 16:14:44.646] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:14:44.647] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:15:01.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2031, l='ServerLevel[world]', x=-2430.93, y=63.56, z=3288.70] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 16:15:10.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1983, l='ServerLevel[world]', x=-2358.63, y=70.00, z=3316.63] died, message: 'Unemployed was slain by Goblin Thief'
+[03Jan2025 16:16:19.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 16:16:19.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:16:19.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Jan2025 16:16:19.743] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:16:26.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2066, l='ServerLevel[world]', x=-2357.70, y=64.00, z=3273.24] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 16:16:33.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2067, l='ServerLevel[world]', x=-2348.93, y=64.56, z=3274.70] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 16:16:36.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1984, l='ServerLevel[world]', x=-2350.34, y=60.50, z=3262.30] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 16:16:38.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/aqutheseal/celestisynth/api/animation/player/AnimationManager$AnimationsList
+[03Jan2025 16:16:38.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[03Jan2025 16:16:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Shadewraith
+[03Jan2025 16:16:43.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Shadewraith
+[03Jan2025 16:16:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Shadewraith
+[03Jan2025 16:16:56.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Shadewraith
+[03Jan2025 16:17:14.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [You're too Slow!]
+[03Jan2025 16:17:31.342] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 16:17:31.343] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:17:31.343] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:17:31.343] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:17:33.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was shot by Lord Bernard the Sneaky
+[03Jan2025 16:17:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Goblin Thief
+[03Jan2025 16:17:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Zombie
+[03Jan2025 16:18:12.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9068, l='ServerLevel[world]', x=-2362.70, y=70.56, z=3317.07] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 16:18:28.242] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[03Jan2025 16:18:40.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['jefferson_pad'/9141, l='ServerLevel[world]', x=-2401.53, y=63.00, z=3313.29] died: jefferson_pad was slain by Iron Golem
+[03Jan2025 16:18:58.219] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[03Jan2025 16:19:03.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[03Jan2025 16:19:05.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[03Jan2025 16:19:05.600] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/ars_nouveau/geckolib3/core/PlayState
+[03Jan2025 16:19:06.118] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[03Jan2025 16:19:08.382] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03Jan2025 16:19:08.383] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/itsmeow/whisperwoods/entity/EntityZotzpyre$SwoopingAttackGoal$MovementPhase
+[03Jan2025 16:19:26.135] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[03Jan2025 16:19:26.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[03Jan2025 16:19:26.139] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[03Jan2025 16:19:44.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[03Jan2025 16:20:34.340] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[03Jan2025 16:21:10.943] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[03Jan2025 16:21:59.411] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[03Jan2025 16:22:02.284] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.285] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.285] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.285] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.285] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.285] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.285] [Worker-Main90/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 16:22:02.865] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[03Jan2025 16:22:02.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! 10.036764004587553,0.35193356725125113,-0.5351803247579028
+[03Jan2025 16:22:02.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[03Jan2025 16:22:03.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=947, y=-16, z=203} but found not block entity block Block{minecraft:cobblestone} at location
+[03Jan2025 16:22:03.333] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=947, y=-16, z=203}
+[03Jan2025 16:22:03.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=944, y=-16, z=205} but found not block entity block Block{minecraft:cobblestone} at location
+[03Jan2025 16:22:03.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cobblestone} but failed at location BlockPos{x=944, y=-16, z=205}
+[03Jan2025 16:22:04.468] [Worker-Main77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=247, y=-11, z=-115}
+[03Jan2025 16:22:08.260] [pool-13-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[03Jan2025 16:22:10.892] [Worker-Main77/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[03Jan2025 16:22:51.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10086, l='ServerLevel[world]', x=819.99, y=63.00, z=190.15] died, message: 'Nitwit was blown up by Creepie'
+[03Jan2025 16:23:23.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning
+[03Jan2025 16:23:27.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 16:23:27.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:23:27.340] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:23:29.691] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 16:23:29.691] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:23:29.692] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:23:29.692] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:24:07.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13228, l='ServerLevel[world]', x=305.50, y=73.00, z=69.50]
+[03Jan2025 16:24:09.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13303, l='ServerLevel[world]', x=293.50, y=74.00, z=64.50]
+[03Jan2025 16:24:14.883] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Block'/13469, l='ServerLevel[world]', x=384.50, y=75.00, z=55.50]
+[03Jan2025 16:24:20.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 16:24:20.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:24:20.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:24:20.191] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:24:26.382] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[03Jan2025 16:24:37.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 16:24:37.492] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 16:24:37.492] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:25:11.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/13965, l='ServerLevel[world]', x=813.70, y=64.00, z=194.79] died, message: 'Farmer was slain by Vindicator'
+[03Jan2025 16:25:15.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13967, l='ServerLevel[world]', x=818.24, y=63.00, z=191.16] died, message: 'Unemployed was slain by Vindicator'
+[03Jan2025 16:25:20.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14022, l='ServerLevel[world]', x=825.33, y=63.00, z=191.70] died, message: 'Unemployed was slain by Vindicator'
+[03Jan2025 16:25:27.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was struck by lightning whilst fighting Vindicator
+[03Jan2025 16:26:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Executioner
+[03Jan2025 16:27:08.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/15848, l='ServerLevel[world]', x=800.48, y=63.00, z=188.82] died, message: 'Farmer was blown up by Creepie'
+[03Jan2025 16:27:40.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:27:40.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Jan2025 16:27:40.245] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:28:07.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Creepie Crawly]
+[03Jan2025 16:28:59.113] [Worker-Main90/WARN] [ModernFix/]: The namespace blue_skies contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03Jan2025 16:30:57.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15903, l='ServerLevel[world]', x=835.50, y=69.00, z=153.55] died, message: 'Unemployed was slain by Ravager'
+[03Jan2025 16:31:08.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15933, l='ServerLevel[world]', x=839.32, y=71.00, z=143.70] died, message: 'Unemployed was slain by Inquisitor'
+[03Jan2025 16:32:02.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/15919, l='ServerLevel[world]', x=841.60, y=70.00, z=151.30] died, message: 'Cleric was slain by Inquisitor'
+[03Jan2025 16:32:06.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15904, l='ServerLevel[world]', x=839.59, y=70.48, z=154.39] died, message: 'Unemployed was slain by Griefer'
+[03Jan2025 16:33:05.994] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 16:33:05.994] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
