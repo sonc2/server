@@ -465,6 +465,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-01-03 00:32:53 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/enchantment_transposer": {
     "criteria": {
       "has_items": "2025-01-02 03:59:33 +0000"
@@ -603,6 +609,7 @@
       "minecraft:piglin": "2024-12-31 23:05:42 +0000",
       "minecraft:enderman": "2024-12-31 05:01:41 +0000",
       "minecraft:stray": "2025-01-01 18:11:09 +0000",
+      "minecraft:silverfish": "2025-01-03 00:31:42 +0000",
       "minecraft:zombie": "2024-12-30 18:51:21 +0000",
       "minecraft:drowned": "2024-12-30 19:35:44 +0000",
       "minecraft:zombie_villager": "2024-12-31 04:32:17 +0000"
@@ -1313,6 +1320,12 @@
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-03 00:40:28 +0000"
     },
     "done": true
   },
@@ -2663,7 +2676,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-01-03 00:24:13 +0000"
+      "!bit13": "2025-01-03 00:44:26 +0000",
+      "!bit14": "2025-01-03 00:44:26 +0000",
+      "!bit11": "2025-01-03 00:44:26 +0000",
+      "!bit12": "2025-01-03 00:44:26 +0000",
+      "!bit10": "2025-01-03 00:44:26 +0000",
+      "!bit9": "2025-01-03 00:44:26 +0000",
+      "!bit8": "2025-01-03 00:44:26 +0000",
+      "!bit7": "2025-01-03 00:44:26 +0000",
+      "!bit6": "2025-01-03 00:44:26 +0000",
+      "!bit5": "2025-01-03 00:44:26 +0000",
+      "!bit4": "2025-01-03 00:44:26 +0000",
+      "!bit3": "2025-01-03 00:44:26 +0000",
+      "!bit2": "2025-01-03 00:44:26 +0000",
+      "!bit1": "2025-01-03 00:44:26 +0000",
+      "!bit0": "2025-01-03 00:44:26 +0000"
     },
     "done": false
   },
