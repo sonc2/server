@@ -4246,3 +4246,4 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 20:27:11.038] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [03Jan2025 20:39:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Primal Catalyst]
 [03Jan2025 20:55:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [I Will Take Two]
+[03Jan2025 21:52:27.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
