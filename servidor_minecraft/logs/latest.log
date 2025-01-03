@@ -195,3 +195,34 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [03Jan2025 03:47:51.763] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
 [03Jan2025 03:47:51.763] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [03Jan2025 03:47:51.763] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 03:49:58.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 03:49:58.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 03:49:58.812] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 03:52:32.115] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 03:52:32.116] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 03:52:32.117] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Jan2025 03:52:32.117] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 03:56:30.634] [Worker-Main496/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[03Jan2025 03:56:39.837] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[03Jan2025 03:56:39.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5431ms or 108 ticks behind
+[03Jan2025 03:57:03.304] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[03Jan2025 03:57:04.180] [Worker-Main594/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 03:57:04.188] [Worker-Main594/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 03:57:04.188] [Worker-Main594/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 03:57:04.188] [Worker-Main594/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 03:57:04.189] [Worker-Main594/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 03:57:04.189] [Worker-Main594/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jan2025 03:57:08.344] [Worker-Main496/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=205, y=51, z=204}
+[03Jan2025 03:58:36.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[03Jan2025 04:01:44.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/42738, l='ServerLevel[world]', x=-2067.56, y=65.92, z=3389.43] died, message: 'Nitwit was squashed by jefferson_pad'
+[03Jan2025 04:02:39.267] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 04:02:39.267] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 04:02:39.267] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 04:06:40.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44969, l='ServerLevel[world]', x=-2117.67, y=73.00, z=3422.65] died, message: 'Unemployed hit the ground too hard whilst trying to escape jefferson_pad'
+[03Jan2025 04:07:04.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/44971, l='ServerLevel[world]', x=-2134.73, y=239.75, z=3412.60] died, message: 'Cartographer was slain by jefferson_pad'
+[03Jan2025 04:07:16.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/44984, l='ServerLevel[world]', x=-2168.32, y=65.00, z=3408.72] died, message: 'Farmer hit the ground too hard whilst trying to escape jefferson_pad'
+[03Jan2025 04:07:37.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/44981, l='ServerLevel[world]', x=-2168.99, y=65.00, z=3407.34] died, message: 'Farmer hit the ground too hard whilst trying to escape jefferson_pad'
+[03Jan2025 04:07:50.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/44978, l='ServerLevel[world]', x=-2151.87, y=250.56, z=3400.87] died, message: 'Librarian was slain by jefferson_pad'
+[03Jan2025 04:08:38.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/44983, l='ServerLevel[world]', x=-2178.04, y=72.00, z=3394.73] died, message: 'Cartographer hit the ground too hard whilst trying to escape jefferson_pad'
+[03Jan2025 04:08:49.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/44986, l='ServerLevel[world]', x=-2166.89, y=67.00, z=3383.71] died, message: 'Farmer hit the ground too hard whilst trying to escape jefferson_pad'
+[03Jan2025 04:08:54.278] [Worker-Main496/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
