@@ -4082,3 +4082,12 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 18:24:48.092] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
 [03Jan2025 18:24:48.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [03Jan2025 18:24:48.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 18:25:17.152] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 18:25:17.152] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 18:25:17.152] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 18:25:17.152] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 18:25:29.888] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 18:25:29.889] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 18:25:29.889] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 18:42:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Batteries Not Included]
+[03Jan2025 18:42:26.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
