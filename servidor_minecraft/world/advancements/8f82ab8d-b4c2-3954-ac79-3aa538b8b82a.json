@@ -607,6 +607,7 @@
       "savage_and_ravage:creepie": "2025-01-03 16:27:33 +0000",
       "minecraft:ravager": "2024-12-30 22:17:42 +0000",
       "minecraft:hoglin": "2025-01-01 01:27:46 +0000",
+      "savage_and_ravage:executioner": "2025-01-03 16:29:05 +0000",
       "minecraft:vindicator": "2024-12-30 18:58:24 +0000",
       "minecraft:spider": "2024-12-30 19:35:09 +0000",
       "minecraft:piglin_brute": "2024-12-31 23:10:25 +0000",
@@ -1607,6 +1608,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-03 16:33:34 +0000"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1628,6 +1635,12 @@
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-03 16:33:25 +0000"
     },
     "done": true
   },
@@ -2719,21 +2732,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "!bit13": "2025-01-03 16:28:43 +0000",
-      "!bit14": "2025-01-03 16:28:43 +0000",
-      "!bit11": "2025-01-03 16:28:43 +0000",
-      "!bit12": "2025-01-03 16:28:43 +0000",
-      "!bit10": "2025-01-03 16:28:43 +0000",
-      "!bit9": "2025-01-03 16:28:43 +0000",
-      "!bit8": "2025-01-03 16:28:43 +0000",
-      "!bit7": "2025-01-03 16:28:43 +0000",
-      "!bit6": "2025-01-03 16:28:43 +0000",
-      "!bit5": "2025-01-03 16:28:43 +0000",
-      "!bit4": "2025-01-03 16:28:43 +0000",
-      "!bit3": "2025-01-03 16:28:43 +0000",
-      "!bit2": "2025-01-03 16:28:43 +0000",
-      "!bit1": "2025-01-03 16:28:43 +0000",
-      "!bit0": "2025-01-03 16:28:43 +0000"
+      "target": "2025-01-03 16:38:11 +0000"
     },
     "done": false
   },
