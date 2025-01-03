@@ -77,3 +77,33 @@
 [03Jan2025 00:47:09.465] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
 [03Jan2025 00:47:31.515] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [03Jan2025 00:55:44.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=109, y=-45, z=769} BlockPos{x=109, y=-46, z=769}
+[03Jan2025 00:58:11.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 00:58:11.615] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 00:58:59.414] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 00:58:59.415] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 00:58:59.415] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 00:59:07.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[03Jan2025 00:59:22.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[03Jan2025 01:01:24.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad was slain by Warden
+[03Jan2025 01:01:29.912] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[03Jan2025 01:01:35.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jefferson_pad: Teleported jefferson_pad to 210.500000, -46.500000, 768.500000]
+[03Jan2025 01:01:37.529] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=75, y=-50, z=864} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=south,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[03Jan2025 01:04:19.165] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 01:04:19.166] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:04:19.166] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 01:04:19.166] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:05:04.766] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 01:05:04.766] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 01:05:04.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Jan2025 01:05:04.767] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:05:56.113] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 01:05:56.114] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:05:56.114] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Jan2025 01:05:56.115] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 01:08:49.813] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 01:08:49.814] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:09:42.714] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 01:09:42.715] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:09:42.715] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 01:09:42.715] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 01:12:35.461] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecolonies/api/colony/citizens/event/CitizenAddedEvent$Source
