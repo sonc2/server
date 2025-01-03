@@ -144,6 +144,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:discount_voucher": {
+    "criteria": {
+      "picked_up_accessory": "2025-01-03 20:55:44 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/mega_sponge": {
     "criteria": {
       "has_the_recipe": "2025-01-02 03:59:40 +0000"
