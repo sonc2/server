@@ -4123,3 +4123,55 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 19:04:55.241] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [03Jan2025 19:04:55.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
 [03Jan2025 19:04:55.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:17:09.288] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 19:17:09.288] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 19:17:09.288] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:17:23.888] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[03Jan2025 19:21:20.802] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[03Jan2025 19:21:20.805] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 441fb836: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[03Jan2025 19:21:20.844] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 441fb836: RandomSpreadSearchWorker succeeded with 435 radius, 2 samples
+[03Jan2025 19:23:54.587] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 19:23:54.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:23:54.588] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:24:38.847] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 19:24:38.848] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:24:38.848] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:24:38.848] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 19:24:58.089] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 19:24:58.090] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:24:58.090] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 19:24:58.090] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:25:01.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[03Jan2025 19:25:01.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[03Jan2025 19:25:01.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[03Jan2025 19:25:18.133] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[03Jan2025 19:25:18.173] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[03Jan2025 19:25:18.291] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[03Jan2025 19:25:18.291] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[03Jan2025 19:25:18.332] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[03Jan2025 19:25:18.430] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[03Jan2025 19:25:18.430] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[03Jan2025 19:25:18.430] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[03Jan2025 19:25:18.569] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[03Jan2025 19:25:18.569] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[03Jan2025 19:25:18.707] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[03Jan2025 19:25:18.749] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[03Jan2025 19:25:19.087] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[03Jan2025 19:25:19.087] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[03Jan2025 19:25:19.379] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[03Jan2025 19:25:19.472] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1a31774e
+[03Jan2025 19:25:19.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.48.118.249:55659] logged in with entity id 51940 at (103.52271505166749, 112.85497744377763, 436.7325314330102)
+[03Jan2025 19:25:19.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[03Jan2025 19:25:19.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[03Jan2025 19:25:19.544] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[03Jan2025 19:25:19.544] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[03Jan2025 19:25:19.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[03Jan2025 19:25:19.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[03Jan2025 19:25:19.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[03Jan2025 19:25:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[03Jan2025 19:25:19.695] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[03Jan2025 19:25:19.769] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to jefferson_pad...
+[03Jan2025 19:25:19.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[03Jan2025 19:25:19.770] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[03Jan2025 19:25:19.771] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to jefferson_pad
+[03Jan2025 19:25:35.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/51978, l='ServerLevel[world]', x=99.63, y=110.00, z=430.98] died: Honeyed Archer was slain by jefferson_pad
