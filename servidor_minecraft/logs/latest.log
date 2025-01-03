@@ -4214,3 +4214,21 @@ java.lang.IllegalArgumentException: null
 [03Jan2025 19:49:57.644] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [03Jan2025 19:50:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
 [03Jan2025 19:53:20.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/effects/EntityFallingBlock$EnumFallingBlockMode
+[03Jan2025 19:56:28.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A Bone to Pick]
+[03Jan2025 19:57:32.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 19:57:32.638] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 19:58:31.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/60230, l='ServerLevel[world]', x=274.95, y=-34.00, z=934.51] died: Uzsahe the Endborn was slain by jefferson_pad
+[03Jan2025 19:59:34.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Adventure Time]
+[03Jan2025 20:00:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [From The Shadows]
+[03Jan2025 20:02:28.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! 3.2878043885946227,1.0515260667959865,-9.46052114741633
+[03Jan2025 20:05:57.792] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 20:05:57.793] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 20:05:57.793] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 20:06:01.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_ingot
+[03Jan2025 20:06:01.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
+[03Jan2025 20:06:01.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 20:06:01.538] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Jan2025 20:06:18.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Jan2025 20:06:18.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Jan2025 20:06:18.238] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gem_dust
+[03Jan2025 20:06:18.239] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond

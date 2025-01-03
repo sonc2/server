@@ -183,7 +183,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-30 20:52:01 +0000",
-      "in_better_spider_dungeon": "2024-12-31 05:32:21 +0000"
+      "in_better_spider_dungeon": "2024-12-31 05:32:21 +0000",
+      "in_better_skeleton_dungeon": "2025-01-03 19:56:28 +0000"
     },
     "done": false
   },
@@ -988,6 +989,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-01-03 19:56:28 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -1478,6 +1485,12 @@
       "minecraft:nether_wastes": "2025-01-01 18:49:48 +0000"
     },
     "done": false
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-01-03 20:00:42 +0000"
+    },
+    "done": true
   },
   "minecolonies:minecolonies/fulfill_request": {
     "criteria": {
@@ -2772,7 +2785,21 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-03 19:53:36 +0000"
+      "!bit13": "2025-01-03 19:58:31 +0000",
+      "!bit14": "2025-01-03 19:58:31 +0000",
+      "!bit11": "2025-01-03 19:58:31 +0000",
+      "!bit12": "2025-01-03 19:58:31 +0000",
+      "!bit10": "2025-01-03 19:58:31 +0000",
+      "!bit9": "2025-01-03 19:58:31 +0000",
+      "!bit8": "2025-01-03 19:58:31 +0000",
+      "!bit7": "2025-01-03 19:58:31 +0000",
+      "!bit6": "2025-01-03 19:58:31 +0000",
+      "!bit5": "2025-01-03 19:58:31 +0000",
+      "!bit4": "2025-01-03 19:58:31 +0000",
+      "!bit3": "2025-01-03 19:58:31 +0000",
+      "!bit2": "2025-01-03 19:58:31 +0000",
+      "!bit1": "2025-01-03 19:58:31 +0000",
+      "!bit0": "2025-01-03 19:58:31 +0000"
     },
     "done": false
   },
@@ -3030,6 +3057,12 @@
   "meetyourfight:main/dame_fortuna_summon": {
     "criteria": {
       "get_item": "2025-01-02 06:15:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsaccessories:adventurer_kit": {
+    "criteria": {
+      "picked_up_accessory": "2025-01-03 19:59:34 +0000"
     },
     "done": true
   },
