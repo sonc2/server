@@ -157,3 +157,4 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [03Jan2025 02:04:48.417] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
 [03Jan2025 02:04:48.417] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond
 [03Jan2025 02:08:13.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[03Jan2025 02:37:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Magic Mod Mechanic]
