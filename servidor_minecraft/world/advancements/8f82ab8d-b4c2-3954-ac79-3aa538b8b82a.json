@@ -351,6 +351,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_core_block": "2025-01-03 04:10:28 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:book/accessories/golden_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-30 19:35:03 +0000"
@@ -2694,7 +2700,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "target": "2025-01-03 04:01:49 +0000"
+      "not_target": "2025-01-03 04:16:52 +0000"
     },
     "done": false
   },
