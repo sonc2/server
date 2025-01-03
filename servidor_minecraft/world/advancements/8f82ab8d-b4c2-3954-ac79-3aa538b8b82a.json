@@ -543,6 +543,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-01-03 19:25:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-30 18:51:21 +0000"
