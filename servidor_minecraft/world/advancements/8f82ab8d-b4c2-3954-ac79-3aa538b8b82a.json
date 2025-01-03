@@ -1456,6 +1456,12 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-01-03 03:13:33 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/extradimensional_eye": {
     "criteria": {
       "has_the_recipe": "2025-01-01 18:45:50 +0000"
