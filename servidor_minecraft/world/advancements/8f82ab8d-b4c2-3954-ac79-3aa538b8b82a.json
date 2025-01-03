@@ -2772,7 +2772,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-01-03 19:43:58 +0000"
+      "target": "2025-01-03 19:53:36 +0000"
     },
     "done": false
   },
