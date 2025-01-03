@@ -2700,7 +2700,7 @@
   },
   "incendium:technical/on_hit": {
     "criteria": {
-      "not_target": "2025-01-03 04:16:52 +0000"
+      "target": "2025-01-03 15:38:23 +0000"
     },
     "done": false
   },
