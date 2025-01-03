@@ -817,6 +817,12 @@
     },
     "done": true
   },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-01-03 02:37:26 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-30 22:33:07 +0000"
