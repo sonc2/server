@@ -550,6 +550,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/cosmic_heart": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-30 18:51:21 +0000"
@@ -571,6 +577,12 @@
   "meetyourfight:main/bellringer_summon": {
     "criteria": {
       "get_item": "2025-01-02 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/cosmic_heart": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 20:39:02 +0000"
     },
     "done": true
   },
@@ -674,6 +686,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_shovel": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-03 20:39:02 +0000"
+    },
+    "done": false
+  },
   "vinery:cherry_floorboard": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -696,6 +714,12 @@
     "criteria": {
       "spellstone1": "2025-01-01 18:14:35 +0000",
       "spellstone5": "2025-01-02 00:53:40 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/etherium_sword": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-03 20:39:02 +0000"
     },
     "done": false
   },
@@ -892,6 +916,12 @@
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_scythe": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-03 20:39:02 +0000"
+    },
+    "done": false
   },
   "vinery:grapevine_stem": {
     "criteria": {
@@ -1139,6 +1169,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_pickaxe": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-03 20:39:02 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-12-31 23:13:54 +0000"
@@ -1304,6 +1340,12 @@
       "minecraft:plains": "2024-12-30 22:15:32 +0000"
     },
     "done": false
+  },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
@@ -1510,6 +1552,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/brewing/advanced_brewing": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-30 22:01:18 +0000"
@@ -1669,6 +1717,18 @@
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/astral_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 20:39:02 +0000"
     },
     "done": true
   },
@@ -1928,6 +1988,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/infinimeal": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/cursed_ring": {
     "criteria": {
       "has_items": "2024-12-30 15:58:53 +0000"
@@ -2103,6 +2169,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/astral_dust": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2025-01-01 00:12:59 +0000"
@@ -2135,9 +2207,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-01-01 17:27:51 +0000"
+      "has_parent_recipe": "2025-01-01 17:27:51 +0000",
+      "has_items": "2025-01-03 20:39:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -2276,6 +2349,12 @@
     },
     "done": true
   },
+  "enigmaticaddons:book/misc/astral_potion": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-30 19:59:46 +0000"
@@ -2370,6 +2449,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/etherium_axe": {
+    "criteria": {
+      "has_parent_recipe": "2025-01-03 20:39:02 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
@@ -2399,6 +2484,12 @@
       "crafting_table": "2024-12-30 18:56:38 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_heart": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": false
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
@@ -2500,6 +2591,12 @@
     "criteria": {
       "has_parent_recipe": "2024-12-30 19:07:21 +0000",
       "has_items": "2024-12-30 19:35:03 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_rod": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
     },
     "done": true
   },
@@ -2639,6 +2736,12 @@
   "cisco_mod:divine_ruby_advancement": {
     "criteria": {
       "divine_ruby_advancement": "2024-12-30 21:22:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/astral_potato": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
     },
     "done": true
   },
@@ -2838,6 +2941,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/astral_breaker": {
+    "criteria": {
+      "has_items": "2025-01-03 20:39:02 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2024-12-30 15:58:53 +0000"
@@ -2854,6 +2963,12 @@
   "apotheosis:spawner/nearbyents": {
     "criteria": {
       "modifier": "2025-01-01 19:45:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ender_rod": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 20:39:02 +0000"
     },
     "done": true
   },
@@ -3007,6 +3122,12 @@
   "vinery:grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2024-12-30 15:58:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/astral_dust": {
+    "criteria": {
+      "etherium": "2025-01-03 20:39:02 +0000"
     },
     "done": true
   },
